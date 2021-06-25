@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Städter</title>
+        <author>
+          <persName>
+            <surname>Wolfenstein</surname>
+            <forename>Alfred</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">80</measure>
+        <measure type="sentences">6</measure>
+        <measure type="characters">439</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1914</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/alfred-wolfenstein-staedter,textbearbeitung,117.html">Städter - Alfred Wolfenstein (Interpretation #117)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Städter</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="2|001000201|" enj_k="3" enj="3">Dicht wie die Löcher eines Siebes stehn</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="200010|1020" enj_k="3" enj="3">Fenster beieinander, drängend fassen</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="200010|0020" enj_k="3" enj="3">Häuser sich so dicht an, daß die Straßen</l>
+            <l met="+-|+-|+-|+-|+" rhythm="102000201|" enj_k="5" enj="5">Grau geschwollen wie Gewürgte stehn.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="+-|+-|+-|+-|+" rhythm="002010201|" enj_k="3" enj="3">Ineinander dicht hineingehakt</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="1000200020|" enj_k="5" enj="5">Sitzen in den Trams die zwei Fassaden</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="20|00102010" enj_k="3" enj="5">Leute, ihre nahen Blicke baden</l>
+            <l met="+-|+-|+-|+-|+" rhythm="0020|00102|" enj_k="5" enj="5">Ineinander, ohne Scheu befragt.</l>
+          </lg>
+          <lg rhyme="abc" type="stanza">
+            <l met="+-|+-|+-|+-|+" rhythm="002000102|" enj_k="4" enj="5">Unsre Wände sind so dünn wie Haut,</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="001020|0020|" enj_k="5" enj="5">Daß ein jeder teilnimmt, wenn ich weine.</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="0020|20|0020|" enj_k="5" enj="5">Unser Flüstern, Denken ... wird Gegröle ...</l>
+          </lg>
+          <lg rhyme="abc" type="stanza">
+            <l met="+-|+-|+-|+-|+-|" rhythm="0020101020|" enj_k="3" enj="3">- Und wie still in dick verschlossner Höhle</l>
+            <l met="+-|+-|+-|+-|+" rhythm="010020102|" enj_k="3" enj="3">Ganz unangerührt und ungeschaut</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="0020102|020|" enj_k="5" enj="5">Steht ein jeder fern und fühlt: alleine</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

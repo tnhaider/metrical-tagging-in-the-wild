@@ -1,0 +1,115 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grenzen der Menschheit</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-10, 2-10, 3-8, 4-8, 5-6</measure>
+        <measure type="tokens">130</measure>
+        <measure type="sentences">7</measure>
+        <measure type="characters">682</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1813</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-grenzen-der-menschheit,textbearbeitung,223.html">Grenzen der Menschheit - Johann Wolfgang von Goethe (Interpretation #223)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Weimarer Klassik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grenzen der Menschheit</head>
+          <lg rhyme="abcdefghij" type="stanza">
+            <l met="+--|+-|" rhythm="00200|" enj_k="2_NP">Wenn der uralte,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Heilige Vater</l>
+            <l met="--+|--+|" rhythm="001002|" enj_k="3">Mit gelassener Hand</l>
+            <l met="-|+--|+-|" rhythm="010020|" enj_k="3">Aus rollenden Wolken</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Segnende Blitze</l>
+            <l met="+--|+-|+" rhythm="000201|" enj_k="4">Über die Erde sät</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="2_NP">Küss ich den letzten</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Saum seines Kleides,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Kindliche Schauer</l>
+            <l met="+--|+" rhythm="1002|" enj_k="5">Treu in der Brust.</l>
+          </lg>
+          <lg rhyme="abcdefghij" type="stanza">
+            <l met="+-|+-|" rhythm="1020|" enj_k="3">Denn mit Göttern</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Soll sich nicht messen</l>
+            <l met="+--|+" rhythm="1002|" enj_k="5">Irgend ein Mensch.</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="4">Hebt er sich aufwärts</l>
+            <l met="+-|+" rhythm="102" enj_k="3">Und berührt</l>
+            <l met="+-|+--|+-|" rhythm="1010020|" enj_k="4">Mit dem Scheitel die Sterne,</l>
+            <l met="+-|+-|+" rhythm="10200|" enj_k="3">Nirgends haften dann</l>
+            <l met="-|+--|+-|" rhythm="010020|" enj_k="4">Die unsichern Sohlen,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Und mit ihm spielen</l>
+            <l met="+--|+-|" rhythm="20020|" enj_k="5">Wolken und Winde.</l>
+          </lg>
+          <lg rhyme="abcdefgf" type="stanza">
+            <l met="+--|+-|" rhythm="10020|" enj_k="2_NP">Steht er mit festen,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Markigen Knochen</l>
+            <l met="+-|+-|+--|" rhythm="0010200|" enj_k="2_NP">Auf der wohlgegründeten</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="4">Dauernden Erde,</l>
+            <l met="+--|+" rhythm="1002|" enj_k="3">Reicht er nicht auf,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Nur mit der Eiche</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Oder der Rebe</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="5">Sich zu vergleichen.</l>
+          </lg>
+          <lg rhyme="abcdeccf" type="stanza">
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Was underscheidet</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="5">Götter von Menschen?</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Daß viele Wellen</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="5">Vor jenen wandeln,</l>
+            <l met="-|+--|+" rhythm="01002|" enj_k="5">Ein ewiger Strom:</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="4">Uns hebt die Welle,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="4">Verschlingt die Welle,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="5">Und wir versinken.</l>
+          </lg>
+          <lg rhyme="abcdef" type="stanza">
+            <l met="+--|+" rhythm="1002|" enj_k="3">Ein kleiner Ring</l>
+            <l met="-|+--|+-|" rhythm="010020|" enj_k="4">Begrenzt unser Leben,</l>
+            <l met="-|+--|+-|" rhythm="010020" enj_k="3">Und viele Geschlechter</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3">Reihen sie dauernd,</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="2_NP">An ihres Daseins</l>
+            <l met="-|+--|+-|" rhythm="010020|" enj_k="5">Unendliche Kette.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

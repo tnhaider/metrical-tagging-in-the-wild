@@ -1,0 +1,79 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nachts</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-6, 2-6</measure>
+        <measure type="tokens">65</measure>
+        <measure type="sentences">2</measure>
+        <measure type="characters">307</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/joseph-von-eichendorff-nachts,textbearbeitung,262.html">Nachts - Joseph von Eichendorff (Interpretation #262)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Romantik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nachts</head>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02000102|" enj_k="4">Ich wandre durch die stille Nacht,</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="3">Da schleicht der Mond so heimlich sacht</l>
+            <l met="-+|-+|-+|-+|-" rhythm="100102010|" enj_k="4">Oft aus der dunklen Wolkenhülle,</l>
+            <l met="-+|-+|-+|" rhythm="010102|" enj_k="3">Und hin und her im Tal</l>
+            <l met="-+|-+|-+|" rhythm="010201|" enj_k="5">Erwacht die Nachtigall,</l>
+            <l met="-+|-+|-+|-+|-" rhythm="010001020|" enj_k="5">Dann wieder alles grau und stille.</l>
+          </lg>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02000201|" enj_k="5">O wunderbarer Nachtgesang:</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010201|" enj_k="3">Von fern im Land der Ströme Gang,</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020001020|" enj_k="4">Leis Schauern in den dunklen Bäumen -</l>
+            <l met="-+|-+|-+|" rhythm="100200|" enj_k="4">Wirrst die Gedanken mir,</l>
+            <l met="-+|-+|-+|" rhythm="010201|" enj_k="3">Mein irres Singen hier</l>
+            <l met="-+|-+|-+|-+|-" rhythm="000200020|" enj_k="5">Ist wie ein Rufen nur aus Träumen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

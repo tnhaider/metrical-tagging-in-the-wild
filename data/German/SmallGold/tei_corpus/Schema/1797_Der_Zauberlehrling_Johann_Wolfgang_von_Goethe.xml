@@ -1,0 +1,189 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Zauberlehrling</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">14</measure>
+        <measure type="verses">98</measure>
+        <measure type="verses_per_stanza">1-8, 2-6, 3-8, 4-6, 5-8, 6-6, 7-8, 8-6, 9-8, 10-6, 11-8, 12-6, 13-8, 14-6</measure>
+        <measure type="tokens">405</measure>
+        <measure type="sentences">64</measure>
+        <measure type="characters">1967</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1797</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-der-zauberlehrling,textbearbeitung,422.html">Der Zauberlehrling - Johann Wolfgang von Goethe (Interpretation #422)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Weimarer Klassik</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Zauberlehrling</head>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20102010|" enj_k="3">Hat der alte Hexenmeister</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="4">Sich doch einmal wegbegeben!</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Und nun sollen seine Geister</l>
+            <l met="+-|+-|+-|+-|" rhythm="10201020|" enj_k="5">Auch nach meinem Willen leben.</l>
+            <l met="+-|+-|+-|" rhythm="002020" enj_k="3">Seine Wort' und Werke</l>
+            <l met="+-|+-|+" rhythm="20002|" enj_k="4">Merkt ich und den Brauch,</l>
+            <l met="+-|+-|+-|" rhythm="002010" enj_k="3">Und mit Geistesstärke</l>
+            <l met="+-|+-|+" rhythm="00200|" enj_k="5">Tu ich Wunder auch.</l>
+          </lg>
+          <lg rhyme="abbcac" type="stanza">
+            <l met="+-|+-|" rhythm="20|20|" enj_k="3">Walle! walle</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="4">Manche Strecke,</l>
+            <l met="+-|+-|" rhythm="0020" enj_k="3">Daß, zum Zwecke,</l>
+            <l met="+-|+-|" rhythm="2010|" enj_k="4">Wasser fließe</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|1020|" enj_k="3">Und mit reichem, vollem Schwalle</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020" enj_k="5">Zu dem Bade sich ergieße.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="002|01020|" enj_k="5">Und nun komm, du alter Besen!</l>
+            <l met="+-|+-|+-|+-|" rhythm="20102010|" enj_k="5">Nimm die schlechten Lumpenhüllen;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="5">Bist schon lange Knecht gewesen:</l>
+            <l met="+-|+-|+-|+-|" rhythm="10202010|" enj_k="5">Nun erfülle meinen Willen!</l>
+            <l met="+-|+-|+-|" rhythm="001020|" enj_k="5">Auf zwei Beinen stehe,</l>
+            <l met="+-|+-|+" rhythm="10002|" enj_k="5">Oben sei ein Kopf,</l>
+            <l met="+-|+-|+-|" rhythm="100020" enj_k="3">Eile nun und gehe</l>
+            <l met="+-|+-|+" rhythm="00201|" enj_k="5">Mit dem Wassertopf!</l>
+          </lg>
+          <lg rhyme="abbcac" type="stanza">
+            <l met="+-|+-|" rhythm="20|20|" enj_k="3">Walle! walle</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="4">Manche Strecke,</l>
+            <l met="+-|+-|" rhythm="0020" enj_k="3">Daß, zum Zwecke,</l>
+            <l met="+-|+-|" rhythm="2010|" enj_k="4">Wasser fließe</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|1020|" enj_k="3">Und mit reichem, vollem Schwalle</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="5">Zu dem Bade sich ergieße.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="2|0102010|" enj_k="5">Seht, er läuft zum Ufer nieder,</l>
+            <l met="+-|+-|+-|+-|" rhythm="20|100020|" enj_k="4">Wahrlich! ist schon an dem Flusse,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Und mit Blitzesschnelle wieder</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="5">Ist er hier mit raschem Gusse.</l>
+            <l met="+-|+-|+-|" rhythm="002010|" enj_k="5">Schon zum zweiten Male!</l>
+            <l met="+-|+-|+" rhythm="00102|" enj_k="5">Wie das Becken schwillt!</l>
+            <l met="+-|+-|+-|" rhythm="000020" enj_k="3">Wie sich jede Schale</l>
+            <l met="+-|+-|+" rhythm="10201|" enj_k="5">Voll mit Wasser füllt!</l>
+          </lg>
+          <lg rhyme="abbcac" type="stanza">
+            <l met="+-|+-|" rhythm="20|20|" enj_k="5">Stehe! stehe!</l>
+            <l met="+-|+-|" rhythm="0020|" enj_k="3">Denn wir haben</l>
+            <l met="+-|+-|" rhythm="0020" enj_k="3">Deiner Gaben</l>
+            <l met="+-|+-|" rhythm="2010|" enj_k="5">Vollgemessen! –</l>
+            <l met="+-|+-|+-|+-|" rhythm="2|020|20|20|" enj_k="5">Ach, ich merk es! Wehe! wehe!</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002010|" enj_k="5">Hab ich doch das Wort vergessen!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="2|02|01020" enj_k="3">Ach, das Wort, worauf am Ende</l>
+            <l met="+-|+-|+-|+-|" rhythm="002|00020|" enj_k="5">Er das wird, was er gewesen.</l>
+            <l met="+-|+-|+-|+-|" rhythm="2|0201020|" enj_k="5">Ach, er läuft und bringt behende!</l>
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="5">Wärst du doch der alte Besen!</l>
+            <l met="+-|+-|+-|" rhythm="102020|" enj_k="3">Immer neue Güsse</l>
+            <l met="+-|+-|+" rhythm="20102|" enj_k="5">Bringt er schnell herein,</l>
+            <l met="+-|+-|+-|" rhythm="2|01020|" enj_k="3">Ach! und hundert Flüsse</l>
+            <l met="+-|+-|+" rhythm="20001|" enj_k="5">Stürzen auf mich ein.</l>
+          </lg>
+          <lg rhyme="abbcac" type="stanza">
+            <l met="+-|+-|" rhythm="2|020" enj_k="3">Nein, nicht länger</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="5">Kann ichs lassen;</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="5">Will ihn fassen.</l>
+            <l met="+-|+-|" rhythm="0020|" enj_k="5">Das ist Tücke!</l>
+            <l met="+-|+-|+-|+-|" rhythm="2|0100020|" enj_k="5">Ach! nun wird mir immer bänger!</l>
+            <l met="+-|+-|+-|+-|" rhythm="1020|1020|" enj_k="5">Welche Miene! welche Blicke!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="10201020|" enj_k="5">O, du Ausgeburt der Hölle!</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002010|" enj_k="5">Soll das ganze Haus ersaufen?</l>
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="3">Seh ich über jede Schwelle</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="5">Doch schon Wasserströme laufen.</l>
+            <l met="+-|+-|+-|" rhythm="001020|" enj_k="cc_4">Ein verruchter Besen,</l>
+            <l met="+-|+-|+" rhythm="00201|" enj_k="5">Der nicht hören will!</l>
+            <l met="+-|+-|+-|" rhythm="2|00020|" enj_k="3">Stock, der du gewesen,</l>
+            <l met="+-|+-|+" rhythm="20102|" enj_k="5">Steh doch wieder still!</l>
+          </lg>
+          <lg rhyme="abbcac" type="stanza">
+            <l met="+-|+-|" rhythm="1020" enj_k="3">Willsts am Ende</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="5">Gar nicht lassen?</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="5">Will dich fassen,</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="4">Will dich halten</l>
+            <l met="+-|+-|+-|+-|" rhythm="00101020" enj_k="3">Und das alte Holz behende</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="5">Mit dem scharfen Beile spalten.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="2|0201020|" enj_k="5">Seht, da kommt er schleppend wieder!</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002010|" enj_k="5">Wie ich mich nur auf dich werfe,</l>
+            <l met="+-|+-|+-|+-|" rhythm="2|020|1020|" enj_k="5">Gleich, o Kobold, liegst du nieder;</l>
+            <l met="+-|+-|+-|+-|" rhythm="10201020|" enj_k="5">Krachend trifft die glatte Schärfe.</l>
+            <l met="+-|+-|+-|" rhythm="20|1020|" enj_k="5">Wahrlich! brav getroffen!</l>
+            <l met="+-|+-|+" rhythm="2|0002|" enj_k="5">Seht, er ist entzwei!</l>
+            <l met="+-|+-|+-|" rhythm="001020|" enj_k="4">Und nun kann ich hoffen,</l>
+            <l met="+-|+-|+" rhythm="00102|" enj_k="5">Und ich atme frei!</l>
+          </lg>
+          <lg rhyme="abbcac" type="stanza">
+            <l met="+-|+-|" rhythm="20|20|" enj_k="5">Wehe! wehe!</l>
+            <l met="+-|+-|" rhythm="1020" enj_k="3">Beide Teile</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="3">Stehn in Eile</l>
+            <l met="+-|+-|" rhythm="1020" enj_k="3">Schon als Knechte</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="5">Völlig fertig in die Höhe!</l>
+            <l met="+-|+-|+-|+-|" rhythm="201|01020|" enj_k="5">Helft mir, ach! ihr hohen Mächte!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="0020|1020" enj_k="3">Und sie laufen! Naß und nässer.</l>
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="5">Wirds im Saal und auf den Stufen.</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="5">Welch entsetzliches Gewässer!</l>
+            <l met="+-|+-|+-|+-|" rhythm="1020|1020|" enj_k="5">Herr und Meister! hör mich rufen! –</l>
+            <l met="+-|+-|+-|" rhythm="2|01020|" enj_k="5">Ach, da kommt der Meister!</l>
+            <l met="+-|+-|+" rhythm="2|0102|" enj_k="5">Herr, die Not ist groß!</l>
+            <l met="+-|+-|+-|" rhythm="002|020" enj_k="3">Die ich rief, die Geister</l>
+            <l met="+-|+-|+" rhythm="10002|" enj_k="5">Werd ich nun nicht los.</l>
+          </lg>
+          <lg rhyme="abbcac" type="stanza">
+            <l met="+-|+-|" rhythm="0020|" enj_k="5">»In die Ecke,</l>
+            <l met="+-|+-|" rhythm="20|20|" enj_k="5">Besen! Besen!</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="5">Seids gewesen.</l>
+            <l met="+-|+-|" rhythm="0020" enj_k="3">Denn als Geister</l>
+            <l met="+-|+-|+-|+-|" rhythm="201|00020" enj_k="3">Ruft euch nur, zu seinem Zwecke,</l>
+            <l met="+-|+-|+-|+-|" rhythm="10001020|" enj_k="5">Erst hervor der alte Meister.«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hälfte des Lebens</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-7, 2-7</measure>
+        <measure type="tokens">58</measure>
+        <measure type="sentences">3</measure>
+        <measure type="characters">274</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1805</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/friedrich-hoelderlin-haelfte-des-lebens,textbearbeitung,32.html">Hälfte des Lebens - Friedrich Hölderlin (Interpretation #32)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Weimarer Klassik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Hälfte des Lebens</head>
+          <lg rhyme="abcdefg" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0102020|" enj_k="2_NP.KO">Mit gelben Birnen hänget</l>
+            <l met="-+|-+|-+|-" rhythm="0101020|" enj_k="3">Und voll mit wilden Rosen</l>
+            <l met="-+|--+|" rhythm="02002|" enj_k="5">Das Land in den See,</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="5">Ihr holden Schwäne,</l>
+            <l met="-+|--+|-" rhythm="010020|" enj_k="3">Und trunken von Küssen</l>
+            <l met="-+|-+|" rhythm="1002|" enj_k="3">Tunkt ihr das Haupt</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">Ins heilignüchterne Wasser.</l>
+          </lg>
+          <lg rhyme="abcdefg" type="stanza">
+            <l met="-+|-+|-+|" rhythm="20|020|0" enj_k="3">Weh mir, wo nehm’ ich, wenn</l>
+            <l met="-+|-+|-+|--+|" rhythm="0200|020|01" enj_k="3">Es Winter ist, die Blumen, und wo</l>
+            <l met="-+|-+|" rhythm="0201|" enj_k="2_NP.KO">Den Sonnenschein,</l>
+            <l met="-+|--+|-" rhythm="010020|" enj_k="5">Und Schatten der Erde?</l>
+            <l met="-+|-+|" rhythm="0201" enj_k="3">Die Mauern stehn</l>
+            <l met="+--+|-+|-" rhythm="2002|020" enj_k="3">Sprachlos und kalt, im Winde</l>
+            <l met="+--+|-" rhythm="10020|" enj_k="5">Klirren die Fahnen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

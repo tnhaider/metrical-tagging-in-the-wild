@@ -1,0 +1,90 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Heidenröslein / Heideröslein</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">21</measure>
+        <measure type="verses_per_stanza">1-7, 2-7, 3-7</measure>
+        <measure type="tokens">103</measure>
+        <measure type="sentences">7</measure>
+        <measure type="characters">494</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1789</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-heidenroeslein,textbearbeitung,401.html">Heidenröslein - Johann Wolfgang von Goethe (Interpretation #401)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Heidenröslein / Heideröslein</head>
+          <lg rhyme="abaabcb" type="stanza">
+            <l met="+-|+-|+-|+" rhythm="1020201|" enj_k="5">Sah ein Knab’ ein Röslein stehn,</l>
+            <l met="+-|+-|+-|" rhythm="100020|" enj_k="5">Röslein auf der Heiden,</l>
+            <l met="+-|+-|+-|+" rhythm="0020101|" enj_k="5">War so jung und morgenschön,</l>
+            <l met="+-|+-|+-|+" rhythm="1020201|" enj_k="5">Lief er schnell es nah zu sehn,</l>
+            <l met="+-|+-|+-|" rhythm="10020|" enj_k="5">Sah’s mit vielen Freuden.</l>
+            <l met="+-|+-|+-|+" rhythm="20|20|201|" enj_k="5">Röslein, Röslein, Röslein roth,</l>
+            <l met="+-|+-|+-|" rhythm="200020|" enj_k="5">Röslein auf der Heiden.</l>
+          </lg>
+          <lg rhyme="abaabcb" type="stanza">
+            <l met="+-|+-|+-|+" rhythm="102|0200|" enj_k="3">Knabe sprach: ich breche dich,</l>
+            <l met="+-|+-|+-|" rhythm="100020|" enj_k="5">Röslein auf der Heiden!</l>
+            <l met="+-|+-|+-|+" rhythm="201|0200|" enj_k="4">Röslein sprach: ich steche dich,</l>
+            <l met="+-|+-|+-|+" rhythm="0010200|" enj_k="4">Daß du ewig denkst an mich,</l>
+            <l met="+-|+-|+-|" rhythm="001020|" enj_k="5">Und ich will’s nicht leiden.</l>
+            <l met="+-|+-|+-|+" rhythm="20|20|201|" enj_k="5">Röslein, Röslein, Röslein roth,</l>
+            <l met="+-|+-|+-|" rhythm="200020" enj_k="5">Röslein auf der Heiden.</l>
+          </lg>
+          <lg rhyme="abaabcb" type="stanza">
+            <l met="+-|+-|+-|+" rhythm="0010202|" enj_k="3">Und der wilde Knabe brach</l>
+            <l met="+-|+-|+-|" rhythm="100020|" enj_k="5">’s Röslein auf der Heiden;</l>
+            <l met="+-|+-|+-|+" rhythm="1020002|" enj_k="4">Röslein wehrte sich und stach,</l>
+            <l met="+-|+-|+-|+" rhythm="1000202|" enj_k="4">Half ihm doch kein Weh und Ach,</l>
+            <l met="+-|+-|+-|" rhythm="100020|" enj_k="5">Mußt’ es eben leiden.</l>
+            <l met="+-|+-|+-|+" rhythm="20|20|201|" enj_k="5">Röslein, Röslein, Röslein roth,</l>
+            <l met="+-|+-|+-|" rhythm="200020|" enj_k="5">Röslein auf der Heiden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

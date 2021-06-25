@@ -1,0 +1,75 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sturmangriff</title>
+        <author>
+          <persName>
+            <surname>Stramm</surname>
+            <forename>August</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">10</measure>
+        <measure type="verses_per_stanza">1-10</measure>
+        <measure type="tokens">24</measure>
+        <measure type="sentences">2</measure>
+        <measure type="characters">132</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1914</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/august-stramm-sturmangriff,textbearbeitung,16.html">Sturmangriff - August Stramm (Interpretation #16)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Sturmangriff</head>
+          <lg rhyme="abcdefghii" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020102010|" enj_k="3" enj="3">Aus allen Winkeln gellen Fürchte Wollen</l>
+            <l met="+" rhythm="2|" enj_k="2" enj="3">Kreisch</l>
+            <l met="-" rhythm="2" enj_k="3" enj="3">Peitscht</l>
+            <l met="-+|-" rhythm="020" enj_k="3" enj="3">Das Leben</l>
+            <l met="-" rhythm="1"  enj_k="2" enj="3">Vor</l>
+            <l met="-" rhythm="1"  enj_k="2" enj="3">Sich</l>
+            <l met="+" rhythm="1|"  enj_k="2" enj="3">Her</l>
+            <l met="-+|-+|" rhythm="0102|"  enj_k="3" enj="3">Den keuchen Tod</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="5" enj="5">Die Himmel fetzen.</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="1020100020|" enj_k="5" enj="5">Blinde schlächtert wildum das Entsetzen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Grodek</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">17</measure>
+        <measure type="verses_per_stanza">1-17</measure>
+        <measure type="tokens">109</measure>
+        <measure type="sentences">5</measure>
+        <measure type="characters">614</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1914</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-trakl-grodek,textbearbeitung,115.html">Grodek - Georg Trakl (Interpretation #115)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Grodek</head>
+          <lg rhyme="abcdefghijklmnopq" type="stanza">
+            <l met="-+|-+|--+|--+|-" rhythm="02010010020" enj_k="3" enj="5">Am Abend tönen die herbstlichen Wälder</l>
+            <l met="-+|--+|--+|-+|--|" rhythm="010020|010200|" enj_k="3" enj="3">Von tötlichen Waffen, die goldnen Ebenen</l>
+            <l met="-+|-+|-+|--+|-" rhythm="01020|010020" enj_k="3" enj="3">Und blauen Seen, darüber die Sonne</l>
+            <l met="+-|+-|-+|-+|" rhythm="1020|0102|" enj_k="3" enj="3">Düster hinrollt; umfängt die Nacht</l>
+            <l met="+--|+--|+-|+-|" rhythm="10020|01020" enj_k="2_NP" enj="3">Sterbende Krieger, die wilde Klage</l>
+            <l met="+--|+--|+-|" rhythm="00010020|" enj_k="5" enj="5">Ihrer zerbrochenen Münder.</l>
+            <l met="-+|-+|--+|-+|" rhythm="010100201|" enj_k="3" enj="3">Doch stille sammelt im Weidengrund</l>
+            <l met="+--+|-+|-+|--+|-" rhythm="1002|01010021|" enj_k="4" enj="5">Rotes Gewölk, darin ein zürnender Gott wohnt,</l>
+            <l met="--+|-+|-+|-+|-" rhythm="001020|1020|" enj_k="5" enj="5">Das vergossne Blut sich, mondne Kühle;</l>
+            <l met="--+|-+|--+|--+|-" rhythm="002020010020|" enj_k="5" enj="5">Alle Straßen münden in schwarze Verwesung.</l>
+            <l met="--+|--+|-+|-+|-" rhythm="00100102020|" enj_k="3" enj="3">Unter goldnem Gezweig der Nacht und Sternen</l>
+            <l met="-+|-+|-+|-+|-+|--+|" rhythm="0201020|001002|" enj_k="4" enj="5">Es schwankt der Schwester Schatten durch den schweigenden Hain,</l>
+            <l met="-+|--+|--+|--+|--+|-" rhythm="020|010020|010020|" enj_k="5" enj="5">Zu grüßen die Geister der Helden, die blutenden Häupter;</l>
+            <l met="-+|-+|--+|-+|-+|--+|-" rhythm="010200201010020|" enj_k="5" enj="5">Und leise tönen im Rohr die dunkeln Flöten des Herbstes.</l>
+            <l met="-+|--+|--+|-+|-+|-" rhythm="010020|0100020|" enj_k="3" enj="3">O stolzere Trauer! ihr ehernen Altäre,</l>
+            <l met="-+|-+|--+|-+|--+|-+|--+|" rhythm="01020020|100001002" enj_k="3" enj="5">Die heiße Flamme des Geistes nährt heute ein gewaltiger Schmerz,</l>
+            <l met="-+|-+|-+|-" rhythm="0100020|" enj_k="5" enj="5">Die ungebornen Enkel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

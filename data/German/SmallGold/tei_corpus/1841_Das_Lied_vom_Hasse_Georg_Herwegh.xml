@@ -1,0 +1,103 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Das Lied vom Hasse</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8, 2-8, 3-8, 4-8</measure>
+        <measure type="tokens">165</measure>
+        <measure type="sentences">7</measure>
+        <measure type="characters">800</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-herwegh-das-lied-vom-hasse,textbearbeitung,211.html">Das Lied vom Hasse - Georg Herwegh (Interpretation #211)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">VormärzBiedermeierJunges Deutschland</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Das Lied vom Hasse</head>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="02|02|00102|" enj_k="3">Wohlauf, wohlauf, über Berg und Fluß</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Dem Morgenrot entgegen,</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="4">Dem treuen Weib den letzten Kuß,</l>
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="5">Und dann zum treuen Degen!</l>
+            <l met="-+|-+|-+|-+|" rhythm="00010201|" enj_k="4">Bis unsre Hand in Asche stiebt,</l>
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="5">Soll sie vom Schwert nicht lassen;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01010201|" enj_k="4">Wir haben lang genug geliebt,</l>
+            <l met="-+|-+|-+|-" rhythm="0101020|" enj_k="5">Und wollen endlich hassen!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="01000201|" enj_k="4">Die Liebe kann uns helfen nicht,</l>
+            <l met="-+|-+|-+|-" rhythm="0200020|" enj_k="5">Die Liebe nicht erretten;</l>
+            <l met="-+|-+|-+|-+|" rhythm="02|02|0102|" enj_k="4">Halt du, o Haß, dein jüngst Gericht,</l>
+            <l met="-+|-+|-+|-" rhythm="02|02|020|" enj_k="5">Brich du, o Haß, die Ketten!</l>
+            <l met="-+|-+|-+|-+|" rhythm="01000201|" enj_k="4">Und wo es noch Tyrannen gibt,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Die laßt uns keck erfassen;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01010201|" enj_k="4">Wir haben lang genug geliebt,</l>
+            <l met="-+|-+|-+|-" rhythm="0100020|" enj_k="5">Und wollen endlich hassen!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="000201|02" enj_k="3">Wer noch ein Herz besitzt, dem soll's</l>
+            <l met="-+|-+|-+|-" rhythm="0200010|" enj_k="5">Im Hasse nur sich rühren;</l>
+            <l met="-+|-+|-+|-+|" rhythm="10020102|" enj_k="4">Allüberall ist dürres Holz,</l>
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="5">Um unsre Glut zu schüren.</l>
+            <l met="-+|-+|-+|-+|" rhythm="00010002|" enj_k="4">Die ihr der Freiheit noch verbliebt,</l>
+            <l met="-+|-+|-+|-" rhythm="2001020|" enj_k="5">Singt durch die deutschen Straßen:</l>
+            <l met="-+|-+|-+|-+|" rhythm="01010201|" enj_k="4">»Ihr habet lang genug geliebt,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">O lernet endlich hassen!«</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02000201|" enj_k="3">Bekämpfet sie ohn' Unterlaß,</l>
+            <l met="-+|-+|-+|-" rhythm="0102020|" enj_k="4">Die Tyrannei auf Erden,</l>
+            <l met="-+|-+|-+|-+|" rhythm="02000002|" enj_k="3">Und heiliger wird unser Haß,</l>
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="5">Als unsre Liebe, werden.</l>
+            <l met="-+|-+|-+|-+|" rhythm="00010201|" enj_k="4">Bis unsre Hand in Asche stiebt,</l>
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="5">Soll sie vom Schwert nicht lassen;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01010201|" enj_k="4">Wir haben lang genug geliebt,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Und wollen endlich hassen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

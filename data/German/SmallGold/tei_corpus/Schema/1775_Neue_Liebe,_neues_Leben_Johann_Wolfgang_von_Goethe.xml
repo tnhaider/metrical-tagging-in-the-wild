@@ -1,0 +1,93 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Neue Liebe, neues Leben</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-8, 2-8, 3-8</measure>
+        <measure type="tokens">119</measure>
+        <measure type="sentences">12</measure>
+        <measure type="characters">590</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1775</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-neue-liebe-neues-leben-new-love-new-life,textbearbeitung,436.html"> Neue Liebe, neues Leben (New Love, New Life) - Johann Wolfgang von Goethe (English Translation, Interpretation #436)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Neue Liebe, neues Leben</head>
+          <lg rhyme="ababccdd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="2|02|01020|" enj_k="5">Herz, mein Herz, was soll das geben?</l>
+            <l met="+-|+-|+-|+" rhythm="0020001|" enj_k="5">Was bedränget dich so sehr?</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|1020|" enj_k="5">Welch ein fremdes, neues Leben!</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="5">Ich erkenne dich nicht mehr.</l>
+            <l met="+-|+-|+-|+-|" rhythm="0010|0020|" enj_k="5">Weg ist alles, was du liebtest,</l>
+            <l met="+-|+-|+-|+-|" rhythm="2|0100020|" enj_k="5">Weg, warum du dich betrübtest,</l>
+            <l met="+-|+-|+-|+" rhythm="002|0002|" enj_k="5">Weg dein Fleiß und deine Ruh –</l>
+            <l met="+-|+-|+-|+" rhythm="2|020001|" enj_k="5">Ach, wie kamst du nur dazu!</l>
+          </lg>
+          <lg rhyme="ababccdd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="200|02010|" enj_k="3">Fesselt dich die Jugendblüte,</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" enj_k="3">Diese liebliche Gestalt,</l>
+            <l met="+-|+-|+-|+-|" rhythm="002|01020|" enj_k="3">Dieser Blick voll Treu und Güte</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" enj_k="5">Mit unendlicher Gewalt?</l>
+            <l met="+-|+-|+-|+-|" rhythm="002|00020|" enj_k="4">Will ich rasch mich ihr entziehen,</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|0020|" enj_k="4">Mich ermannen, ihr entfliehen,</l>
+            <l met="+-|+-|+-|+" rhythm="200|0201|" enj_k="3">Führet mich im Augenblick,</l>
+            <l met="+-|+-|+-|+" rhythm="2|010002|" enj_k="5">Ach, mein Weg zu ihr zurück.</l>
+          </lg>
+          <lg rhyme="ababccdd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00002010|" enj_k="cc_4">Und an diesem Zauberfädchen,</l>
+            <l met="+-|+-|+-|+" rhythm="0000201|" enj_k="4">Das sich nicht zerreißen lässt,</l>
+            <l met="+-|+-|+-|+-|" rhythm="10201020|" enj_k="3">Hält das liebe lose Mädchen</l>
+            <l met="+-|+-|+-|+" rhythm="0010202|" enj_k="5">Mich so wider Willen fest;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00002010|" enj_k="3">Muss in ihrem Zauberkreise</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002010|" enj_k="5">Leben nun auf ihre Weise.</l>
+            <l met="+-|+-|+-|+" rhythm="0020|1|02|" enj_k="5">Die Verändrung, ach, wie groß!</l>
+            <l met="+-|+-|+-|+" rhythm="20|20|102|" enj_k="5">Liebe! Liebe! Lass mich los!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Raben</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4</measure>
+        <measure type="tokens">79</measure>
+        <measure type="sentences">3</measure>
+        <measure type="characters">383</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-trakl-die-raben,textbearbeitung,348.html">Die Raben - Georg Trakl (Interpretation #348)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Raben</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="+-|-+|-+|-+|-" rhythm="000102020" enj_k="3" enj="3">Über den schwarzen Winkel hasten</l>
+            <l met="-+|--+|--+|-+|" rhythm="0200200102|" enj_k="5" enj="5">Am Mittag die Raben mit hartem Schrei.</l>
+            <l met="-+|-+|--+|--+|" rhythm="0102002000|" enj_k="4" enj="5">Ihr Schatten streift an der Hirschkuh vorbei</l>
+            <l met="-+|-+|--+|-+|-" rhythm="0101001020|" enj_k="5" enj="5">Und manchmal sieht man sie mürrisch rasten.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|--+|-+|-+|-" rhythm="2|000102010|" enj_k="cc_5" enj="5">O wie sie die braune Stille stören,</l>
+            <l met="-+|-+|-+|-+|" rhythm="00010002|" enj_k="4" enj="5">In der ein Acker sich verzückt,</l>
+            <l met="--+|-+|-+|--+|" rhythm="002|0102001|" enj_k="4" enj="5">Wie ein Weib, das schwere Ahnung berückt,</l>
+            <l met="-+|-+|--+|-+|-" rhythm="0100002010" enj_k="3" enj="5">Und manchmal kann man sie keifen hören</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="--+|--+|--+|-" rhythm="002|0010020|" enj_k="4" enj="5">Um ein Aas, das sie irgendwo wittern,</l>
+            <l met="-+|-+|--+|--+|" rhythm="0201002001|" enj_k="4" enj="5">Und plötzlich richten nach Nord sie den Flug</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|00201|" enj_k="3" enj="5">Und schwinden wie ein Leichenzug</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020|001020|" enj_k="5" enj="5">In Lüften, die von Wollust zittern.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

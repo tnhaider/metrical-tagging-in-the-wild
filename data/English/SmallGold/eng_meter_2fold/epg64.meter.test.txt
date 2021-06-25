@@ -1,0 +1,992 @@
+1	Was	+	.	NNP	0	iambic	iambic.tri.invert	+--+-+
+2	there	-	.	EX	0	iambic	iambic.tri.invert	+--+-+
+3	a	-	:	DT	0	iambic	iambic.tri.invert	+--+-+
+4	man	+	.	NN	0	iambic	iambic.tri.invert	+--+-+
+5	dis	-	:	NN	1	iambic	iambic.tri.invert	+--+-+
+6	may'd	+	.	NN	2	iambic	iambic.tri.invert	+--+-+
+
+1	Shall	-	.	NN	0	iambic	iambic.tetra	-+-+-+-+
+2	on	+	:	IN	0	iambic	iambic.tetra	-+-+-+-+
+3	its	-	.	PRP$	0	iambic	iambic.tetra	-+-+-+-+
+4	stain	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+5	less	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+6	glo	+	:	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	ry	-	.	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	set	+	:	VBN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	As	-	.	IN	0	iambic	iambic.chol.relaxed	-+-+--+
+2	though	+	:	IN	0	iambic	iambic.chol.relaxed	-+-+--+
+3	they	-	.	PRP	0	iambic	iambic.chol.relaxed	-+-+--+
+4	per	+	:	RB	1	iambic	iambic.chol.relaxed	-+-+--+
+5	fect	-	.	RB	2	iambic	iambic.chol.relaxed	-+-+--+
+6	ly	-	.	RB	3	iambic	iambic.chol.relaxed	-+-+--+
+7	knew	+	:	VBD	0	iambic	iambic.chol.relaxed	-+-+--+
+
+1	Then	-	.	RB	0	iambic	iambic.tri	-+-+-+
+2	space	+	:	NN	0	iambic	iambic.tri	-+-+-+
+3	be	-	.	VBD	1	iambic	iambic.tri	-+-+-+
+4	gan	+	:	VBD	2	iambic	iambic.tri	-+-+-+
+5	to	-	.	TO	0	iambic	iambic.tri	-+-+-+
+6	toll	+	:	VB	0	iambic	iambic.tri	-+-+-+
+
+1	And	+	.	CC	0	daktyl	daktyl.di.plus	+--+--++
+2	I	-	.	PRP	0	daktyl	daktyl.di.plus	+--+--++
+3	might	-	.	MD	0	daktyl	daktyl.di.plus	+--+--++
+4	feel	+	:	VB	0	daktyl	daktyl.di.plus	+--+--++
+5	in	-	.	IN	0	daktyl	daktyl.di.plus	+--+--++
+6	the	-	.	DT	0	daktyl	daktyl.di.plus	+--+--++
+7	warm	+	:	JJ	0	daktyl	daktyl.di.plus	+--+--++
+8	air	+	.	NN	0	daktyl	daktyl.di.plus	+--+--++
+
+1	A	-	.	DT	0	anapaest	anapaest.di.plus	--+--+
+2	great	-	.	JJ	0	anapaest	anapaest.di.plus	--+--+
+3	man	+	:	NN	0	anapaest	anapaest.di.plus	--+--+
+4	in	-	.	IN	0	anapaest	anapaest.di.plus	--+--+
+5	his	-	.	PRP$	0	anapaest	anapaest.di.plus	--+--+
+6	pride	+	:	NN	0	anapaest	anapaest.di.plus	--+--+
+
+1	Which	-	.	WDT	0	iambic	iambic.penta	-+-+-+-+-+
+2	watch	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+3	not	-	.	RB	0	iambic	iambic.penta	-+-+-+-+-+
+4	one	+	:	CD	0	iambic	iambic.penta	-+-+-+-+-+
+5	an	-	.	DT	1	iambic	iambic.penta	-+-+-+-+-+
+6	oth	+	:	DT	2	iambic	iambic.penta	-+-+-+-+-+
+7	er	-	.	DT	3	iambic	iambic.penta	-+-+-+-+-+
+8	out	+	:	IN	0	iambic	iambic.penta	-+-+-+-+-+
+9	of	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+10	fear	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	A	-	.	NNP	1	iambic	iambic.tri	-+-+-+
+2	rise	+	:	NNP	2	iambic	iambic.tri	-+-+-+
+3	ye	-	.	RB	0	iambic	iambic.tri	-+-+-+
+4	more	+	:	JJR	0	iambic	iambic.tri	-+-+-+
+5	than	-	.	IN	0	iambic	iambic.tri	-+-+-+
+6	dead	+	:	JJ	0	iambic	iambic.tri	-+-+-+
+
+1	Eith	+	.	DT	1	iambic	iambic.penta.invert	+--+-+-+-+
+2	er	-	.	DT	2	iambic	iambic.penta.invert	+--+-+-+-+
+3	man's	-	.	NN	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	work	+	:	POS	0	iambic	iambic.penta.invert	+--+-+-+-+
+5	or	-	.	NN	0	iambic	iambic.penta.invert	+--+-+-+-+
+6	his	+	:	CC	0	iambic	iambic.penta.invert	+--+-+-+-+
+7	own	-	.	PRP$	0	iambic	iambic.penta.invert	+--+-+-+-+
+8	gifts	+	:	JJ	0	iambic	iambic.penta.invert	+--+-+-+-+
+9	Who	-	.	NNS	0	iambic	iambic.penta.invert	+--+-+-+-+
+10	best	+	:	WP	0	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	The	-	:	DT	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Sec	+	.	NNP	1	iambic	iambic.penta	-+-+-+-+-+-
+3	ond	-	:	NNP	2	iambic	iambic.penta	-+-+-+-+-+-
+4	Com	+	.	NNP	1	iambic	iambic.penta	-+-+-+-+-+-
+5	ing	-	:	NNP	2	iambic	iambic.penta	-+-+-+-+-+-
+6	Hard	+	.	RB	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ly	-	:	RB	2	iambic	iambic.penta	-+-+-+-+-+-
+8	are	+	.	VBP	0	iambic	iambic.penta	-+-+-+-+-+-
+9	those	-	:	DT	0	iambic	iambic.penta	-+-+-+-+-+-
+10	words	+	.	NNS	0	iambic	iambic.penta	-+-+-+-+-+-
+11	out	-	:	RP	0	iambic	iambic.penta	-+-+-+-+-+-
+
+1	On	-	.	IN	0	iambic	iambic.tetra	-+-+-+-+
+2	bro	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+3	ken	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+4	blinds	+	:	NNS	0	iambic	iambic.tetra	-+-+-+-+
+5	and	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+6	chim	+	:	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	ney	-	.	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	pots	+	:	NNS	0	iambic	iambic.tetra	-+-+-+-+
+
+1	who	+	.	WP	0	pherekrateus	pherekrateus	+-+--+-
+2	pays	-	:	VBZ	0	pherekrateus	pherekrateus	+-+--+-
+3	an	+	.	DT	1	pherekrateus	pherekrateus	+-+--+-
+4	y	-	.	DT	2	pherekrateus	pherekrateus	+-+--+-
+5	at	-	:	NN	1	pherekrateus	pherekrateus	+-+--+-
+6	ten	+	.	NN	2	pherekrateus	pherekrateus	+-+--+-
+7	tion	-	:	NN	3	pherekrateus	pherekrateus	+-+--+-
+
+1	Rode	+	.	VB	0	amphi	amphi.di.relaxed	+--+-
+2	the	-	.	DT	0	amphi	amphi.di.relaxed	+--+-
+3	six	-	:	CD	0	amphi	amphi.di.relaxed	+--+-
+4	hun	+	.	VBD	1	amphi	amphi.di.relaxed	+--+-
+5	dred	-	:	VBD	2	amphi	amphi.di.relaxed	+--+-
+
+1	Light	+	.	VBG	1	iambic	iambic.tri.invert	+--+-+
+2	ning	-	.	VBG	2	iambic	iambic.tri.invert	+--+-+
+3	that	-	.	IN	0	iambic	iambic.tri.invert	+--+-+
+4	mocks	+	:	VBZ	0	iambic	iambic.tri.invert	+--+-+
+5	the	-	.	DT	0	iambic	iambic.tri.invert	+--+-+
+6	night	+	:	NN	0	iambic	iambic.tri.invert	+--+-+
+
+1	Bring	-	.	VBG	0	iambic	iambic.tri	-+-+-+
+2	all	+	:	DT	0	iambic	iambic.tri	-+-+-+
+3	your	-	.	PRP$	0	iambic	iambic.tri	-+-+-+
+4	hopes	+	:	NNS	0	iambic	iambic.tri	-+-+-+
+5	to	-	.	TO	0	iambic	iambic.tri	-+-+-+
+6	nought	+	:	VB	0	iambic	iambic.tri	-+-+-+
+
+1	To	-	.	TO	0	iambic	iambic.tri	-+-+-+
+2	cloak	+	:	VB	0	iambic	iambic.tri	-+-+-+
+3	your	-	.	PRP$	0	iambic	iambic.tri	-+-+-+
+4	wear	+	:	NN	1	iambic	iambic.tri	-+-+-+
+5	i	-	.	NN	2	iambic	iambic.tri	-+-+-+
+6	ness	+	:	NN	3	iambic	iambic.tri	-+-+-+
+
+1	In	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+2	his	+	:	PRP$	0	iambic	iambic.penta	-+-+-+-+-+
+3	first	-	.	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+4	splen	+	:	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	dour	-	.	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	val	+	:	NN	1	iambic	iambic.penta	-+-+-+-+-+
+7	ley	-	.	NN	2	iambic	iambic.penta	-+-+-+-+-+
+8	rock	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	or	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+10	hill	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	But	-	.	CC	0	iambic	iambic.tri	-+-+-+-
+2	toil	+	:	NN	0	iambic	iambic.tri	-+-+-+-
+3	of	-	.	IN	0	iambic	iambic.tri	-+-+-+-
+4	serf	+	:	NN	0	iambic	iambic.tri	-+-+-+-
+5	and	-	.	CC	0	iambic	iambic.tri	-+-+-+-
+6	sweep	+	:	JJR	1	iambic	iambic.tri	-+-+-+-
+7	er	-	.	JJR	2	iambic	iambic.tri	-+-+-+-
+
+1	For	-	.	IN	0	iambic	iambic.tetra	-+-+-+-+
+2	sae	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+3	I	-	.	PRP	0	iambic	iambic.tetra	-+-+-+-+
+4	sat	+	:	VBD	0	iambic	iambic.tetra	-+-+-+-+
+5	and	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+6	sae	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	I	-	.	PRP	0	iambic	iambic.tetra	-+-+-+-+
+8	sang	+	:	VBD	0	iambic	iambic.tetra	-+-+-+-+
+
+1	I	-	.	PRP	0	iambic	iambic.tetra	-+-+-+-+
+2	wan	+	:	VBD	1	iambic	iambic.tetra	-+-+-+-+
+3	dered	-	.	VBD	2	iambic	iambic.tetra	-+-+-+-+
+4	through	+	:	IN	0	iambic	iambic.tetra	-+-+-+-+
+5	each	-	.	DT	0	iambic	iambic.tetra	-+-+-+-+
+6	char	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+7	tered	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+8	street	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	But	-	.	CC	0	iambic	iambic.tri	-+-+-+
+2	we	+	:	PRP	0	iambic	iambic.tri	-+-+-+
+3	though	-	.	RB	0	iambic	iambic.tri	-+-+-+
+4	soon	+	:	RB	0	iambic	iambic.tri	-+-+-+
+5	they	-	.	PRP	0	iambic	iambic.tri	-+-+-+
+6	fall	+	:	VBP	0	iambic	iambic.tri	-+-+-+
+
+1	I	-	.	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+2	love	+	:	VBP	0	iambic	iambic.penta	-+-+-+-+-+
+3	thee	-	.	RB	0	iambic	iambic.penta	-+-+-+-+-+
+4	to	+	:	TO	0	iambic	iambic.penta	-+-+-+-+-+
+5	the	-	.	DT	0	iambic	iambic.penta	-+-+-+-+-+
+6	depth	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+7	and	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+8	breadth	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	and	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+10	height	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Sun	+	.	NNP	1	iambic	iambic.tri.invert	+--+-+
+2	set	-	.	NNP	2	iambic	iambic.tri.invert	+--+-+
+3	and	-	.	CC	0	iambic	iambic.tri.invert	+--+-+
+4	even	+	:	VBG	1	iambic	iambic.tri.invert	+--+-+
+5	ing	-	.	VBG	2	iambic	iambic.tri.invert	+--+-+
+6	star	+	:	NN	0	iambic	iambic.tri.invert	+--+-+
+
+1	He	-	.	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+2	holds	+	:	VBZ	0	iambic	iambic.penta	-+-+-+-+-+
+3	her	-	.	PRP$	0	iambic	iambic.penta	-+-+-+-+-+
+4	help	+	:	JJ	1	iambic	iambic.penta	-+-+-+-+-+
+5	less	-	.	JJ	2	iambic	iambic.penta	-+-+-+-+-+
+6	breast	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+7	up	-	.	IN	1	iambic	iambic.penta	-+-+-+-+-+
+8	on	+	:	IN	2	iambic	iambic.penta	-+-+-+-+-+
+9	his	-	.	PRP$	0	iambic	iambic.penta	-+-+-+-+-+
+10	breast	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	All	-	.	PDT	0	iambic	iambic.tri	-+-+-+
+2	that	+	:	IN	0	iambic	iambic.tri	-+-+-+
+3	we	-	.	PRP	0	iambic	iambic.tri	-+-+-+
+4	wish	+	:	VBP	0	iambic	iambic.tri	-+-+-+
+5	to	-	.	TO	0	iambic	iambic.tri	-+-+-+
+6	stay	+	:	VB	0	iambic	iambic.tri	-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+2	in	+	:	NN	1	iambic	iambic.penta	-+-+-+-+-+
+3	ward	-	.	NN	2	iambic	iambic.penta	-+-+-+-+-+
+4	ripe	+	:	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	ness	-	.	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	doth	+	:	RB	0	iambic	iambic.penta	-+-+-+-+-+
+7	much	-	.	RB	0	iambic	iambic.penta	-+-+-+-+-+
+8	less	+	:	JJR	0	iambic	iambic.penta	-+-+-+-+-+
+9	ap	-	.	JJ	1	iambic	iambic.penta	-+-+-+-+-+
+10	pear	+	:	JJ	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	The	-	.	DT	0	iambic	iambic.penta	-+-+-+-+-+-
+2	me	+	:	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	te	-	.	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	or	+	:	NN	3	iambic	iambic.penta	-+-+-+-+-+-
+5	drops	-	.	NNS	0	iambic	iambic.penta	-+-+-+-+-+-
+6	and	+	:	CC	0	iambic	iambic.penta	-+-+-+-+-+-
+7	in	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+-
+8	a	+	:	DT	0	iambic	iambic.penta	-+-+-+-+-+-
+9	flash	-	.	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+10	ex	+	:	VBZ	1	iambic	iambic.penta	-+-+-+-+-+-
+11	pires	-	.	VBZ	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	if	-	.	IN	0	iambic	iambic.tri	-+-+-+
+2	I	+	:	PRP	0	iambic	iambic.tri	-+-+-+
+3	in	-	.	IN	0	iambic	iambic.tri	-+-+-+
+4	my	+	:	PRP$	0	iambic	iambic.tri	-+-+-+
+5	north	-	.	JJ	0	iambic	iambic.tri	-+-+-+
+6	room	+	:	NN	0	iambic	iambic.tri	-+-+-+
+
+1	Or	-	.	CC	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+2	eas	+	:	JJ	1	iambic	iambic.relaxed.syll	-+-+--+-+-+
+3	y	-	.	JJ	2	iambic	iambic.relaxed.syll	-+-+--+-+-+
+4	gold	+	:	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+5	at	-	.	IN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+6	the	-	.	DT	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+7	hand	+	:	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+8	of	-	.	IN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+9	fay	+	:	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+10	or	-	.	CC	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+11	elf	+	:	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+
+1	Of	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+2	pure	+	:	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+3	ab	-	.	NN	1	iambic	iambic.penta	-+-+-+-+-+
+4	lu	+	:	NN	2	iambic	iambic.penta	-+-+-+-+-+
+5	tion	-	.	NN	3	iambic	iambic.penta	-+-+-+-+-+
+6	round	+	:	VBD	0	iambic	iambic.penta	-+-+-+-+-+
+7	earth's	-	.	NN	0	iambic	iambic.penta	-+-+-+-+-+
+8	hu	+	:	POS	0	iambic	iambic.penta	-+-+-+-+-+
+9	man	-	.	JJ	1	iambic	iambic.penta	-+-+-+-+-+
+10	shores	+	:	JJ	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	And	-	.	CC	0	other	other	-+-+---+
+2	even	+	:	VBG	1	other	other	-+-+---+
+3	ing	-	.	VBG	2	other	other	-+-+---+
+4	news	+	:	NNS	1	other	other	-+-+---+
+5	pa	-	.	NNS	2	other	other	-+-+---+
+6	pers	-	:	NNS	3	other	other	-+-+---+
+7	and	-	.	CC	0	other	other	-+-+---+
+8	eyes	+	:	NNS	0	other	other	-+-+---+
+
+1	Some	-	.	RB	1	iambic	iambic.penta	-+-+-+-+-+
+2	times	+	:	RB	2	iambic	iambic.penta	-+-+-+-+-+
+3	be	-	.	JJ	1	iambic	iambic.penta	-+-+-+-+-+
+4	calm'd	+	:	JJ	2	iambic	iambic.penta	-+-+-+-+-+
+5	the	-	.	MD	0	iambic	iambic.penta	-+-+-+-+-+
+6	Shore	+	:	DT	0	iambic	iambic.penta	-+-+-+-+-+
+7	with	-	.	NNP	0	iambic	iambic.penta	-+-+-+-+-+
+8	long	+	:	IN	0	iambic	iambic.penta	-+-+-+-+-+
+9	ing	-	.	VBG	1	iambic	iambic.penta	-+-+-+-+-+
+10	Eyes	+	:	VBG	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	To	-	.	TO	0	iambic	iambic.tri	-+-+-+
+2	an	+	:	DT	0	iambic	iambic.tri	-+-+-+
+3	ad	-	.	VBG	1	iambic	iambic.tri	-+-+-+
+4	mir	+	:	VBG	2	iambic	iambic.tri	-+-+-+
+5	ing	-	.	VBG	3	iambic	iambic.tri	-+-+-+
+6	bog	+	:	NN	0	iambic	iambic.tri	-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+2	true	+	:	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+3	plain	-	.	NN	0	iambic	iambic.penta	-+-+-+-+-+
+4	hearts	+	:	NNS	0	iambic	iambic.penta	-+-+-+-+-+
+5	do	-	.	VBP	0	iambic	iambic.penta	-+-+-+-+-+
+6	in	+	:	IN	0	iambic	iambic.penta	-+-+-+-+-+
+7	the	-	.	DT	0	iambic	iambic.penta	-+-+-+-+-+
+8	fac	+	:	VBZ	1	iambic	iambic.penta	-+-+-+-+-+
+9	es	-	.	VBZ	2	iambic	iambic.penta	-+-+-+-+-+
+10	rest	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Where	-	.	NNP	1	prosodiakos	prosodiakos	-+--+--+
+2	in	+	:	NNP	2	prosodiakos	prosodiakos	-+--+--+
+3	could	-	.	MD	0	prosodiakos	prosodiakos	-+--+--+
+4	this	-	.	DT	0	prosodiakos	prosodiakos	-+--+--+
+5	flea	+	:	VB	0	prosodiakos	prosodiakos	-+--+--+
+6	guil	-	.	JJ	1	prosodiakos	prosodiakos	-+--+--+
+7	ty	-	.	JJ	2	prosodiakos	prosodiakos	-+--+--+
+8	bee	+	:	NN	0	prosodiakos	prosodiakos	-+--+--+
+
+1	This	-	.	DT	0	iambic	iambic.tetra	-+-+-+-+
+2	u	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+3	ni	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+4	ver	+	:	JJ	3	iambic	iambic.tetra	-+-+-+-+
+5	sal	-	.	JJ	4	iambic	iambic.tetra	-+-+-+-+
+6	frame	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	be	-	.	VBD	1	iambic	iambic.tetra	-+-+-+-+
+8	gan	+	:	VBD	2	iambic	iambic.tetra	-+-+-+-+
+
+1	Fill	-	.	NNP	0	iambic	iambic.tri	-+-+-+-
+2	full	+	:	JJ	0	iambic	iambic.tri	-+-+-+-
+3	the	-	.	DT	0	iambic	iambic.tri	-+-+-+-
+4	mouth	+	:	NN	0	iambic	iambic.tri	-+-+-+-
+5	of	-	.	IN	0	iambic	iambic.tri	-+-+-+-
+6	fa	+	:	NN	1	iambic	iambic.tri	-+-+-+-
+7	mine	-	.	NN	2	iambic	iambic.tri	-+-+-+-
+
+1	And	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+2	this	+	:	DT	0	iambic	iambic.penta	-+-+-+-+-+
+3	a	-	.	NN	1	iambic	iambic.penta	-+-+-+-+-+
+4	las	+	:	NN	2	iambic	iambic.penta	-+-+-+-+-+
+5	is	-	.	VBZ	0	iambic	iambic.penta	-+-+-+-+-+
+6	more	+	:	RBR	0	iambic	iambic.penta	-+-+-+-+-+
+7	then	-	.	RB	0	iambic	iambic.penta	-+-+-+-+-+
+8	wee	+	:	VB	0	iambic	iambic.penta	-+-+-+-+-+
+9	would	-	.	MD	0	iambic	iambic.penta	-+-+-+-+-+
+10	doe	+	:	VB	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Your	-	.	PRP$	0	iambic	iambic.tri	-+-+-+
+2	locks	+	:	NNS	0	iambic	iambic.tri	-+-+-+
+3	are	-	.	VBP	0	iambic	iambic.tri	-+-+-+
+4	like	+	:	IN	0	iambic	iambic.tri	-+-+-+
+5	the	-	.	DT	0	iambic	iambic.tri	-+-+-+
+6	snaw	+	:	NN	0	iambic	iambic.tri	-+-+-+
+
+1	That	-	.	IN	0	anapaest	anapaest.tri.plus	--+--+--+
+2	he	-	.	PRP	0	anapaest	anapaest.tri.plus	--+--+--+
+3	sings	+	:	VBZ	0	anapaest	anapaest.tri.plus	--+--+--+
+4	in	-	.	IN	0	anapaest	anapaest.tri.plus	--+--+--+
+5	his	-	.	PRP$	0	anapaest	anapaest.tri.plus	--+--+--+
+6	boat	+	:	NN	0	anapaest	anapaest.tri.plus	--+--+--+
+7	on	-	.	IN	0	anapaest	anapaest.tri.plus	--+--+--+
+8	the	-	.	DT	0	anapaest	anapaest.tri.plus	--+--+--+
+9	bay	+	:	NN	0	anapaest	anapaest.tri.plus	--+--+--+
+
+1	Hours	+	.	NNP	0	iambic	iambic.tetra.invert	+--+-+-+
+2	days	-	.	NNS	0	iambic	iambic.tetra.invert	+--+-+-+
+3	and	-	.	CC	0	iambic	iambic.tetra.invert	+--+-+-+
+4	years	+	:	NNS	0	iambic	iambic.tetra.invert	+--+-+-+
+5	slide	-	.	VBP	0	iambic	iambic.tetra.invert	+--+-+-+
+6	soft	+	:	JJ	0	iambic	iambic.tetra.invert	+--+-+-+
+7	a	-	.	RB	1	iambic	iambic.tetra.invert	+--+-+-+
+8	way	+	:	RB	2	iambic	iambic.tetra.invert	+--+-+-+
+
+1	be	-	.	IN	1	iambic	iambic.di	-+-+-
+2	fore	+	:	IN	2	iambic	iambic.di	-+-+-
+3	my	-	.	PRP$	0	iambic	iambic.di	-+-+-
+4	mir	+	:	NN	1	iambic	iambic.di	-+-+-
+5	ror	-	.	NN	2	iambic	iambic.di	-+-+-
+
+1	That	-	.	DT	0	iambic	iambic.tetra	-+-+-+-+
+2	spoke	+	:	VBD	0	iambic	iambic.tetra	-+-+-+-+
+3	so	-	.	RB	0	iambic	iambic.tetra	-+-+-+-+
+4	sweet	+	:	RB	1	iambic	iambic.tetra	-+-+-+-+
+5	ly	-	.	RB	2	iambic	iambic.tetra	-+-+-+-+
+6	and	+	:	CC	0	iambic	iambic.tetra	-+-+-+-+
+7	so	-	.	RB	0	iambic	iambic.tetra	-+-+-+-+
+8	well	+	:	RB	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Could	-	.	MD	0	iambic	iambic.tetra	-+-+-+-+
+2	frame	+	:	VB	0	iambic	iambic.tetra	-+-+-+-+
+3	thy	-	.	JJ	0	iambic	iambic.tetra	-+-+-+-+
+4	fear	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+5	ful	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+6	sym	+	:	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	me	-	.	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	try	+	:	NN	3	iambic	iambic.tetra	-+-+-+-+
+
+1	The	-	.	DT	0	iambic	iambic.tetra	-+-+-+-+
+2	tune	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+3	ful	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+4	voice	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	was	-	.	VBD	0	iambic	iambic.tetra	-+-+-+-+
+6	heard	+	:	VBN	0	iambic	iambic.tetra	-+-+-+-+
+7	from	-	.	IN	0	iambic	iambic.tetra	-+-+-+-+
+8	high	+	:	JJ	0	iambic	iambic.tetra	-+-+-+-+
+
+1	The	-	.	DT	0	iambic	iambic.tetra	-+-+-+-+
+2	morn	+	:	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	ing	-	.	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	comes	+	:	VBZ	0	iambic	iambic.tetra	-+-+-+-+
+5	to	-	.	TO	0	iambic	iambic.tetra	-+-+-+-+
+6	con	+	:	VB	1	iambic	iambic.tetra	-+-+-+-+
+7	scious	-	.	VB	2	iambic	iambic.tetra	-+-+-+-+
+8	ness	+	:	VB	3	iambic	iambic.tetra	-+-+-+-+
+
+1	I	-	.	PRP	0	iambic	iambic.tetra	-+-+-+-+
+2	see	+	:	VBP	0	iambic	iambic.tetra	-+-+-+-+
+3	the	-	.	DT	0	iambic	iambic.tetra	-+-+-+-+
+4	Deep's	+	:	NNP	0	iambic	iambic.tetra	-+-+-+-+
+5	un	-	.	POS	0	iambic	iambic.tetra	-+-+-+-+
+6	tram	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+7	pled	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+8	floor	+	:	JJ	3	iambic	iambic.tetra	-+-+-+-+
+
+1	Till	+	:	NNP	0	troch	troch.tetra	+-+-+-+
+2	they	-	.	PRP	0	troch	troch.tetra	+-+-+-+
+3	quite	+	:	RB	0	troch	troch.tetra	+-+-+-+
+4	shrink	-	.	VBP	0	troch	troch.tetra	+-+-+-+
+5	in	+	:	IN	0	troch	troch.tetra	+-+-+-+
+6	a	-	.	RB	1	troch	troch.tetra	+-+-+-+
+7	gain	+	:	RB	2	troch	troch.tetra	+-+-+-+
+
+1	The	-	.	DT	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+2	ship	+	:	NN	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+3	is	-	.	VBZ	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+4	an	+	:	JJ	1	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+5	chor'd	-	.	JJ	2	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+6	safe	+	:	MD	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+7	and	-	.	VB	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+8	sound	+	:	CC	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+9	its	-	.	VB	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+10	voy	+	:	PRP$	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+11	age	-	.	NN	1	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+12	closed	+	:	NN	2	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+13	and	-	.	VBD	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+14	done	+	:	CC	0	iambic	iambic.septa.plus	-+-+-+-+-+-+-+
+
+1	Form'd	+	.	NNP	0	iambic	iambic.penta.invert	+--+-+-+-+
+2	to	-	.	MD	0	iambic	iambic.penta.invert	+--+-+-+-+
+3	de	-	.	TO	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	light	+	:	VB	1	iambic	iambic.penta.invert	+--+-+-+-+
+5	at	-	.	VB	2	iambic	iambic.penta.invert	+--+-+-+-+
+6	once	+	:	IN	0	iambic	iambic.penta.invert	+--+-+-+-+
+7	and	-	.	RB	0	iambic	iambic.penta.invert	+--+-+-+-+
+8	lash	+	:	CC	0	iambic	iambic.penta.invert	+--+-+-+-+
+9	the	-	.	VB	0	iambic	iambic.penta.invert	+--+-+-+-+
+10	age	+	:	DT	0	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	What	-	.	WP	0	amphi	amphi.tri.plus	-+--+--+-+-+
+2	was	+	:	VBD	0	amphi	amphi.tri.plus	-+--+--+-+-+
+3	it	-	.	PRP	0	amphi	amphi.tri.plus	-+--+--+-+-+
+4	it	-	.	PRP	0	amphi	amphi.tri.plus	-+--+--+-+-+
+5	whis	+	:	VBD	1	amphi	amphi.tri.plus	-+--+--+-+-+
+6	pered	-	.	VBD	2	amphi	amphi.tri.plus	-+--+--+-+-+
+7	I	-	.	PRP	0	amphi	amphi.tri.plus	-+--+--+-+-+
+8	knew	+	:	VBD	0	amphi	amphi.tri.plus	-+--+--+-+-+
+9	not	-	.	RB	0	amphi	amphi.tri.plus	-+--+--+-+-+
+10	well	+	:	RB	0	amphi	amphi.tri.plus	-+--+--+-+-+
+11	my	-	.	PRP	1	amphi	amphi.tri.plus	-+--+--+-+-+
+12	self	+	:	PRP	2	amphi	amphi.tri.plus	-+--+--+-+-+
+
+1	Then	-	.	RB	0	iambic	iambic.tetra	-+-+-+-+
+2	cold	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+3	and	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+4	hot	+	:	JJ	0	iambic	iambic.tetra	-+-+-+-+
+5	and	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+6	moist	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	and	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+8	dry	+	:	JJ	0	iambic	iambic.tetra	-+-+-+-+
+
+1	the	-	.	DT	0	anapaest	anapaest.init	--+-+-+-+-
+2	best	-	:	JJS	0	anapaest	anapaest.init	--+-+-+-+-
+3	ges	+	.	NN	1	anapaest	anapaest.init	--+-+-+-+-
+4	ture	-	:	NN	2	anapaest	anapaest.init	--+-+-+-+-
+5	of	+	.	IN	0	anapaest	anapaest.init	--+-+-+-+-
+6	my	-	:	PRP$	0	anapaest	anapaest.init	--+-+-+-+-
+7	brain	+	.	NN	0	anapaest	anapaest.init	--+-+-+-+-
+8	is	-	:	VBZ	0	anapaest	anapaest.init	--+-+-+-+-
+9	less	+	.	JJR	0	anapaest	anapaest.init	--+-+-+-+-
+10	than	-	:	IN	0	anapaest	anapaest.init	--+-+-+-+-
+
+1	But	-	.	CC	0	iambic	iambic.relaxed.syll	--+-+--+--+
+2	the	-	.	DT	0	iambic	iambic.relaxed.syll	--+-+--+--+
+3	ten	+	:	NN	1	iambic	iambic.relaxed.syll	--+-+--+--+
+4	der	-	.	NN	2	iambic	iambic.relaxed.syll	--+-+--+--+
+5	grace	+	:	NN	0	iambic	iambic.relaxed.syll	--+-+--+--+
+6	of	-	.	IN	0	iambic	iambic.relaxed.syll	--+-+--+--+
+7	a	-	.	DT	0	iambic	iambic.relaxed.syll	--+-+--+--+
+8	day	+	:	NN	0	iambic	iambic.relaxed.syll	--+-+--+--+
+9	that	-	.	WDT	0	iambic	iambic.relaxed.syll	--+-+--+--+
+10	is	-	.	VBZ	0	iambic	iambic.relaxed.syll	--+-+--+--+
+11	dead	+	:	JJ	0	iambic	iambic.relaxed.syll	--+-+--+--+
+
+1	The	-	.	DT	0	iambic	iambic.penta	-+-+-+-+-+
+2	hand	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+3	that	-	.	WDT	0	iambic	iambic.penta	-+-+-+-+-+
+4	mocked	+	:	VBD	0	iambic	iambic.penta	-+-+-+-+-+
+5	them	-	.	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+6	and	+	:	CC	0	iambic	iambic.penta	-+-+-+-+-+
+7	the	-	.	DT	0	iambic	iambic.penta	-+-+-+-+-+
+8	heart	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	that	-	.	WDT	0	iambic	iambic.penta	-+-+-+-+-+
+10	fed	+	:	VBD	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	U	-	.	IN	1	iambic	iambic.tri	-+-+-+
+2	pon	+	:	IN	2	iambic	iambic.tri	-+-+-+
+3	a	-	.	DT	0	iambic	iambic.tri	-+-+-+
+4	morn	+	:	NN	0	iambic	iambic.tri	-+-+-+
+5	in	-	.	IN	0	iambic	iambic.tri	-+-+-+
+6	June	+	:	NNP	0	iambic	iambic.tri	-+-+-+
+
+1	A	-	.	DT	0	iambic	iambic.tri	-+-+-+
+2	day	+	:	NN	0	iambic	iambic.tri	-+-+-+
+3	when	-	.	WRB	0	iambic	iambic.tri	-+-+-+
+4	it	+	:	PRP	0	iambic	iambic.tri	-+-+-+
+5	was	-	.	VBD	0	iambic	iambic.tri	-+-+-+
+6	not	+	:	RB	0	iambic	iambic.tri	-+-+-+
+
+1	But	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+2	if	+	:	IN	0	iambic	iambic.tetra	-+-+-+-+
+3	it	-	.	PRP	0	iambic	iambic.tetra	-+-+-+-+
+4	had	+	:	VBD	0	iambic	iambic.tetra	-+-+-+-+
+5	to	-	.	TO	0	iambic	iambic.tetra	-+-+-+-+
+6	per	+	:	VB	1	iambic	iambic.tetra	-+-+-+-+
+7	ish	-	.	VB	2	iambic	iambic.tetra	-+-+-+-+
+8	twice	+	:	RB	0	iambic	iambic.tetra	-+-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+2	wrin	+	:	VBD	1	iambic	iambic.penta	-+-+-+-+-+
+3	kled	-	.	VBD	2	iambic	iambic.penta	-+-+-+-+-+
+4	lip	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+5	and	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+6	sneer	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+7	of	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+8	cold	+	:	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+9	com	-	.	NN	1	iambic	iambic.penta	-+-+-+-+-+
+10	mand	+	:	NN	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	Death	+	.	NN	0	single	single.up	+
+
+1	This	-	.	DT	0	amphi	amphi.tri.plus	-+--+--+-+
+2	Cit	+	:	NNP	1	amphi	amphi.tri.plus	-+--+--+-+
+3	y	-	.	NNP	2	amphi	amphi.tri.plus	-+--+--+-+
+4	now	-	.	RB	0	amphi	amphi.tri.plus	-+--+--+-+
+5	doth	+	:	VBZ	0	amphi	amphi.tri.plus	-+--+--+-+
+6	like	-	.	IN	0	amphi	amphi.tri.plus	-+--+--+-+
+7	a	-	.	DT	0	amphi	amphi.tri.plus	-+--+--+-+
+8	gar	+	:	NN	1	amphi	amphi.tri.plus	-+--+--+-+
+9	ment	-	.	NN	2	amphi	amphi.tri.plus	-+--+--+-+
+10	wear	+	:	VBP	0	amphi	amphi.tri.plus	-+--+--+-+
+
+1	Than	+	:	NNP	0	troch	troch.tetra	+-+-+-+
+2	all	-	.	DT	0	troch	troch.tetra	+-+-+-+
+3	oth	+	:	JJ	1	troch	troch.tetra	+-+-+-+
+4	er	-	.	JJ	2	troch	troch.tetra	+-+-+-+
+5	pleas	+	:	NNS	1	troch	troch.tetra	+-+-+-+
+6	ures	-	.	NNS	2	troch	troch.tetra	+-+-+-+
+7	are	+	:	VBP	0	troch	troch.tetra	+-+-+-+
+
+1	A	-	.	DT	0	iambic	iambic.penta	-+-+-+-+-+
+2	Hagg	+	:	NNP	0	iambic	iambic.penta	-+-+-+-+-+
+3	like	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+4	Hell	+	:	NNP	0	iambic	iambic.penta	-+-+-+-+-+
+5	with	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+6	Gold	+	:	NNP	0	iambic	iambic.penta	-+-+-+-+-+
+7	more	-	.	RBR	0	iambic	iambic.penta	-+-+-+-+-+
+8	high	+	:	RB	1	iambic	iambic.penta	-+-+-+-+-+
+9	ly	-	.	RB	2	iambic	iambic.penta	-+-+-+-+-+
+10	priz'd	+	:	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Turns	+	.	NNP	0	iambic	iambic.chol.relaxed	+--+
+2	a	-	.	RB	1	iambic	iambic.chol.relaxed	+--+
+3	gain	-	.	RB	2	iambic	iambic.chol.relaxed	+--+
+4	home	+	:	NN	0	iambic	iambic.chol.relaxed	+--+
+
+1	Is	-	.	VBZ	0	iambic	iambic.tetra	-+-+-+-+
+2	there	+	:	EX	0	iambic	iambic.tetra	-+-+-+-+
+3	for	-	.	IN	0	iambic	iambic.tetra	-+-+-+-+
+4	hon	+	:	NN	1	iambic	iambic.tetra	-+-+-+-+
+5	est	-	.	NN	2	iambic	iambic.tetra	-+-+-+-+
+6	Pov	+	:	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	er	-	.	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	ty	+	:	NN	3	iambic	iambic.tetra	-+-+-+-+
+
+1	Nor	+	.	CC	0	iambic	iambic.tetra.invert	+--+-+-+
+2	that	-	.	DT	0	iambic	iambic.tetra.invert	+--+-+-+
+3	con	-	.	NN	1	iambic	iambic.tetra.invert	+--+-+-+
+4	tent	+	:	NN	2	iambic	iambic.tetra.invert	+--+-+-+
+5	sur	-	.	VBG	1	iambic	iambic.tetra.invert	+--+-+-+
+6	pass	+	:	VBG	2	iambic	iambic.tetra.invert	+--+-+-+
+7	ing	-	.	VBG	3	iambic	iambic.tetra.invert	+--+-+-+
+8	wealth	+	:	NN	0	iambic	iambic.tetra.invert	+--+-+-+
+
+1	Not	-	.	RB	0	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+2	Hea	+	:	NNP	1	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+3	ven	-	.	NNP	2	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+4	it	-	.	PRP	1	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+5	self	+	:	PRP	2	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+6	up	-	.	IN	1	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+7	on	+	:	IN	2	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+8	the	-	.	DT	0	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+9	past	+	:	NN	0	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+10	has	-	.	VBZ	0	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+11	pow	+	:	NN	1	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+12	er	-	.	NN	2	iambic	iambic.relaxed.syll	-+--+-+-+-+-
+
+1	Look	+	.	NN	0	iambic	iambic.penta.invert	+--+-+-+-+
+2	on	-	.	IN	0	iambic	iambic.penta.invert	+--+-+-+-+
+3	my	-	.	PRP$	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	works	+	:	NNS	0	iambic	iambic.penta.invert	+--+-+-+-+
+5	ye	-	.	NN	0	iambic	iambic.penta.invert	+--+-+-+-+
+6	Might	+	:	NNP	1	iambic	iambic.penta.invert	+--+-+-+-+
+7	y	-	.	NNP	2	iambic	iambic.penta.invert	+--+-+-+-+
+8	and	+	:	CC	0	iambic	iambic.penta.invert	+--+-+-+-+
+9	de	-	.	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+10	spair'	+	:	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	That	-	.	DT	0	iambic	iambic.chol.relaxed	-+-+-++--+
+2	mur	+	:	NN	1	iambic	iambic.chol.relaxed	-+-+-++--+
+3	mur	-	.	NN	2	iambic	iambic.chol.relaxed	-+-+-++--+
+4	soon	+	:	RB	0	iambic	iambic.chol.relaxed	-+-+-++--+
+5	re	-	.	NNS	1	iambic	iambic.chol.relaxed	-+-+-++--+
+6	plies	+	:	NNS	2	iambic	iambic.chol.relaxed	-+-+-++--+
+7	God	+	.	NNP	0	iambic	iambic.chol.relaxed	-+-+-++--+
+8	doth	-	.	VBZ	0	iambic	iambic.chol.relaxed	-+-+-++--+
+9	not	-	.	RB	0	iambic	iambic.chol.relaxed	-+-+-++--+
+10	need	+	:	VB	0	iambic	iambic.chol.relaxed	-+-+-++--+
+
+1	Some	-	.	RB	1	iambic	iambic.penta	-+-+-+-+-+
+2	times	+	:	RB	2	iambic	iambic.penta	-+-+-+-+-+
+3	I	-	.	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+4	joy	+	:	VBP	0	iambic	iambic.penta	-+-+-+-+-+
+5	when	-	.	WRB	0	iambic	iambic.penta	-+-+-+-+-+
+6	glad	+	:	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+7	oc	-	.	NN	1	iambic	iambic.penta	-+-+-+-+-+
+8	ca	+	:	NN	2	iambic	iambic.penta	-+-+-+-+-+
+9	sion	-	.	NN	3	iambic	iambic.penta	-+-+-+-+-+
+10	fits	+	:	NNS	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Yield	-	.	NN	0	iambic	iambic.tri	-+-+-+
+2	such	+	:	PDT	0	iambic	iambic.tri	-+-+-+
+3	an	-	.	DT	0	iambic	iambic.tri	-+-+-+
+4	al	+	:	NN	1	iambic	iambic.tri	-+-+-+
+5	co	-	.	NN	2	iambic	iambic.tri	-+-+-+
+6	hol	+	:	NN	3	iambic	iambic.tri	-+-+-+
+
+1	Thus	-	.	RB	0	iambic	iambic.tetra	-+-+-+-+
+2	un	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+3	la	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+4	ment	+	:	JJ	3	iambic	iambic.tetra	-+-+-+-+
+5	ed	-	.	JJ	4	iambic	iambic.tetra	-+-+-+-+
+6	let	+	:	VB	0	iambic	iambic.tetra	-+-+-+-+
+7	me	-	.	PRP	0	iambic	iambic.tetra	-+-+-+-+
+8	die	+	:	VB	0	iambic	iambic.tetra	-+-+-+-+
+
+1	In	+	.	IN	1	iambic	iambic.tri.invert	+--+-+
+2	to	-	.	IN	2	iambic	iambic.tri.invert	+--+-+
+3	the	-	:	DT	0	iambic	iambic.tri.invert	+--+-+
+4	mouth	+	.	NN	0	iambic	iambic.tri.invert	+--+-+
+5	of	-	:	IN	0	iambic	iambic.tri.invert	+--+-+
+6	Hell	+	.	NNP	0	iambic	iambic.tri.invert	+--+-+
+
+1	If	+	.	IN	0	iambic	iambic.penta.invert	+--+-+-+-+-
+2	you	-	.	PRP	0	iambic	iambic.penta.invert	+--+-+-+-+-
+3	can	-	:	MD	0	iambic	iambic.penta.invert	+--+-+-+-+-
+4	dream	+	.	VB	0	iambic	iambic.penta.invert	+--+-+-+-+-
+5	and	-	:	CC	0	iambic	iambic.penta.invert	+--+-+-+-+-
+6	not	+	.	RB	0	iambic	iambic.penta.invert	+--+-+-+-+-
+7	make	-	:	VB	0	iambic	iambic.penta.invert	+--+-+-+-+-
+8	dreams	+	.	NNS	0	iambic	iambic.penta.invert	+--+-+-+-+-
+9	your	-	:	PRP$	0	iambic	iambic.penta.invert	+--+-+-+-+-
+10	mas	+	.	NN	1	iambic	iambic.penta.invert	+--+-+-+-+-
+11	ter	-	:	NN	2	iambic	iambic.penta.invert	+--+-+-+-+-
+
+1	If	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+2	all	+	:	DT	0	iambic	iambic.penta	-+-+-+-+-+
+3	men	-	.	NNS	0	iambic	iambic.penta	-+-+-+-+-+
+4	count	+	:	VBP	0	iambic	iambic.penta	-+-+-+-+-+
+5	with	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+6	you	+	:	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+7	but	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+8	none	+	:	RB	0	iambic	iambic.penta	-+-+-+-+-+
+9	too	-	.	RB	0	iambic	iambic.penta	-+-+-+-+-+
+10	much	+	:	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.chol.relaxed	-+--+
+2	mor	+	:	JJ	1	iambic	iambic.chol.relaxed	-+--+
+3	tal	-	.	JJ	2	iambic	iambic.chol.relaxed	-+--+
+4	a	-	.	NNS	1	iambic	iambic.chol.relaxed	-+--+
+5	larms	+	:	NNS	2	iambic	iambic.chol.relaxed	-+--+
+
+1	Cos	+	.	NN	1	amphi	amphi.di.relaxed	+--+-
+2	sack	-	.	NN	2	amphi	amphi.di.relaxed	+--+-
+3	and	-	:	CC	0	amphi	amphi.di.relaxed	+--+-
+4	Rus	+	.	JJ	1	amphi	amphi.di.relaxed	+--+-
+5	sian	-	:	JJ	2	amphi	amphi.di.relaxed	+--+-
+
+1	But	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+2	when	+	:	WRB	0	iambic	iambic.penta	-+-+-+-+-+
+3	I	-	.	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+4	laugh	+	:	VBP	0	iambic	iambic.penta	-+-+-+-+-+
+5	she	-	.	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+6	mocks	+	:	VBZ	0	iambic	iambic.penta	-+-+-+-+-+
+7	and	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+8	when	+	:	WRB	0	iambic	iambic.penta	-+-+-+-+-+
+9	I	-	.	PRP	0	iambic	iambic.penta	-+-+-+-+-+
+10	cry	+	:	VBP	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Dread	+	.	VBG	1	iambic	iambic.tri.invert	+--+-+
+2	ing	-	.	VBG	2	iambic	iambic.tri.invert	+--+-+
+3	and	-	:	CC	0	iambic	iambic.tri.invert	+--+-+
+4	hop	+	.	VBG	1	iambic	iambic.tri.invert	+--+-+
+5	ing	-	:	VBG	2	iambic	iambic.tri.invert	+--+-+
+6	all	+	.	DT	0	iambic	iambic.tri.invert	+--+-+
+
+1	But	-	.	CC	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	what	+	:	WP	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	has	-	.	VBZ	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	been	+	:	VBN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	has	-	.	VBZ	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	been	+	:	VBN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	and	-	.	CC	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	I	+	:	PRP	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	have	-	.	VBP	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	had	+	:	VBN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	my	-	.	PRP$	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	hour	+	:	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Be	-	.	IN	1	iambic	iambic.chol.relaxed	-+-+--+
+2	fore	+	:	IN	2	iambic	iambic.chol.relaxed	-+-+--+
+3	they	-	.	PRP	0	iambic	iambic.chol.relaxed	-+-+--+
+4	plant	+	:	VBD	1	iambic	iambic.chol.relaxed	-+-+--+
+5	ed	-	.	VBD	2	iambic	iambic.chol.relaxed	-+-+--+
+6	the	-	.	DT	0	iambic	iambic.chol.relaxed	-+-+--+
+7	trees	+	:	NNS	0	iambic	iambic.chol.relaxed	-+-+--+
+
+1	For	+	:	IN	0	troch	troch.tetra	+-+-+-+
+2	each	-	.	DT	0	troch	troch.tetra	+-+-+-+
+3	year	+	:	NN	0	troch	troch.tetra	+-+-+-+
+4	their	-	.	PRP$	0	troch	troch.tetra	+-+-+-+
+5	price	+	:	NN	0	troch	troch.tetra	+-+-+-+
+6	is	-	.	VBZ	0	troch	troch.tetra	+-+-+-+
+7	more	+	:	RBR	0	troch	troch.tetra	+-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.tri	-+-+-+
+2	mark	+	:	VB	0	iambic	iambic.tri	-+-+-+
+3	them	-	.	PRP	0	iambic	iambic.tri	-+-+-+
+4	with	+	:	IN	0	iambic	iambic.tri	-+-+-+
+5	your	-	.	PRP$	0	iambic	iambic.tri	-+-+-+
+6	dead	+	:	JJ	0	iambic	iambic.tri	-+-+-+
+
+1	Some	+	.	DT	0	amphi	amphi.di.relaxed	+--+-
+2	one	-	.	CD	0	amphi	amphi.di.relaxed	+--+-
+3	had	-	:	VBD	0	amphi	amphi.di.relaxed	+--+-
+4	blun	+	.	NN	1	amphi	amphi.di.relaxed	+--+-
+5	der'd	-	:	NN	2	amphi	amphi.di.relaxed	+--+-
+
+1	Ah	+	:	NNP	0	troch	troch.tetra	+-+-+-+
+2	how	-	.	WRB	0	troch	troch.tetra	+-+-+-+
+3	gay	+	:	NN	0	troch	troch.tetra	+-+-+-+
+4	is	-	.	VBZ	0	troch	troch.tetra	+-+-+-+
+5	young	+	:	JJ	0	troch	troch.tetra	+-+-+-+
+6	De	-	.	NN	1	troch	troch.tetra	+-+-+-+
+7	sire	+	:	NN	2	troch	troch.tetra	+-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+2	walked	+	:	VBD	0	iambic	iambic.tetra	-+-+-+-+
+3	with	-	.	IN	0	iambic	iambic.tetra	-+-+-+-+
+4	in	+	:	JJ	1	iambic	iambic.tetra	-+-+-+-+
+5	ward	-	.	JJ	2	iambic	iambic.tetra	-+-+-+-+
+6	glo	+	:	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	ry	-	.	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	crowned	+	:	VBN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	When	+	.	WRB	0	iambic	iambic.tri.invert	+--+-+
+2	can	-	.	MD	0	iambic	iambic.tri.invert	+--+-+
+3	their	-	:	PRP$	0	iambic	iambic.tri.invert	+--+-+
+4	glo	+	.	NN	1	iambic	iambic.tri.invert	+--+-+
+5	ry	-	:	NN	2	iambic	iambic.tri.invert	+--+-+
+6	fade	+	.	NN	0	iambic	iambic.tri.invert	+--+-+
+
+1	And	-	.	CC	0	iambic	iambic.relaxed.syll	-+--+-++
+2	mon	+	:	VB	1	iambic	iambic.relaxed.syll	-+--+-++
+3	y	-	.	VB	2	iambic	iambic.relaxed.syll	-+--+-++
+4	a	-	.	DT	0	iambic	iambic.relaxed.syll	-+--+-++
+5	can	+	:	JJ	1	iambic	iambic.relaxed.syll	-+--+-++
+6	tie	-	.	JJ	2	iambic	iambic.relaxed.syll	-+--+-++
+7	day	+	:	NN	0	iambic	iambic.relaxed.syll	-+--+-++
+8	John	+	.	NNP	0	iambic	iambic.relaxed.syll	-+--+-++
+
+1	Be	-	.	NNP	0	iambic	iambic.tetra	-+-+-+-+
+2	fair	+	:	JJ	0	iambic	iambic.tetra	-+-+-+-+
+3	or	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+4	foul	+	:	JJ	0	iambic	iambic.tetra	-+-+-+-+
+5	or	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+6	rain	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	or	-	.	CC	0	iambic	iambic.tetra	-+-+-+-+
+8	shine	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Be	-	.	IN	1	iambic	iambic.tri	-+-+-+
+2	cause	+	:	IN	2	iambic	iambic.tri	-+-+-+
+3	they	-	.	PRP	0	iambic	iambic.tri	-+-+-+
+4	see	+	:	VBP	0	iambic	iambic.tri	-+-+-+
+5	so	-	.	RB	0	iambic	iambic.tri	-+-+-+
+6	few	+	:	JJ	0	iambic	iambic.tri	-+-+-+
+
+1	From	-	.	IN	0	iambic	iambic.tri	-+-+-+
+2	tan	+	:	NNS	1	iambic	iambic.tri	-+-+-+
+3	kards	-	.	NNS	2	iambic	iambic.tri	-+-+-+
+4	scooped	+	:	VBN	0	iambic	iambic.tri	-+-+-+
+5	in	-	.	IN	0	iambic	iambic.tri	-+-+-+
+6	pearl	+	:	NN	0	iambic	iambic.tri	-+-+-+
+
+1	pip	+	.	NN	1	amphi	amphi.di.relaxed	+--+-
+2	ing	-	.	NN	2	amphi	amphi.di.relaxed	+--+-
+3	of	-	:	IN	0	amphi	amphi.di.relaxed	+--+-
+4	plen	+	.	NN	1	amphi	amphi.di.relaxed	+--+-
+5	ty	-	:	NN	2	amphi	amphi.di.relaxed	+--+-
+
+1	What	-	.	WP	0	iambic	iambic.penta	-+-+-+-+-+
+2	kind	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+3	of	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+4	Ven	+	:	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	geance	-	.	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	rests	+	:	NNS	0	iambic	iambic.penta	-+-+-+-+-+
+7	for	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+8	thee	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	in	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+10	store	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	What	-	.	WP	0	iambic	iambic.penta	-+-+-+-+-+
+2	pas	+	:	NN	1	iambic	iambic.penta	-+-+-+-+-+
+3	sion	-	.	NN	2	iambic	iambic.penta	-+-+-+-+-+
+4	can	+	:	MD	0	iambic	iambic.penta	-+-+-+-+-+
+5	not	-	.	RB	0	iambic	iambic.penta	-+-+-+-+-+
+6	Mu	+	:	NNP	1	iambic	iambic.penta	-+-+-+-+-+
+7	sic	-	.	NNP	2	iambic	iambic.penta	-+-+-+-+-+
+8	raise	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	and	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+10	quell	+	:	VB	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	My	-	.	PRP$	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+2	long	+	:	JJ	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+3	scythe	-	.	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+4	whis	+	:	VBN	1	iambic	iambic.relaxed.syll	-+-+--+-+-+
+5	pered	-	.	VBN	2	iambic	iambic.relaxed.syll	-+-+--+-+-+
+6	and	-	.	CC	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+7	left	+	:	VBD	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+8	the	-	.	DT	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+9	hay	+	:	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+10	to	-	.	TO	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+11	make	+	:	VB	0	iambic	iambic.relaxed.syll	-+-+--+-+-+
+
+1	That	-	.	IN	0	anapaest	anapaest.tri.plus	--+--+--+
+2	he	-	.	PRP	0	anapaest	anapaest.tri.plus	--+--+--+
+3	shouts	+	:	VBZ	0	anapaest	anapaest.tri.plus	--+--+--+
+4	with	-	.	IN	0	anapaest	anapaest.tri.plus	--+--+--+
+5	his	-	.	PRP$	0	anapaest	anapaest.tri.plus	--+--+--+
+6	sis	+	:	NN	1	anapaest	anapaest.tri.plus	--+--+--+
+7	ter	-	.	NN	2	anapaest	anapaest.tri.plus	--+--+--+
+8	at	-	.	IN	0	anapaest	anapaest.tri.plus	--+--+--+
+9	play	+	:	NN	0	anapaest	anapaest.tri.plus	--+--+--+
+
+1	seed	+	.	NNS	1	troch	troch.single	+-
+2	husks	-	:	NNS	2	troch	troch.single	+-
+
+1	Its	-	.	PRP$	0	iambic	iambic.tetra	-+-+-+-+
+2	past	+	:	NN	0	iambic	iambic.tetra	-+-+-+-+
+3	en	-	.	VBD	1	iambic	iambic.tetra	-+-+-+-+
+4	light	+	:	VBD	2	iambic	iambic.tetra	-+-+-+-+
+5	ened	-	.	VBD	3	iambic	iambic.tetra	-+-+-+-+
+6	to	+	:	TO	0	iambic	iambic.tetra	-+-+-+-+
+7	per	-	.	VB	1	iambic	iambic.tetra	-+-+-+-+
+8	ceive	+	:	VB	2	iambic	iambic.tetra	-+-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+2	in	+	:	IN	0	iambic	iambic.penta	-+-+-+-+-+
+3	this	-	.	DT	0	iambic	iambic.penta	-+-+-+-+-+
+4	flea	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+5	our	-	.	PRP$	0	iambic	iambic.penta	-+-+-+-+-+
+6	two	+	:	CD	0	iambic	iambic.penta	-+-+-+-+-+
+7	bloods	-	.	NNS	0	iambic	iambic.penta	-+-+-+-+-+
+8	min	+	:	VBD	1	iambic	iambic.penta	-+-+-+-+-+
+9	gled	-	.	VBD	2	iambic	iambic.penta	-+-+-+-+-+
+10	bee	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	If	+	.	IN	0	iambic	iambic.penta.invert	+--+-+-+-+-
+2	you	-	.	PRP	0	iambic	iambic.penta.invert	+--+-+-+-+-
+3	can	-	:	MD	0	iambic	iambic.penta.invert	+--+-+-+-+-
+4	make	+	.	VB	0	iambic	iambic.penta.invert	+--+-+-+-+-
+5	one	-	:	CD	0	iambic	iambic.penta.invert	+--+-+-+-+-
+6	heap	+	.	NN	0	iambic	iambic.penta.invert	+--+-+-+-+-
+7	of	-	:	IN	0	iambic	iambic.penta.invert	+--+-+-+-+-
+8	all	+	.	DT	0	iambic	iambic.penta.invert	+--+-+-+-+-
+9	your	-	:	PRP$	0	iambic	iambic.penta.invert	+--+-+-+-+-
+10	win	+	.	NNS	1	iambic	iambic.penta.invert	+--+-+-+-+-
+11	nings	-	:	NNS	2	iambic	iambic.penta.invert	+--+-+-+-+-
+
+1	He	-	.	PRP	0	anapaest	anapaest.di.plus	--+--+
+2	knows	-	.	VBZ	0	anapaest	anapaest.di.plus	--+--+
+3	death	+	:	NN	0	anapaest	anapaest.di.plus	--+--+
+4	to	-	.	TO	0	anapaest	anapaest.di.plus	--+--+
+5	the	-	.	DT	0	anapaest	anapaest.di.plus	--+--+
+6	bone	+	:	NN	0	anapaest	anapaest.di.plus	--+--+
+
+1	In	-	.	IN	0	anapaest	anapaest.init	--+-+
+2	the	-	.	DT	0	anapaest	anapaest.init	--+-+
+3	howl	+	:	NN	1	anapaest	anapaest.init	--+-+
+4	ing	-	.	NN	2	anapaest	anapaest.init	--+-+
+5	storm	+	:	NN	0	anapaest	anapaest.init	--+-+
+
+1	Has	-	.	NNP	0	anapaest	anapaest.init	--+-+
+2	found	-	.	VBN	0	anapaest	anapaest.init	--+-+
+3	out	+	:	RP	0	anapaest	anapaest.init	--+-+
+4	thy	-	.	JJ	0	anapaest	anapaest.init	--+-+
+5	bed	+	:	NN	0	anapaest	anapaest.init	--+-+
+
+1	Whilst	-	.	NNP	0	iambic	iambic.tri	-+-+-+
+2	skies	+	:	NNS	0	iambic	iambic.tri	-+-+-+
+3	are	-	.	VBP	0	iambic	iambic.tri	-+-+-+
+4	blue	+	:	JJ	0	iambic	iambic.tri	-+-+-+
+5	and	-	.	CC	0	iambic	iambic.tri	-+-+-+
+6	bright	+	:	JJ	0	iambic	iambic.tri	-+-+-+
+
+1	In	-	.	IN	0	anapaest	anapaest.di.plus	--+--+-+-+
+2	this	-	.	DT	0	anapaest	anapaest.di.plus	--+--+-+-+
+3	close	+	:	JJ	0	anapaest	anapaest.di.plus	--+--+-+-+
+4	hand	-	.	NN	0	anapaest	anapaest.di.plus	--+--+-+-+
+5	of	-	.	IN	0	anapaest	anapaest.di.plus	--+--+-+-+
+6	Love	+	:	NNP	0	anapaest	anapaest.di.plus	--+--+-+-+
+7	now	-	.	RB	0	anapaest	anapaest.di.plus	--+--+-+-+
+8	soft	+	:	JJ	0	anapaest	anapaest.di.plus	--+--+-+-+
+9	and	-	.	CC	0	anapaest	anapaest.di.plus	--+--+-+-+
+10	warm	+	:	JJ	0	anapaest	anapaest.di.plus	--+--+-+-+
+
+1	Where	-	.	WRB	0	iambic	iambic.chol.relaxed	--+-+--+
+2	the	-	.	DT	0	iambic	iambic.chol.relaxed	--+-+--+
+3	ot	+	:	NN	1	iambic	iambic.chol.relaxed	--+-+--+
+4	ter	-	.	NN	2	iambic	iambic.chol.relaxed	--+-+--+
+5	whis	+	:	VBZ	1	iambic	iambic.chol.relaxed	--+-+--+
+6	tles	-	.	VBZ	2	iambic	iambic.chol.relaxed	--+-+--+
+7	his	-	.	PRP$	0	iambic	iambic.chol.relaxed	--+-+--+
+8	mate	+	:	NN	0	iambic	iambic.chol.relaxed	--+-+--+
+
+1	If	+	.	IN	0	iambic	iambic.penta.invert	+--+-+-+-+-
+2	you	-	.	PRP	0	iambic	iambic.penta.invert	+--+-+-+-+-
+3	can	-	:	MD	0	iambic	iambic.penta.invert	+--+-+-+-+-
+4	trust	+	.	VB	0	iambic	iambic.penta.invert	+--+-+-+-+-
+5	your	-	:	PRP	1	iambic	iambic.penta.invert	+--+-+-+-+-
+6	self	+	.	PRP	2	iambic	iambic.penta.invert	+--+-+-+-+-
+7	when	-	:	WRB	0	iambic	iambic.penta.invert	+--+-+-+-+-
+8	all	+	.	DT	0	iambic	iambic.penta.invert	+--+-+-+-+-
+9	men	-	:	NNS	0	iambic	iambic.penta.invert	+--+-+-+-+-
+10	doubt	+	.	VBP	0	iambic	iambic.penta.invert	+--+-+-+-+-
+11	you	-	:	PRP	0	iambic	iambic.penta.invert	+--+-+-+-+-
+
+1	Sure	+	.	RB	1	troch	troch.relaxed.syll	+-+--+-+-+
+2	ly	-	:	RB	2	troch	troch.relaxed.syll	+-+--+-+-+
+3	some	+	.	DT	0	troch	troch.relaxed.syll	+-+--+-+-+
+4	rev	-	.	NN	1	troch	troch.relaxed.syll	+-+--+-+-+
+5	e	-	:	NN	2	troch	troch.relaxed.syll	+-+--+-+-+
+6	la	+	.	NN	3	troch	troch.relaxed.syll	+-+--+-+-+
+7	tion	-	:	NN	4	troch	troch.relaxed.syll	+-+--+-+-+
+8	is	+	.	VBZ	0	troch	troch.relaxed.syll	+-+--+-+-+
+9	at	-	:	IN	0	troch	troch.relaxed.syll	+-+--+-+-+
+10	hand	+	.	NN	0	troch	troch.relaxed.syll	+-+--+-+-+
+
+1	What	-	.	WDT	1	iambic	iambic.penta	-+-+-+-+-+
+2	ev	+	:	WDT	2	iambic	iambic.penta	-+-+-+-+-+
+3	er	-	.	WDT	3	iambic	iambic.penta	-+-+-+-+-+
+4	dies	+	:	NNS	0	iambic	iambic.penta	-+-+-+-+-+
+5	was	-	.	VBD	0	iambic	iambic.penta	-+-+-+-+-+
+6	not	+	:	RB	0	iambic	iambic.penta	-+-+-+-+-+
+7	mixed	-	.	JJ	0	iambic	iambic.penta	-+-+-+-+-+
+8	e	+	:	RB	1	iambic	iambic.penta	-+-+-+-+-+
+9	qual	-	.	RB	2	iambic	iambic.penta	-+-+-+-+-+
+10	ly	+	:	RB	3	iambic	iambic.penta	-+-+-+-+-+
+
+1	And	-	.	CC	0	iambic	iambic.penta	-+-+-+-+-+
+2	Met	+	:	NNP	1	iambic	iambic.penta	-+-+-+-+-+
+3	a	-	.	NNP	2	iambic	iambic.penta	-+-+-+-+-+
+4	phys	+	:	NNP	3	iambic	iambic.penta	-+-+-+-+-+
+5	ic	-	.	NNP	4	iambic	iambic.penta	-+-+-+-+-+
+6	calls	+	:	VBZ	0	iambic	iambic.penta	-+-+-+-+-+
+7	for	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+8	aid	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	on	-	.	IN	0	iambic	iambic.penta	-+-+-+-+-+
+10	Sense	+	:	NN	0	iambic	iambic.penta	-+-+-+-+-+
+

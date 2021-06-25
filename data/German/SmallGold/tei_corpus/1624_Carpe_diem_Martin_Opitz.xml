@@ -1,0 +1,113 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Carpe diem</title>
+        <author>
+          <persName>
+            <surname>Opitz</surname>
+            <forename>Martin</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">40</measure>
+        <measure type="verses_per_stanza">1-8, 2-8, 3-8, 4-8, 5-8</measure>
+        <measure type="tokens">209</measure>
+        <measure type="sentences">13</measure>
+        <measure type="characters">982</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1624</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/martin-opitz-carpe-diem,textbearbeitung,189.html">Carpe diem - Martin Opitz (Interpretation #189)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Barock</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Carpe diem</head>
+          <lg rhyme="abbacddc" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" emo1="suspense" enj_k="4" enj="5">Ich empfinde fast ein Grauen,</l>
+            <l met="+-|+-|+-|+" rhythm="02|20|102|" emo1="suspense" enj_k="3" enj="3">dass ich, Plato, für und für</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="suspense" enj_k="5" enj="5">bin gesessen über dir.</l>
+            <l met="+-|+-|+-|+-|" rhythm="002|02010|" emo1="vitality" enj_k="3" enj="5">Es ist Zeit hinauszuschauen</l>
+            <l met="+-|+-|+-|+-|" rhythm="00001020|" emo1="vitality" enj_k="3" enj="3">und sich bei den frischen Quellen</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" emo1="vitality" enj_k="cc_5" enj="5">in dem Grünen zu ergehn.</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="vitality" enj_k="4" enj="5">wo die schönen Blumen stehn</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" emo1="vitality" enj_k="5" enj="5">und die Fischer Netze stellen!</l>
+          </lg>
+          <lg rhyme="abbacddc" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" emo1="sadness" enj_k="3" enj="5">Wozu dienet das Studieren</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="sadness" enj_k="5" enj="5">als zu lauter Ungemach!</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" emo1="sadness" enj_k="2_NP" enj="5">Unterdessen läuft die Bach</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|0020|" emo1="sadness" enj_k="4" enj="5">unsers Lebens, das wir führen,</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002010|" emo1="sadness" enj_k="4" enj="5">ehe wir es inne werden,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="sadness" enj_k="5" enj="5">auf ihr letztes Ende hin:</l>
+            <l met="+-|+-|+-|+" rhythm="0200102|" emo1="sadness" enj_k="3" enj="3">dann kömmt ohne Geist und Sinn</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" emo1="sadness" enj_k="5" enj="5">dieses alles in die Erden.</l>
+          </lg>
+          <lg rhyme="abbacddc" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20|20|1020|" emo1="vitality" enj_k="4" enj="4">Holla, Junger, geh und frage,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="vitality" enj_k="4" enj="5">wo der beste Trunk mag sein,</l>
+            <l met="+-|+-|+-|+" rhythm="1020102|" emo1="vitality" enj_k="5" enj="5">nimm den Krug und fülle Wein!</l>
+            <l met="+-|+-|+-|+-|" rhythm="1020|1020|" emo1="vitality" enj_k="3" enj="3">Alles Trauren, Leid und Klage,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" emo1="vitality" enj_k="4" enj="4">wie wir Menschen täglich haben,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="vitality" enj_k="4" enj="4">eh uns Clotho fortgerafft,</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" emo1="vitality" enj_k="cc_4" enj="3">will ich in den süssen Saft,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102|020|" emo1="vitality" enj_k="5" enj="5">den die Traube gibt, vergraben.</l>
+          </lg>
+          <lg rhyme="abbacddc" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" emo1="humor" enj_k="4" enj="5">Kaufe gleichfalls auch Melonen</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="humor" enj_k="4" enj="5">und vergiss des Zuckers nicht,</l>
+            <l met="+-|+-|+-|+" rhythm="102|0002|" emo1="humor" enj_k="5" enj="5">schaue nur, dass nichts gebricht!</l>
+            <l met="+-|+-|+-|+-|" rhythm="00101020|" emo1="humor" enj_k="cc_5" enj="4">Jener mag der Heller schonen,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00001020|" emo1="humor" enj_k="3" enj="3">der bei seinem Gold und Schätzen</l>
+            <l met="+-|+-|+-|+" rhythm="1000201|" emo1="humor" enj_k="4" enj="5">tolle sich zu kränken pflegt</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" emo1="humor" enj_k="5" enj="5">und nicht satt zu Bette legt;</l>
+            <l met="+-|+-|+-|+-|" rhythm="20|002|020|" emo1="humor" enj_k="5" enj="5">ich will, weil ich kann, mich letzen!</l>
+          </lg>
+          <lg rhyme="abbacddc" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" emo1="vitality" enj_k="3" enj="3">Bitte meine guten Brüder</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" emo1="vitality" enj_k="5" enj="5">auf die Musik und ein Glas!</l>
+            <l met="+-|+-|+-|+" rhythm="0120|20|1|" emo1="vitality" enj_k="3" enj="3">Kein Ding schickt sich, dünkt mich, bass</l>
+            <l met="+-|+-|+-|+-|" rhythm="01201020|" emo1="vitality" enj_k="5" enj="5">als gut Trank und gute Lieder.</l>
+            <l met="+-|+-|+-|+-|" rhythm="10001020|" emo1="vitality" emo2="humor" enj_k="4" enj="4">Lass ich gleich nicht viel zu erben,</l>
+            <l met="+-|+-|+-|+" rhythm="2|020102|" emo1="vitality" emo2="humor" enj_k="5" enj="5">ei, so hab ich edlen Wein!</l>
+            <l met="+-|+-|+-|+" rhythm="1000201|" emo1="vitality" emo2="humor" enj_k="4" enj="4">Will mit andern lustig sein,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00001020|" emo1="vitality" emo2="humor" enj_k="5" enj="5">muss ich gleich alleine sterben.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

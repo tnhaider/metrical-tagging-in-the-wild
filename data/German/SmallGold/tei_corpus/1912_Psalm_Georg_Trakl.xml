@@ -1,0 +1,108 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Psalm</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">37</measure>
+        <measure type="verses_per_stanza">1-9, 2-9, 3-9, 4-9, 5-1</measure>
+        <measure type="tokens">356</measure>
+        <measure type="sentences">35</measure>
+        <measure type="characters">1952</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1912</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-trakl-psalm,textbearbeitung,171.html">Psalm - Georg Trakl (Interpretation #171)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Psalm</head>
+          <lg rhyme="abcdefghi" type="stanza">
+            <l rhythm="0002|0012010|" enj_k="5" enj="5">Es ist ein Licht, das der Wind ausgelöscht hat.</l>
+            <l rhythm="000201|002000010002|" enj_k="5" enj="5">Es ist ein Heidekrug, den am Nachmittag ein Betrunkener verläßt.</l>
+            <l rhythm="00020|0102010020|" enj_k="5" enj="5">Es ist ein Weinberg, verbrannt und schwarz mit Löchern voll Spinnen.</l>
+            <l rhythm="0002|00020100|" enj_k="5" enj="5">Es ist ein Raum, den sie mit Milch getüncht haben.</l>
+            <l rhythm="020000020|000010020|" enj_k="4" enj="5">Der Wahnsinnige ist gestorben. Es ist eine Insel der Südsee,</l>
+            <l rhythm="02010020|01020|" enj_k="5" enj="5">Den Sonnengott zu empfangen. Man rührt die Trommeln.</l>
+            <l rhythm="020|001000201|" enj_k="5" enj="5">Die Männer führen kriegerische Tänze auf.</l>
+            <l rhythm="020|100200201002010|" enj_k="4" enj="5">Die Frauen wiegen die Hüften in Schlinggewächsen und Feuerblumen,</l>
+            <l rhythm="0021|2000100002|" enj_k="3" enj="3">Wenn das Meer singt. O unser verlorenes Paradies.</l>
+          </lg>
+          <lg rhyme="abcdefghi" type="stanza">
+            <l rhythm="02000010020020|" enj_k="5" enj="5">Die Nymphen haben die goldenen Wälder verlassen.</l>
+            <l rhythm="001020|01020100|" enj_k="5" enj="5">Man begräbt den Fremden. Dann hebt ein Flimmerregen an.</l>
+            <l rhythm="010201001002010|" enj_k="cc_5" enj="5">Der Sohn des Pan erscheint in Gestalt eines Erdarbeiters,</l>
+            <l rhythm="002001000102|" enj_k="5" enj="5">Der den Mittag am glühenden Asphalt verschläft.</l>
+            <l rhythm="001020|0002|02002010020|" enj_k="5" enj="5">Es sind kleine Mädchen in einem Hof in Kleidchen voll herzzerreißender Armut.</l>
+            <l rhythm="0020|0200200020|" enj_k="5" enj="5">Es sind Zimmer, erfüllt von Akkorden und Sonaten.</l>
+            <l rhythm="0020|00000010020020|" enj_k="5" enj="5">Es sind Schatten, die sich vor einem erblindeten Spiegel umarmen.</l>
+            <l rhythm="00100021000200|" enj_k="5" enj="5">An den Fenstern des Spitals wärmen sich Genesende.</l>
+            <l rhythm="01020002|01002001|" enj_k="5" enj="5">Ein weißer Dampfer am Kanal trägt blutige Seuchen herauf.</l>
+          </lg>
+          <lg rhyme="abcdefghi" type="stanza">
+            <l rhythm="01020|02100001020|" enj_k="5" enj="5">Die fremde Schwester erscheint wieder in jemands bösen Träumen.</l>
+            <l rhythm="10020011000020|" enj_k="5" enj="5">Ruhend im Haselgebüsch spielt sie mit seinen Schatten.</l>
+            <l rhythm="002|0002010|00100201|" enj_k="5" enj="5">Der Student, vielleicht ein Doppelgänger, schaut ihr lange vom Fenster nach.</l>
+            <l rhythm="200201020|0001010201001|" enj_k="5" enj="5">Hinter ihm steht sein toter Bruder, oder er geht die alte Wendeltreppe herab.</l>
+            <l rhythm="02010020|01002010020|" enj_k="5" enj="5">Im Dunkel brauner Kastanien verblaßt die Gestalt des jungen Novizen.</l>
+            <l rhythm="0100020|020|100201001|" enj_k="5" enj="5">Der Garten ist im Abend. Im Kreuzgang flattern die Fledermäuse umher.</l>
+            <l rhythm="0100200100201|01001020|" enj_k="5" enj="5">Die Kinder des Hausmeisters hören zu spielen auf und suchen das Gold des Himmels.</l>
+            <l rhythm="10000002|010200100002|" enj_k="4" enj="5">Endakkorde eines Quartetts. Die kleine Blinde läuft zitternd durch die Allee,</l>
+            <l rhythm="01010020|010201|010020|0100020|" enj_k="5" enj="5">Und später tastet ihr Schatten an kalten Mauern hin, umgeben vom Märchen und heiligen Legenden.</l>
+          </lg>
+          <lg rhyme="abcbdaedfg" type="stanza">
+            <l rhythm="000102|0020010020201|" enj_k="5" enj="5">Es ist ein leeres Boot, das am Abend den schwarzen Kanal heruntertreibt.</l>
+            <l rhythm="0020001002|020100020|" enj_k="5" enj="5">In der Düsternis des alten Asyls verfallen menschliche Ruinen.</l>
+            <l rhythm="01020|10002010|" enj_k="5" enj="5">Die toten Waisen liegen an der Gartenmauer.</l>
+            <l rhythm="0102000200201020|" enj_k="5" enj="5">Aus grauen Zimmern treten Engel mit kotgefleckten Flügeln.</l>
+            <l rhythm="201000001020|" enj_k="5" enj="5">Würmer tropfen von ihren vergilbten Lidern.</l>
+            <l rhythm="010020010020|00010020|" enj_k="5" enj="5">Der Platz vor der Kirche ist finster und schweigsam, wie in den Tagen der Kindheit.</l>
+            <l rhythm="010020101002001|" enj_k="4" enj="5">Auf silbernen Sohlen gleiten frühere Leben vorbei</l>
+            <l rhythm="0010002010001002010|" enj_k="5" enj="5">Und die Schatten der Verdammten steigen zu den seufzenden Wassern nieder.</l>
+            <l rhythm="0002101020000020|" enj_k="5" enj="5">In seinem Grab spielt der weiße Magier mit seinen Schlangen.</l>
+            <l rhythm="1000020101002010020|" enj_k="5" enj="5">Schweigsam über der Schädelstätte öffnen sich Gottes goldene Augen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

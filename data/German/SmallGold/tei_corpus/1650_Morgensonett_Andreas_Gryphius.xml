@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Morgensonett</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">120</measure>
+        <measure type="sentences">10</measure>
+        <measure type="characters">594</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/andreas-gryphius-morgensonett,textbearbeitung,398.html">Morgensonett - Andreas Gryphius (Interpretation #398)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Barock</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Morgensonett</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020102|0001020|" enj_k="5" enj="5">Die ewighelle Schar will nun ihr Licht verschließen;</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010002|010202" enj_k="3" enj="5">Diana steht erblaßt; die Morgenröte lacht</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010201|010202|" enj_k="4" enj="5">Den grauen Himmel an, der sanfte Wind erwacht</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010201|0102010|" enj_k="5" enj="5">Und reizt das Federvolk, den neuen Tag zu grüßen.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010002|1001020|" enj_k="4" enj="5">Das Leben dieser Welt eilt schon die Welt zu küssen</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010202|020102" enj_k="3" enj="5">Und steckt sein Haupt empor; man sieht der Strahlen Pracht</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010002|100102|" enj_k="5" enj="5">Nun blinkern auf der See. O dreimal höchste Macht!</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="0102|000200020|" enj_k="5" enj="5">Erleuchte den, der sich jetzt beugt vor deinen Füßen!</l>
+          </lg>
+          <lg rhyme="aab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020102|000102|" enj_k="4" enj="5">Vertreib die dicke Nacht, die meine Seel umgibt,</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010200|010201|" enj_k="5" enj="5">Die Schmerzensfinsternis, die Herz und Geist betrübt!</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010002|0100020|" enj_k="5" enj="5">Erquicke mein Gemüt und stärke mein Vertrauen!</l>
+          </lg>
+          <lg rhyme="aab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="2|00002000102" enj_k="3" enj="3">Gib, daß ich diesen Tag in deinem Dienst allein</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="10|0002010201|" enj_k="4" enj="4">Zubring! und wenn mein End und jener Tag bricht ein,</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="001|002|02|01020|" enj_k="5" enj="5">Daß ich dich, meine Sonn! mein Licht! mög ewig schauen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Venus / Denn lieben ist nichts mehr - als eine schifferey</title>
+        <author>
+          <persName>
+            <surname>Lohenstein</surname>
+            <forename>Daniel Casper von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4</measure>
+        <measure type="tokens">133</measure>
+        <measure type="sentences">12</measure>
+        <measure type="characters">686</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1695</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/daniel-casper-von-lohenstein-venus,textbearbeitung,383.html">Venus - Daniel Casper von Lohenstein (Interpretation #383)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Barock</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Venus / Denn lieben ist nichts mehr - als eine schifferey</head>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010002|000002|" enj_k="5">Denn lieben ist nichts mehr/ als eine schifferey/</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010002|020001|" enj_k="3">Das schiff ist unser hertz/ den seilen kommen bey</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020100|0200020|" enj_k="5">Die sinn-verwirrungen. Das meer ist unser leben/</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02010002|00020|" enj_k="5">Die liebes-wellen sind die angst/ in der wir schweben/</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020|002000102|" enj_k="4">Die segel/ wo hinein bläst der begierden wind/</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000102|020|200" enj_k="3">Ist der gedancken tuch. Verlangen/ hoffnung sind</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020|001020|0010" enj_k="3">Die ancker. Der magnet ist schönheit. Unser strudel</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="0200|010201020|" enj_k="5">Sind Bathseben. Der wein und überfluß die rudel.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="02|0100010201|" enj_k="4">Der stern/ nach welchem man die steiffen segel lenckt/</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000102|02|0002|" enj_k="4">Ist ein benelckter mund. Der port/ wohin man denckt/</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="000102|0100020|" enj_k="5">Ist eine schöne frau. Die ufer sind die brüste.</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010002|020|1020|" enj_k="5">Die anfahrt ist ein kuß. Der zielzweck/ süsse lüste.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="100002|020102|" enj_k="3">Wird aber hier umwölckt/ durch blinder brünste rauch</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010002|010200|" enj_k="3">Die sonne der vernunfft/ so folgt der schiffbruch auch</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010200|0001020|" enj_k="4">Der seelen untergang/ und der verderb des leibes:</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="0002000100020|" enj_k="5">Denn beyde tödtet uns der lustbrauch eines weibes.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

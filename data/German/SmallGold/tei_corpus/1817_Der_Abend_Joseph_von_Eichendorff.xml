@@ -1,0 +1,72 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Abend</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">7</measure>
+        <measure type="verses_per_stanza">1-7</measure>
+        <measure type="tokens">33</measure>
+        <measure type="sentences">1</measure>
+        <measure type="characters">181</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1817</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/joseph-von-eichendorff-der-abend,textbearbeitung,199.html">Der Abend - Joseph von Eichendorff (Interpretation #199)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Romantik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Abend</head>
+          <lg rhyme="abbacca" type="stanza">
+            <l met="+-|+-|+-|+" rhythm="1020102|" enj_k="3">Schweigt der Menschen laute Lust:</l>
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="3">Rauscht die Erde wie in Träumen</l>
+            <l met="+-|+-|+-|+-|" rhythm="20000020|" enj_k="4">Wunderbar mit allen Bäumen,</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" enj_k="3">Was dem Herzen kaum bewusst,</l>
+            <l met="+-|+-|+-|+-|" rhythm="1020|1020|" enj_k="4">Alte Zeiten, linde Trauer,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="3">Und es schweifen leise Schauer</l>
+            <l met="+-|+-|+-|+" rhythm="2010002|" enj_k="5">Wetterleuchtend durch die Brust.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

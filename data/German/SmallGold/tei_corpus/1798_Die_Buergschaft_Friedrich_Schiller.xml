@@ -1,0 +1,243 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Bürgschaft</title>
+        <author>
+          <persName>
+            <surname>Schiller</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">20</measure>
+        <measure type="verses">140</measure>
+        <measure type="verses_per_stanza">1-7, 2-7, 3-7, 4-7, 5-7, 6-7, 7-7, 8-7, 9-7, 10-7, 11-7, 12-7, 13-7, 14-7, 15-7, 16-7, 17-7, 18-7, 19-7, 20-7</measure>
+        <measure type="tokens">870</measure>
+        <measure type="sentences">25</measure>
+        <measure type="characters">4267</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1798</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/friedrich-schiller-die-buergschaft,textbearbeitung,396.html">Die Bürgschaft - Friedrich Schiller (Interpretation #396)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Weimarer Klassik</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Bürgschaft</head>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+|-+-|-+-|-" rhythm="0002|0010|0" enj_k="3">Zu Dionys, dem Tyrannen, schlich</l>
+            <l met="+-|-+-|-+-|" rhythm="20|010020|" enj_k="5">Damon, den Dolch im Gewande:</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Ihn schlugen die Häscher in Bande,</l>
+            <l met="-+-|-+-|+-|+" rhythm="01000020|2|" enj_k="5">"Was wolltest du mit dem Dolche? sprich!"</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="0200100201|" enj_k="5">Entgegnet ihm finster der Wüterich.</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">"Die Stadt vom Tyrannen befreien!"</l>
+            <l met="-+-|-+-|-+-|" rhythm="010020010|" enj_k="5">"Das sollst du am Kreuze bereuen."</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+|-+-|-+-|-+|" rhythm="02|010|02001|" enj_k="4">"Ich bin", spricht jener, "zu sterben bereit</l>
+            <l met="-+|-+-|-+-|" rhythm="01000020|" enj_k="5">Und bitte nicht um mein Leben:</l>
+            <l met="-+|-+-|-+-|" rhythm="01020010|" enj_k="4">Doch willst du Gnade mir geben,</l>
+            <l met="-+|-+-|+--+|" rhythm="020001002|" enj_k="4">Ich flehe dich um drei Tage Zeit,</l>
+            <l met="-+|-+-|-+-|-+|" rhythm="0002001002|" enj_k="5">Bis ich die Schwester dem Gatten gefreit;</l>
+            <l met="-+-|-+-|-+-|" rhythm="010020020|" enj_k="5">Ich lasse den Freund dir als Bürgen,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|020|020|" enj_k="5">Ihn magst du, entrinn' ich, erwürgen."</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+-|-+-|-+-|+" rhythm="0200100102|" enj_k="4">Da lächelt der König mit arger List</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="5">Und spricht nach kurzem Bedenken:</l>
+            <l met="-+|-+-|-+-|" rhythm="02000020|" enj_k="5">"Drei Tage will ich dir schenken;</l>
+            <l met="-+-|-+|-+-|-+|" rhythm="020|00020|02|" enj_k="4">Doch wisse, wenn sie verstrichen, die Frist,</l>
+            <l met="-+|-+-|-+-|+" rhythm="000100201|" enj_k="4">Eh' du zurück mir gegeben bist,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="4">So muß er statt deiner erblassen,</l>
+            <l met="-+-|-+-|-+-|" rhythm="010010020|" enj_k="5">Doch dir ist die Strafe erlassen."</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="--+|-+-|-+-|-+|" rhythm="001020|01002|" enj_k="4">Und er kommt zum Freunde: "Der König gebeut,</l>
+            <l met="-+|-+-|-+-|" rhythm="00010020|" enj_k="3">Daß ich am Kreuz mit dem Leben</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|010020|" enj_k="5">Bezahle das frevelnde Streben.</l>
+            <l met="-+-|-+-|+--+|" rhythm="0100201002|" enj_k="4">Doch will er mir gönnen drei Tage Zeit,</l>
+            <l met="-+|-+-|-+-|-+|" rhythm="0002001002|" enj_k="5">Bis ich die Schwester dem Gatten gefreit;</l>
+            <l met="-+-|-+-|-+-|" rhythm="001020010|" enj_k="4">So bleib du dem König zum Pfande,</l>
+            <l met="-|-+-|-+-|-+-|" rhythm="0020010020|" enj_k="5">Bis ich komme zu lösen die Bande."</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+-|-+-|-+-|+" rhythm="0100200102|" enj_k="4">Und schweigend umarmt ihn der treue Freund</l>
+            <l met="-+-|-+-|-+-|" rhythm="010010020|" enj_k="5">Und liefert sich aus dem Tyrannen;</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Der andere ziehet von dannen.</l>
+            <l met="-+-|-+|-+-|-+|" rhythm="0200102001|" enj_k="4">Und ehe das dritte Morgenrot scheint,</l>
+            <l met="--+|--+|--+|--+|" rhythm="001002001002|" enj_k="4">Hat er schnell mit dem Gatten die Schwester vereint,</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="4">Eilt heim mit sorgender Seele,</l>
+            <l met="-+-|-+-|-+-|" rhythm="000020020|" enj_k="5">Damit er die Frist nicht verfehle.</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+|-+-|-+-|-+|" rhythm="0201002001|" enj_k="4">Da gießt unendlicher Regen herab,</l>
+            <l met="--+|-+-|-+-|" rhythm="002010020|" enj_k="4">Von den Bergen stürzen die Quellen,</l>
+            <l met="--+|--+|-+-|" rhythm="0020|01020|" enj_k="5">Und die Bäche, die Ströme schwellen.</l>
+            <l met="--+|-+-|-+-|-+|" rhythm="00102001002|" enj_k="4">Und er kommt ans Ufer mit wanderndem Stab,</l>
+            <l met="-+-|-+-|-+-|-+|" rhythm="01002001002|" enj_k="4">Da reißet die Brücke der Strudel herab,</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="3">Und donnernd sprengen die Wogen</l>
+            <l met="--+|-+-|-+-|" rhythm="002010020|" enj_k="5">Des Gewölbes krachenden Bogen.</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+|-+-|-+|-+|" rhythm="010200201|" enj_k="5">Und trostlos irrt er an Ufers Rand:</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="4">Wie weit er auch spähet und blicket</l>
+            <l met="--+|--+|--+|-" rhythm="0020010020|" enj_k="4">Und die Stimme, die rufende, schicket.</l>
+            <l met="-+-|-+-|-+-|+" rhythm="0100200102|" enj_k="cc_5">Da stößet kein Nachen vom sichern Strand,</l>
+            <l met="--+|-+-|-+-|+" rhythm="0020000102|" enj_k="5">Der ihn setze an das gewünschte Land,</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="4">Kein Schiffer lenket die Fähre,</l>
+            <l met="--+|-+-|-+-|" rhythm="001020020|" enj_k="5">Und der wilde Strom wird zum Meere.</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+-|-+-|-+|-+|" rhythm="0100200102|" enj_k="4">Da sinkt er ans Ufer und weint und fleht,</l>
+            <l met="-+-|-+|-+-|" rhythm="02001020|" enj_k="5">Die Hände zum Zeus erhoben:</l>
+            <l met="-+-|-+|-+-|" rhythm="02001020|" enj_k="5">"O hemme des Stromes Toben!</l>
+            <l met="-+-|-+-|-+-|+" rhythm="010020|0201" enj_k="3">Es eilen die Stunden, im Mittag steht</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|000201|" enj_k="4">Die Sonne, und wenn sie niedergeht</l>
+            <l met="-+-|-+-|-+-|" rhythm="002010020|" enj_k="4">Und ich kann die Stadt nicht erreichen,</l>
+            <l met="-+|-+-|-+-|" rhythm="01020020|" enj_k="5">So muß der Freund mir erbleichen."</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+-|-+-|-+-|+" rhythm="0100200102|" enj_k="4">Doch wachsend erneut sich des Stromes Wut,</l>
+            <l met="-+-|-+-|-+-|" rhythm="010010020|" enj_k="4">Und Welle auf Welle zerrinnet,</l>
+            <l met="-+-|-+-|-+-|" rhythm="010010020|" enj_k="5">Und Stunde an Stunde ertrinnet.</l>
+            <l met="-+-|-+|-+-|-+|" rhythm="01002|01002|" enj_k="4">Da treibt ihn die Angst, da faßt er sich Mut</l>
+            <l met="-+-|-+-|-+-|-+|" rhythm="01002001002|" enj_k="4">Und wirft sich hinein in die brausende Flut</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020" enj_k="3">Und teilt mit gewaltigen Armen</l>
+            <l met="-+-|-+-|-+-|" rhythm="02|0020020|" enj_k="5">Den Strom, und ein Gott hat Erbarmen.</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="--+|-+-|-+|-+|" rhythm="0010200102|" enj_k="4">Und gewinnt das Ufer und eilet fort</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Und danket dem rettenden Gotte;</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="3">Da stürzet die raubende Rotte</l>
+            <l met="-+-|-+|-+-|-+|" rhythm="0100201002|" enj_k="3">Hervor aus des Waldes nächtlichem Ort,</l>
+            <l met="-+|-+-|-+-|+" rhythm="01020|0102|" enj_k="4">Den Pfad ihm sperrend, und schnaubert Mord</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="3">Und hemmet des Wanderers Eile</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Mit drohend geschwungener Keule.</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+|-+-|-+-|+" rhythm="020|000102|" enj_k="5">"Was wollt ihr?" ruft er vor Schrecken bleich,</l>
+            <l met="-+|-+-|-+-|" rhythm="01020020|" enj_k="5">"Ich habe nichts als mein Leben,</l>
+            <l met="-+-|-+-|-+-|" rhythm="010020010|" enj_k="5">Das muß ich dem Könige geben!"</l>
+            <l met="--+|-+-|-+-|+" rhythm="0020100001|" enj_k="5">Und entreißt die Keule dem nächsten gleich:</l>
+            <l met="--+|-+-|-+-|+" rhythm="0020100201|" enj_k="5">"Um des Freundes willen erbarmet euch!"</l>
+            <l met="-+-|-+-|-+-|" rhythm="010010020" enj_k="3">Und drei mit gewaltigen Streichen</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|010020|" enj_k="5">Erlegt er, die andern entweichen.</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza"> 
+            <l met="--+|--+|-+|--+|" rhythm="00100201002|" enj_k="4">Und die Sonne versendet glühenden Brand,</l>
+            <l met="-+-|-+-|-+-|" rhythm="000010020" enj_k="3">Und von der unendlichen Mühe</l>
+            <l met="-+|-+-|-+-|" rhythm="020|10020|" enj_k="5">Ermattet sinken die Kniee.</l>
+            <l met="-+-|-+-|-+-|+" rhythm="0200100201|" enj_k="3">"O hast du mich gnädig aus Räubershand,</l>
+            <l met="--+|--+|--+|--+|" rhythm="001002001002|" enj_k="4">Aus dem Strom mich gerettet ans heilige Land,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="4">Und soll hier verschmachtend verderben,</l>
+            <l met="--+|--+|--+|-" rhythm="0020|0100|20|" enj_k="5">Und der Freund mir, der liebende, sterben!"</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+|-+-|-+|-+|" rhythm="02|0200102|" enj_k="3">Und horch! da sprudelt es silberhell,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|010020|" enj_k="4">Ganz nahe, wie rieselndes Rauschen,</l>
+            <l met="-+|-+-|-+-|" rhythm="02000|020|" enj_k="5">Und stille hält er, zu lauschen;</l>
+            <l met="-+-|-+-|-+-|+" rhythm="010020|0102|" enj_k="3">Und sieh, aus dem Felsen, geschwätzig, schnell,</l>
+            <l met="-+-|-+-|-+-|-+|" rhythm="01002001002|" enj_k="4">Springt murmelnd hervor ein lebendiger Quell,</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="4">Und freudig bückt er sich nieder</l>
+            <l met="--+|--+|--+|-" rhythm="0020010020|" enj_k="5">Und erfrischet die brennenden Glieder.</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="--+|-+-|-+|-+|" rhythm="0010200102|" enj_k="4">Und die Sonne blickt durch der Zweige Grün</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="2_NP">Und malt auf den glänzenden Matten</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Der Bäume gigantische Schatten;</l>
+            <l met="--+|--+|--+|-+|" rhythm="00200100201|" enj_k="4">Und zwei Wanderer sieht er die Straße ziehn,</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="0100200102|" enj_k="4">Will eilenden Laufes vorüber fliehn,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Da hört er die Worte sie sagen:</l>
+            <l met="-+-|-+|-+-|" rhythm="01002010|" enj_k="5">"Jetzt wird er ans Kreuz geschlagen."</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="--+|-+-|-+-|-+|" rhythm="00102001002|" enj_k="5">Und die Angst beflügelt den eilenden Fuß,</l>
+            <l met="-+-|-+|-+-|" rhythm="02001020|" enj_k="5">Ihn jagen der Sorge Qualen;</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="3">Da schimmern in Abendrots Strahlen</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="0200100201|" enj_k="4">Von ferne die Zinnen von Syrakus,</l>
+            <l met="--+|-+-|-+|-+|" rhythm="0010200201|" enj_k="3">Und entgegen kommt ihm Philostratus,</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="4">Des Hauses redlicher Hüter,</l>
+            <l met="--+|--+|--+|-" rhythm="0020010020|" enj_k="5">Der erkennet entsetzt den Gebieter:</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+|-+-|-+|-+|" rhythm="02|0200102|" enj_k="5">"Zurück! du rettest den Freund nicht mehr,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">So rette das eigene Leben!</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="5">Den Tod erleidet er eben.</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="0100100200|" enj_k="3">Von Stunde zu Stunde gewartet' er</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="0100200201|" enj_k="5">Mit hoffender Seele der Wiederkehr,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="3">Ihm konnte den mutigen Glauben</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Der Hohn des Tyrannen nicht rauben."</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+-|-+|-+-|-+|" rhythm="01002|01002|" enj_k="3">"Und ist es zu spät, und kann ich ihm nicht,</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|010020|" enj_k="4">Ein Retter, willkommen erscheinen,</l>
+            <l met="-+-|-+-|-+-|" rhythm="010020010|" enj_k="5">So soll mich der Tod ihm vereinen.</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="0200100200|" enj_k="4">Des rühme der blut'ge Tyrann sich nicht,</l>
+            <l met="--+|-+-|-+-|-+|" rhythm="00202001002|" enj_k="4">Daß der Freund dem Freunde gebrochen die Pflicht,</l>
+            <l met="-+-|-+|-+-|" rhythm="02001020|" enj_k="4">Er schlachte der Opfer zweie</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Und glaube an Liebe und Treue!"</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza"> 
+            <l met="--+|--+|--+|--+|" rhythm="0010020|01002|" enj_k="4">Und die Sonne geht unter, da steht er am Tor,</l>
+            <l met="-+|-+-|-+-|" rhythm="01020020|" enj_k="cc_5">Und sieht das Kreuz schon erhöhet,</l>
+            <l met="--+|-+-|-+-|" rhythm="002010020|" enj_k="5">Das die Menge gaffend umstehet;</l>
+            <l met="--+|--+|--+|-+|" rhythm="00200100201|" enj_k="4">An dem Seile schon zieht man den Freund empor,</l>
+            <l met="--+|--+|--+|-+|" rhythm="00200100102|" enj_k="5">Da zertrennt er gewaltig den dichter Chor:</l>
+            <l met="-+|-+-|-+-|" rhythm="2|20|10|020|" enj_k="5">"Mich, Henker", ruft er, "erwürget!</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|000020|" enj_k="5">Da bin ich, für den er gebürget!"</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza"> 
+            <l met="--+|--+|--+|-+|" rhythm="00200100201|" enj_k="5">Und Erstaunen ergreifet das Volk umher,</l>
+            <l met="--+|-+-|-+-|" rhythm="002010020|" enj_k="4">In den Armen liegen sich beide</l>
+            <l met="-+-|-+-|-+-|" rhythm="020010020|" enj_k="5">Und weinen vor Schmerzen und Freude.</l>
+            <l met="-+-|-+|-+|-+|" rhythm="020010201|" enj_k="4">Da sieht man kein Augen tränenleer,</l>
+            <l met="--+|--+|--+|-+|" rhythm="00200100201|" enj_k="5">Und zum Könige bringt man die Wundermär';</l>
+            <l met="-+|-+-|-+-|" rhythm="02010020|" enj_k="4">Der fühlt ein menschliches Rühren,</l>
+            <l met="-+-|-+|-+-|" rhythm="02001020|" enj_k="4">Läßt schnell vor den Thron sie führen,</l>
+          </lg>
+          <lg rhyme="abbaacc" type="stanza">
+            <l met="-+-|-+-|-+|-+|" rhythm="0200100201|" enj_k="5">Und blicket sie lange verwundert an.</l>
+            <l met="-+-|-+-|-+-|" rhythm="020|010020|" enj_k="5">Drauf spricht er: "Es ist euch gelungen,</l>
+            <l met="-+|-+-|-+-|" rhythm="00020020|" enj_k="5">Ihr habt das Herz mir bezwungen;</l>
+            <l met="--+|--+|--+|-+|" rhythm="0020|0000102|" enj_k="5">Und die Treue, sie ist doch kein leerer Wahn -</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="0100200201|" enj_k="5">So nehmet auch mich zum Genossen an:</l>
+            <l met="-+|-+-|-+-|" rhythm="02|010020|" enj_k="3">Ich sei, gewährt mir die Bitte,</l>
+            <l met="-+|-+-|-+-|" rhythm="00010020|"  enj_k="5">In eurem Bunde der dritte!"</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

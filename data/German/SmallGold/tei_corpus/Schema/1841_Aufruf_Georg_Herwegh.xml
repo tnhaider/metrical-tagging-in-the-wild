@@ -1,0 +1,119 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Aufruf</title>
+        <author>
+          <persName>
+            <surname>Herwegh</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">42</measure>
+        <measure type="verses_per_stanza">1-6, 2-6, 3-6, 4-6, 5-6, 6-6, 7-6</measure>
+        <measure type="tokens">218</measure>
+        <measure type="sentences">17</measure>
+        <measure type="characters">1085</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1841</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-herwegh-aufruf,textbearbeitung,131.html">Aufruf - Georg Herwegh (Interpretation #131)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">VormärzBiedermeierJunges Deutschland</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Aufruf</head>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="5">Reißt die Kreuze aus der Erden!</l>
+            <l met="+-|+-|+-|+-|" rhythm="20102010|" enj_k="5">Alle sollen Schwerter werden,</l>
+            <l met="+-|+-|+-|+" rhythm="1020002|" enj_k="5">Gott im Himmel wird's verzeihn.</l>
+            <l met="+-|+-|+-|+-|" rhythm="1|0102010|" enj_k="5">Laßt, o laßt das Verseschweißen!</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="5">Auf den Amboß legt das Eisen!</l>
+            <l met="+-|+-|+-|+" rhythm="2000201|" enj_k="5">Heiland soll das Eisen sein.</l>
+          </lg>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="0020|0020|" enj_k="5">Eure Tannen, eure Eichen -</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010" enj_k="2_NP">Habt die grünen Fragezeichen</l>
+            <l met="+-|+-|+-|+" rhythm="1020002|" enj_k="5">Deutscher Freiheit ihr gewahrt?</l>
+            <l met="+-|+-|+-|+-|" rhythm="2|0102010|" enj_k="5">Nein, sie soll nicht untergehen!</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="3">Doch ihr fröhlich Auferstehen</l>
+            <l met="+-|+-|+-|+" rhythm="1000201|" enj_k="5">Kostet eine Höllenfahrt.</l>
+          </lg>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20|100020|" enj_k="4">Deutsche, glaubet euren Sehern,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="4">Unsre Tage werden ehern,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Unsre Zukunft klirrt in Erz;</l>
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="4">Schwarzer Tod ist unser Sold nur,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00202010|" enj_k="4">Unser Gold ein Abendgold nur,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Unser Rot ein blutend Herz!</l>
+          </lg>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="5">Reißt die Kreuze aus der Erden!</l>
+            <l met="+-|+-|+-|+-|" rhythm="20102010|" enj_k="5">Alle sollen Schwerter werden,</l>
+            <l met="+-|+-|+-|+" rhythm="1020002|" enj_k="5">Gott im Himmel wird's verzeihn.</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002010|" enj_k="4">Hört er unsre Feuer brausen</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="4">Und sein heilig Eisen sausen,</l>
+            <l met="+-|+-|+-|+" rhythm="2000201|" enj_k="5">Spricht er wohl den Segen drein.</l>
+          </lg>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="4">Vor der Freiheit sei kein Frieden,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="4">Sei dem Mann kein Weib beschieden</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">Und kein golden Korn dem Feld;</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|0020|" enj_k="3">Vor der Freiheit, vor dem Siege</l>
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="3">Seh kein Säugling aus der Wiege</l>
+            <l met="+-|+-|+-|+" rhythm="1020002|" enj_k="5">Frohen Blickes in die Welt!</l>
+          </lg>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="4">In den Städten sei nur Trauern,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="3">Bis die Freiheit von den Mauern</l>
+            <l met="+-|+-|+-|+" rhythm="1020002|" enj_k="5">Schwingt die Fahnen in das Land;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00|2|01020" enj_k="3">Bis du, Rhein, durch freie Bogen</l>
+            <l met="+-|+-|+-|+-|" rhythm="20|101020|" enj_k="3">Donnerst, laß die letzten Wogen</l>
+            <l met="+-|+-|+-|+" rhythm="2010002|" enj_k="5">Fluchend knirschen in den Sand.</l>
+          </lg>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="5">Reißt die Kreuze aus der Erden!</l>
+            <l met="+-|+-|+-|+-|" rhythm="20102010|" enj_k="5">Alle sollen Schwerter werden,</l>
+            <l met="+-|+-|+-|+" rhythm="1020002|" enj_k="5">Gott im Himmel wird's verzeihn.</l>
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="5">Gen Tyrannen und Philister!</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="4">Auch das Schwert hat seine Priester,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">Und wir wollen Priester sein!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

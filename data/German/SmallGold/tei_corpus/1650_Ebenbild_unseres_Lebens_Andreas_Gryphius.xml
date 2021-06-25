@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ebenbild unseres Lebens</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">136</measure>
+        <measure type="sentences">5</measure>
+        <measure type="characters">645</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1650</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/andreas-gryphius-ebenbild-unseres-lebens,textbearbeitung,160.html">Ebenbild unseres Lebens - Andreas Gryphius (Interpretation #160)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Barock</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ebenbild unseres Lebens</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="02|0102|2|00002|" enj_k="3" enj="5">Der Mensch, das Spiel der Zeit, spielt, weil er allhie lebt</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010002|02|01020|" enj_k="5" enj="5">im Schauplatz dieser Welt; er sitzt, und doch nicht feste.</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|0102|0100020|" enj_k="4" enj="5">Der steigt, und jener fällt, der suchet die Paläste</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000102|02|0102|" enj_k="5" enj="5">und der ein schlechtes Dach; der herrscht, und jener webt.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="0102|02|000102|" enj_k="4" enj="4">Was gestern war, ist hin; was itzt das Glück erhebt,</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010201|0001020|" enj_k="3" enj="3">wird morgen untergehn; die vorhin grüne Äste</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="000102|0100020|" enj_k="cc_5" enj="5">sind nunmehr dürr und tot; wir Armen sind nur Gäste,</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000102|010201|" enj_k="5" enj="5">ob den' ein scharfes Schwert an zarter Seide schwebt.</l>
+          </lg>
+          <lg rhyme="aab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="000102|0100020|" enj_k="5" enj="5">Wir sind zwar gleich am Fleisch, doch nicht vom gleichem Stande:</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010201|0001020|" enj_k="4" enj="5">Der trägt ein Purpurkleid, und jener gräbt im Sande,</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000102|020102|" enj_k="5" enj="5">bis nach entraubtem Schmuck der Tod uns gleiche macht.</l>
+          </lg>
+          <lg rhyme="aab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="200102|0001020|" enj_k="4" enj="5">Spielt denn dies ernste Spiel, weil es die Zeit noch leidet,</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|00000102010|" enj_k="4" enj="4">und lernt, dass wenn man vom Bankett des Lebens scheidet,</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="2|20|102000102|" enj_k="5" enj="5">Kron, Weisheit, Stärk und Gut sei eine leere Pracht!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

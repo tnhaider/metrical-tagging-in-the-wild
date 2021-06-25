@@ -1,0 +1,83 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Morgens</title>
+        <author>
+          <persName>
+            <surname>Hoddis</surname>
+            <forename>Jakob van</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">18</measure>
+        <measure type="verses_per_stanza">1-18</measure>
+        <measure type="tokens">107</measure>
+        <measure type="sentences">21</measure>
+        <measure type="characters">601</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1914</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/jakob-van-hoddis-morgens,textbearbeitung,344.html">Morgens - Jakob van Hoddis (Interpretation #344)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Morgens</head>
+          <lg rhyme="abcdeedffgghijiklm" type="stanza">
+            <l met="-+|-+|--+|" rhythm="0102001|" enj_k="4" enj="5">Ein starker Wind sprang empor.</l>
+            <l met="+--|+--|+-|+--|+-|" rhythm="2001002010020|" enj_k="4" enj="5">Öffnet des eisernen Himmels blutende Tore.</l>
+            <l met="+--|+-|" rhythm="10020|" enj_k="3" enj="5">Schlägt an die Türme.</l>
+            <l met="+--|+-|+-|+--|+--|+--|-+|" rhythm="010201000010020002|" enj_k="5" enj="3">Hellklingend laut geschmeidig über die eherne Ebene der Stadt.</l>
+            <l met="-+|-+|-+|--+|-+|-+|-" rhythm="0201020|0201020|" enj_k="5" enj="5">Die Morgensonne rußig. Auf Dämmen donnern Züge.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010102010|" enj_k="5" enj="5">Durch Wolken pflügen goldne Engelpflüge.</l>
+            <l met="+-|+--|-+|-+|" rhythm="102000102|" enj_k="3" enj="3">Starker Wind über der bleichen Stadt.</l>
+            <l met="+--|+--|+--|+-|+--|+" rhythm="100200200101002|" enj_k="5" enj="5">Dampfer und Kräne erwachen am schmutzig fließenden Strom.</l>
+            <l met="-+|-+|--+|-+|-+|--+|" rhythm="02010020001002|" enj_k="5" enj="5">Verdrossen klopfen die Glocken am verwitterten Dom.</l>
+            <l met="--+|-+|--+|--+|-+|" rhythm="002010|0100201|" enj_k="5" enj="5">Viele Weiber siehst du und Mädchen zur Arbeit gehn.</l>
+            <l met="-+|-+|+--+|+-|+-|+" rhythm="0102|1002|00201|" enj_k="5" enj="5">Im bleichen Licht. Wild von der Nacht. Ihre Röcke wehn.</l>
+            <l met="+--|+--|+-|" rhythm="20010020|" enj_k="3" enj="3">Glieder zur Liebe geschaffen.</l>
+            <l met="+-|+--|-+|--+|" rhythm="1002001002|" enj_k="3" enj="5">Hin zur Maschine und mürrischem Mühn.</l>
+            <l met="+--|+--|+" rhythm="2001002|" enj_k="3" enj="5">Sieh in das zärtliche Licht.</l>
+            <l met="--+|-+|--+|" rhythm="00201002|" enj_k="5" enj="5">In der Bäume zärtliches Grün.</l>
+            <l met="+-|+-|+" rhythm="2|0201|" enj_k="5" enj="5">Horch! Die Spatzen schrein.</l>
+            <l met="-+|--+|--+|-" rhythm="020010020" enj_k="3" enj="3">Und draußen auf wilderen Feldern</l>
+            <l met="+-|+-|" rhythm="1020|" enj_k="5" enj="5">singen Lerchen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

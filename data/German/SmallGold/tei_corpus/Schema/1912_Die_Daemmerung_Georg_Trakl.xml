@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Dämmerung</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">83</measure>
+        <measure type="sentences">9</measure>
+        <measure type="characters">531</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1912</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-trakl-die-daemmerung,textbearbeitung,351.html">Die Dämmerung - Georg Trakl (Interpretation #351)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Dämmerung</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|--+|-+|" rhythm="02|020100201|" enj_k="3">Im Hof, verhext von milchigem Dämmerschein,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010|102010|" enj_k="5">Durch Herbstgebräuntes weiche Kranke gleiten.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010201020|" enj_k="3">Ihr wächsern-runder Blick sinnt goldner Zeiten,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="010002|0102|" enj_k="5">Erfüllt von Träumerei und Ruh und Wein.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="020010002|" enj_k="5">Ihr Siechtum schließt geisterhaft sich ein.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="020|10200010|" enj_k="5">Die Sterne weiße Traurigkeit verbreiten.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02|010200020|" enj_k="3">Im Grau, erfüllt von Täuschung und Geläuten,</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="2|002000102|" enj_k="5">Sieh, wie die Schrecklichen sich wirr zerstreun.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="+-|-+|-+|-+|-+|-" rhythm="100201020|20|" enj_k="4">Formlose Spottgestalten huschen, kauern</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02000201020|" enj_k="5">Und flattern sie auf schwarz-gekreuzten Pfaden.</l>
+            <l met="++|-+|-+|-+|-+|-" rhythm="1|1000200020|" enj_k="5">O! trauervolle Schatten an den Mauern.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020100020|" enj_k="4">Die andern fliehn durch dunkelnde Arkaden;</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020001020" enj_k="2_NP">Und nächtens stürzen sie aus roten Schauern</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0201|0100020|" enj_k="5">Des Sternenwinds, gleich rasenden Mänaden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

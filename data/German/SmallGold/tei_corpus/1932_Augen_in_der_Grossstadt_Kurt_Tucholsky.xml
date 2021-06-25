@@ -1,0 +1,108 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Augen in der Großstadt</title>
+        <author>
+          <persName>
+            <surname>Tucholsky</surname>
+            <forename>Kurt</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">39</measure>
+        <measure type="verses_per_stanza">1-12, 2-12, 3-15</measure>
+        <measure type="tokens">161</measure>
+        <measure type="sentences">15</measure>
+        <measure type="characters">826</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1932</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/kurt-tucholsky-augen-in-der-grossstadt,textbearbeitung,113.html">Augen in der Großstadt - Kurt Tucholsky (Interpretation #113)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Augen in der Großstadt</head>
+          <lg rhyme="ababccddefef" type="stanza">
+            <l met="-+|-+|-+|" rhythm="100201|" enj_k="3" enj="4">Wenn du zur Arbeit gehst</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4" enj="4">am frühen Morgen,</l>
+            <l met="-+|-+|-+|" rhythm="100201|" enj_k="3" enj="4">wenn du am Bahnhof stehst</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4" enj="4">Mit deinen Sorgen:</l>
+            <l met="-+|-+|" rhythm="0102" enj_k="3" enj="3">da zeigt die Stadt</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="3" enj="3">dir asphaltglatt</l>
+            <l met="-+|-+|-" rhythm="02010" enj_k="3" enj="3">im Menschentrichter</l>
+            <l met="-+|--+|-" rhythm="010020|" enj_k="4" enj="5">Millionen Gesichter:</l>
+            <l met="-+|-+|--+|-+|" rhythm="01020|0102|" enj_k="3" enj="3">Zwei fremde Augen, ein kurzer Blick,</l>
+            <l met="-+|--+|--+|-" rhythm="020|010|020|" enj_k="3" enj="3">die Braue, Pupillen, die Lider –</l>
+            <l met="-+|--+|-+|-+|" rhythm="020|000201|" enj_k="3" enj="3">Was war das? vielleicht dein Lebensglück...</l>
+            <l met="-+|-+|-+|-" rhythm="02|02|020|" enj_k="3" enj="3">vorbei, verweht, nie wieder.</l>
+          </lg>
+          <lg rhyme="ababccddefef" type="stanza">
+            <l met="-+|-+|-+|" rhythm="020102|" enj_k="3" enj="3">Du gehst dein Leben lang</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4" enj="5">auf tausend Straßen;</l>
+            <l met="-+|-+|-+|" rhythm="010002|" enj_k="3" enj="3">du siehst auf deinem Gang,</l>
+            <l met="-+|-+|-" rhythm="00020|" enj_k="5" enj="5">die dich vergaßen.</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="4" enj="5">Ein Auge winkt,</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="4" enj="5">die Seele klingt;</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="3" enj="5">du hasts gefunden,</l>
+            <l met="-+|-+|-" rhythm="00020|" enj_k="4" enj="5">nur für Sekunden...</l>
+            <l met="-+|-+|--+|-+|" rhythm="01020|0102|" enj_k="3" enj="3">Zwei fremde Augen, ein kurzer Blick,</l>
+            <l met="-+|--+|--+|-" rhythm="020|010|020|" enj_k="3" enj="3">die Braue, Pupillen, die Lider;</l>
+            <l met="-+|--+|--+|-+|" rhythm="020|1000201|" enj_k="4" enj="5">Was war das? kein Mensch dreht die Zeit zurück...</l>
+            <l met="-+|-+|-+|-" rhythm="02|02|020|" enj_k="3" enj="3">vorbei, verweht, nie wieder.</l>
+          </lg>
+          <lg rhyme="ababccccddefgef" type="stanza">
+            <l met="-+|-+|-+|" rhythm="010002|" enj_k="3" enj="3">Du mußt auf deinem Gang</l>
+            <l met="-+|-+|-" rhythm="02010|" enj_k="4" enj="5">durch Städte wandern;</l>
+            <l met="-+|-+|-+|" rhythm="100201|" enj_k="3" enj="3">siehst einen Pulsschlag lang</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="5" enj="5">den fremden Andern.</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4" enj="5">Es kann ein Feind sein,</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4" enj="5">es kann ein Freund sein,</l>
+            <l met="-+|-+|-+|" rhythm="010200" enj_k="2_NP" enj="2">es kann im Kampfe dein</l>
+            <l met="-+|-+|" rhythm="0200|" enj_k="5" enj="5">Genosse sein.</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4" enj="5">Er sieht hinüber</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4" enj="5">und zieht vorüber...</l>
+            <l met="-+|-+|--+|-+|" rhythm="01020|0102|" enj_k="3" enj="3">Zwei fremde Augen, ein kurzer Blick,</l>
+            <l met="-+|--+|--+|-" rhythm="020|020|020|" enj_k="3" enj="3">die Braue, Pupillen, die Lider.</l>
+            <l met="-+|-" rhythm="020|" enj_k="5" enj="5">Was war das?</l>
+            <l met="--+|-+|--+|" rhythm="00102002|" enj_k="3" enj="3">Von der großen Menschheit ein Stück!</l>
+            <l met="-+|-+|-+|-" rhythm="02|02|020|" enj_k="3" enj="3">Vorbei, verweht, nie wieder.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

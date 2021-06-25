@@ -1,0 +1,99 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Faust I, Der König in Thule</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4</measure>
+        <measure type="tokens">116</measure>
+        <measure type="sentences">7</measure>
+        <measure type="characters">529</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1774</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-faust-i-der-koenig-in-thule,textbearbeitung,371.html">Faust I, Der König in Thule - Johann Wolfgang von Goethe (Interpretation #371)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Faust I, Der König in Thule</head>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="3">Es war einst ein König in Thule,</l>
+            <l met="-+|-+|-+|" rhythm="020002|" enj_k="cc_5">Gar treu bis an das Grab,</l>
+            <l met="-+|-+|-+|-" rhythm="0100020|" enj_k="3">Dem sterbend seine Buhle</l>
+            <l met="--+|-+|-+|" rhythm="0010200|" enj_k="5">einen goldnen Becher gab.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="4">Es ging ihm nichts darüber,</l>
+            <l met="-+|-+|-+|" rhythm="020102|" enj_k="5">Er leert' ihn jeden Schmaus;</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="4">Die Augen gingen ihm über,</l>
+            <l met="-+|-+|-+|" rhythm="010200|" enj_k="5">So oft er trank daraus.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="4">Und als er kam zu sterben,</l>
+            <l met="-+|--+|-+|" rhythm="0200102|" enj_k="4">Zählt' er seine Städt' im Reich,</l>
+            <l met="-+|-+|-+|-" rhythm="0100020|" enj_k="4">Gönnt' alles seinen Erben,</l>
+            <l met="-+|-+|-+|" rhythm="020002|" enj_k="5">Den Becher nicht zugleich.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="4">Er saß beim Königsmahle,</l>
+            <l met="-+|-+|-+|" rhythm="010002|" enj_k="4">Die Ritter um ihn her,</l>
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="3">Auf hohem Vätersaale</l>
+            <l met="-+|-+|-+|" rhythm="000102" enj_k="5">Dort auf dem Schloß am Meer.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="4">Dort stand der alte Zecher,</l>
+            <l met="-+|-+|-+|" rhythm="010201|" enj_k="4">Trank letzte Lebensglut</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="3">Und warf den heil'gen Becher</l>
+            <l met="-+|-+|-+|" rhythm="010002|" enj_k="5">Hinunter in die Flut.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="01020|20|" enj_k="3">Er sah ihn stürzen, trinken</l>
+            <l met="-+|-+|-+|" rhythm="010002" enj_k="5">Und sinken tief ins Meer.</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="4">Die Augen täten ihm sinken,</l>
+            <l met="-+|--+|-+|" rhythm="0100200|" enj_k="5">Trank nie einen Tropfen mehr.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

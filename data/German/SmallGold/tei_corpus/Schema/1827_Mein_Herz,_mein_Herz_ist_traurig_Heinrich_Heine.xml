@@ -1,0 +1,99 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mein Herz, mein Herz ist traurig</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">6</measure>
+        <measure type="verses">24</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4</measure>
+        <measure type="tokens">112</measure>
+        <measure type="sentences">5</measure>
+        <measure type="characters">589</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1827</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/heinrich-heine-mein-herz-mein-herz-ist-traurig,textbearbeitung,41.html">Mein Herz, mein Herz ist traurig - Heinrich Heine (Interpretation #41)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Romantik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mein Herz, mein Herz ist traurig</head>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="02|01020|" enj_k="4">Mein Herz, mein Herz ist traurig,</l>
+            <l met="-+|-+|--+|" rhythm="0102002|" enj_k="5">Doch lustig leuchtet der Mai;</l>
+            <l met="-+|--+|--+|-" rhythm="020|010020|" enj_k="3">Ich stehe, gelehnt an der Linde,</l>
+            <l met="-+|-+|--+|" rhythm="2001002|" enj_k="5">Hoch auf der alten Bastei.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0201010" enj_k="2_NP">Da drunten fließt der blaue</l>
+            <l met="-+|--+|-+|" rhythm="200|0102|" enj_k="5">Stadtgraben in stiller Ruh;</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="4">Ein Knabe fährt im Kahne,</l>
+            <l met="-+|--+|-+|" rhythm="0100200|" enj_k="5">Und angelt und pfeift dazu.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|-" rhythm="20010020|" enj_k="3">Jenseits erheben sich freundlich,</l>
+            <l met="-+|--+|--+|" rhythm="0200|1002|" enj_k="3">In winziger, bunter Gestalt,</l>
+            <l met="-+|--+|--+|-" rhythm="200|020|020|" enj_k="3">Lusthäuser, und Gärten, und Menschen,</l>
+            <l met="-+|--+|--+|" rhythm="020|020|02|" enj_k="5">Und Ochsen, und Wiesen, und Wald.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0201020" enj_k="4">Die Mägde bleichen Wäsche,</l>
+            <l met="-+|--+|-+|" rhythm="0100201|" enj_k="5">Und springen im Gras herum;</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">Das Mühlrad stäubt Diamanten,</l>
+            <l met="-+|--+|--+|" rhythm="02001002|" enj_k="5">Ich höre sein fernes Gesumm.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="3">Am alten grauen Turme</l>
+            <l met="-+|-+|-+|" rhythm="020102|" enj_k="5">Ein Schilderhäuschen steht;</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="3">Ein rotgeröckter Bursche</l>
+            <l met="-+|-+|-+|" rhythm="010201|" enj_k="5">Dort auf und nieder geht.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0100020|" enj_k="5">Er spielt mit seiner Flinte,</l>
+            <l met="-+|--+|-+|" rhythm="0200201|" enj_k="5">Die funkelt im Sonnenrot,</l>
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="5">Er präsentiert und schultert -</l>
+            <l met="-+|-+|--+|" rhythm="0201002|" enj_k="5">Ich wollt, er schösse mich tot.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

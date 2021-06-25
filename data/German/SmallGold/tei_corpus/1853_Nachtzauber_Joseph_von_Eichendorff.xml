@@ -1,0 +1,87 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nachtzauber</title>
+        <author>
+          <persName>
+            <surname>Eichendorff</surname>
+            <forename>Joseph von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">2</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-10, 2-10</measure>
+        <measure type="tokens">94</measure>
+        <measure type="sentences">4</measure>
+        <measure type="characters">506</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1853</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/joseph-von-eichendorff-nachtzauber,textbearbeitung,139.html">Nachtzauber - Joseph von Eichendorff (Interpretation #139)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Romantik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Nachtzauber</head>
+          <lg rhyme="abaabccdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20002010|" enj_k="3">Hörst du nicht die Quellen gehen</l>
+            <l met="+-|+-|+-|+" rhythm="102020|1" enj_k="3">Zwischen Stein und Blumen weit</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="cc_5">Nach den stillen Waldesseen,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Wo die Marmorbilder stehen</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">In der schönen Einsamkeit?</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Von den Bergen sacht hernieder,</l>
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="3">Weckend die uralten Lieder,</l>
+            <l met="+-|+-|+-|+" rhythm="2010002|" enj_k="4">Steigt die wunderbare Nacht,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="4">Und die Gründe glänzen wieder,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">Wie dus oft im Traum gedacht.</l>
+          </lg>
+          <lg rhyme="abaabccbcb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="10200|020" enj_k="3">Kennst die Blume du, entsprossen</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">In dem mondbeglänzten Grund?</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|1020|" enj_k="3">Aus der Knospe, halb erschlossen,</l>
+            <l met="+-|+-|+-|+-|" rhythm="10201020|" enj_k="3">Junge Glieder blühend sprossen,</l>
+            <l met="+-|+-|+-|+" rhythm="1020|102|" enj_k="4">Weiße Arme, roter Mund,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="4">Und die Nachtigallen schlagen,</l>
+            <l met="+-|+-|+-|+-|" rhythm="01201020|" enj_k="5">Und rings hebt es an zu klagen,</l>
+            <l met="+-|+-|+-|+" rhythm="2|010201|" enj_k="5">Ach, vor Liebe todeswund,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="5">Von versunknen schönen Tagen –</l>
+            <l met="+-|+-|+-|+" rhythm="2|020102|" enj_k="5">Komm, o komm zum stillen Grund!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Dämonen der Stadt</title>
+        <author>
+          <persName>
+            <surname>Heym</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">12</measure>
+        <measure type="verses">48</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4, 8-4, 9-4, 10-4, 11-4, 12-4</measure>
+        <measure type="tokens">335</measure>
+        <measure type="sentences">24</measure>
+        <measure type="characters">1666</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1911</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-heym-die-daemonen-der-stadt,textbearbeitung,125.html">Die Dämonen der Stadt - Georg Heym (Interpretation #125)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Dämonen der Stadt</head>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200010201|" enj_k="cc_5" enj="5">Sie wandern durch die Nacht der Städte hin,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="01020|00002|" enj_k="5" enj="5">Die schwarz sich ducken unter ihrem Fuß.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="02010|20001" enj_k="3" enj="3">Wie Schifferbärte stehen um ihr Kinn</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="020|2010201|" enj_k="5" enj="5">Die Wolken schwarz vom Rauch und Kohlenruß.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102010201|" enj_k="4" enj="5">Ihr langer Schatten schwankt im Häusermeer</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201020101|" enj_k="5" enj="5">Und löscht der Straßen Lichterreihen aus.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="01020|00201|" enj_k="4" enj="5">Er kriecht wie Nebel auf dem Pflaster schwer</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102010|202|" enj_k="5" enj="5">Und tastet langsam vorwärts Haus für Haus.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002000201|" enj_k="3" enj="3">Den einen Fuß auf einen Platz gestellt,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200010002|" enj_k="3" enj="3">Den anderen gekniet auf einen Turm,</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="1002|010201|" enj_k="3" enj="5">Ragen sie auf, wo schwarz der Regen fällt,</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="20010|00201|" enj_k="5" enj="5">Panspfeifen blasend in den Wolkensturm.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002020102" enj_k="2_NP" enj="5">Um ihre Füße kreist das Ritornell</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201|010002|" enj_k="3" enj="5">Des Städtemeers mit trauriger Musik,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="010201|02|02|" enj_k="3" enj="3">Ein großes Sterbelied. Bald dumpf, bald grell</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="1002|000201|" enj_k="5" enj="5">Wechselt der Ton, der in das Dunkel stieg.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="010002|0102" enj_k="3" enj="3">Sie wandern an dem Strom, der schwarz und breit</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002|020102" enj_k="3" enj="3">Wie ein Reptil, den Rücken gelb gefleckt</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="00020|00200" enj_k="3" enj="3">Von den Laternen, in die Dunkelheit</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201|010201|" enj_k="5" enj="5">Sich traurig wälzt, die schwarz den Himmel deckt.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000201|" enj_k="4" enj="5">Sie lehnen schwer auf einer Brückenwand</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0100020|001" enj_k="2_NP" enj="5">Und stecken ihre Hände in den Schwarm</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201|020|001" enj_k="2_NP" enj="3">Der Menschen aus, wie Faune, die am Rand</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="020|2000102|" enj_k="5" enj="5">Der Sümpfe bohren in den Schlamm den Arm.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="+-|-+|-+|-+|-+|" rhythm="1002|010201" enj_k="3" enj="3">Einer steht auf. Dem weißen Monde hängt</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="00010201|02|" enj_k="cc_4" enj="3">Er eine schwarze Larve vor. Die Nacht,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002010201|" enj_k="4" enj="4">Die sich wie Blei vom finstern Himmel senkt,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000102|" enj_k="5" enj="5">Drückt tief die Häuser in des Dunkels Schacht.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102020|001" enj_k="3" enj="3">Der Städte Schultern knacken. Und es birst</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="02|01010201|" enj_k="5" enj="5">Ein Dach, daraus ein rotes Feuer schwemmt.</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="2001000002|" enj_k="4" enj="5">Breitbeinig sitzen sie auf seinem First</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102010102|" enj_k="5" enj="5">Und schrein wie Katzen auf zum Firmament.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020102010|" enj_k="3" enj="3">In einer Stube voll von Finsternissen</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="1002000002|" enj_k="5" enj="5">Schreit eine Wöchnerin in ihren Wehn.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020100020|" enj_k="cc_5" enj="5">Ihr starker Leib ragt riesig aus den Kissen,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002010201|" enj_k="5" enj="5">Um den herum die großen Teufel stehn.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000201|" enj_k="5" enj="5">Sie hält sich zitternd an der Wehebank.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="010201|0002|" enj_k="4" enj="5">Das Zimmer schwankt um sie von ihrem Schrei,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102|020102|" enj_k="4" enj="5">Da kommt die Frucht. Ihr Schoß klafft rot und lang</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000102|" enj_k="5" enj="5">Und blutend reißt er von der Frucht entzwei.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0102010|0020|" enj_k="5" enj="5">Der Teufel Hälse wachsen wie Giraffen.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="010002|0102" enj_k="3" enj="3">Das Kind hat keinen Kopf. Die Mutter hält</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0001|0001020" enj_k="3" enj="3">Es vor sich hin. In ihrem Rücken klaffen</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="01210|00201|" enj_k="5" enj="5">Des Schrecks Froschfinger, wenn sie rückwärts fällt.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002010102|" enj_k="5" enj="5">Doch die Dämonen wachsen riesengroß.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201010201|" enj_k="5" enj="5">Ihr Schläfenhorn zerreißt den Himmel rot.</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="2001000102|" enj_k="3" enj="5">Erdbeben donnert durch der Städte Schoß</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002|020001|" enj_k="5" enj="5">Um ihren Huf, den Feuer überloht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

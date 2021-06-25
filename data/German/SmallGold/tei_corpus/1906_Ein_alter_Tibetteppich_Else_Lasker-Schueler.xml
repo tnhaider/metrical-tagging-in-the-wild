@@ -1,0 +1,80 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ein alter Tibetteppich</title>
+        <author>
+          <persName>
+            <surname>Lasker-Schüler</surname>
+            <forename>Else</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">9</measure>
+        <measure type="verses_per_stanza">1-2, 2-2, 3-2, 4-3</measure>
+        <measure type="tokens">48</measure>
+        <measure type="sentences">4</measure>
+        <measure type="characters">298</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1906</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/else-lasker-schueler-ein-alter-tibetteppich,textbearbeitung,145.html">Ein alter Tibetteppich - Else Lasker-Schüler (Interpretation #145)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Ein alter Tibetteppich</head>
+          <lg rhyme="aa" type="stanza">
+            <l met="+-|+-|+-|+-|+-|" rhythm="0020|001020|" enj_k="4" enj="4">Deine Seele, die die meine liebet,</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="0020002010|" enj_k="5" enj="5">Ist verwirkt mit ihr im Teppichtibet.</l>
+          </lg>
+          <lg rhyme="aa" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="202|01020|" enj_k="3" enj="3">Strahl in Strahl, verliebte Farben,</l>
+            <l met="+-|+-|+-|+-|+-|" rhythm="20|00201020|" enj_k="4" enj="4">Sterne, die sich himmellang umwarben.</l>
+          </lg>
+          <lg rhyme="aa" type="stanza">
+            <l met="+--|+-|+-|+-|+-|+" rhythm="00020|1000201|" enj_k="3" enj="5">Unsere Füße ruhen auf der Kostbarkeit,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="102010201|" enj_k="5" enj="5">Maschentausendabertausendweit.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="+-|+-|+-|+-|+-|+" rhythm="10200|020100|" enj_k="3" enj="3">Süßer Lamasohn auf Moschuspflanzenthron,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102020100|" enj_k="4" enj="5">Wie lange küßt Dein Mund den meinen wohl</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="01020|2010201|" enj_k="5" enj="5">Und Wang die Wange buntgeknüpfte Zeiten schon?</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

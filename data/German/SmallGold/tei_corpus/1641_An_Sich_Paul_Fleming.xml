@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Sich</title>
+        <author>
+          <persName>
+            <surname>Fleming</surname>
+            <forename>Paul</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">128</measure>
+        <measure type="sentences">12</measure>
+        <measure type="characters">581</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1641</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/paul-fleming-an-sich,textbearbeitung,381.html">An Sich - Paul Fleming (Interpretation #381)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Barock</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Sich</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010201|0100020|" enj_k="5" enj="5">Sei dennoch unverzagt! Gib dennoch unverloren!</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000201|010002|" enj_k="4" enj="5">Weich keinem Glücke nicht, steh höher als der Neid,</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020000|010002|" enj_k="4" enj="5">vergnüge dich an dir und acht es für kein Leid,</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="0001002|2|01020|" enj_k="5" enj="5">hat sich gleich wider dich Glück, Ort und Zeit verschworen.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="000102|0000020|" enj_k="5" enj="5">Was dich betrübt und labt, halt alles für erkoren;</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="200102|200201|" enj_k="5" enj="5">nimm dein Verhängnis an. Laß alles unbereut.</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="2|00201|000002|" enj_k="5" enj="5">Tu, was getan muß sein, und eh man dir’s gebeut.</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="000201|0201020|" enj_k="5" enj="5">Was du noch hoffen kannst, das wird noch stets geboren.</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|0201|0200020" enj_k="3" enj="3">Was klagt, was lobt man noch? Sein Unglück und sein Glücke</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000102|200102|" enj_k="5" enj="5">ist ihm ein jeder selbst. Schau alle Sachen an:</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010010|000102|" enj_k="4" enj="5">dies alles ist in dir. Laß deinen eitlen Wahn,</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010201|0100020|" enj_k="5" enj="5">und eh du fürder gehst, so geh in dich zurücke.</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000201|000102|" enj_k="4" enj="4">Wer sein selbst Meister ist und sich beherrschen kann,</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="100102000201|" enj_k="5" enj="5">dem ist die weite Welt und alles untertan.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

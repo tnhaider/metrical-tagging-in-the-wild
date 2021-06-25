@@ -1,0 +1,118 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An Schwager Kronos</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">41</measure>
+        <measure type="verses_per_stanza">1-8, 2-5, 3-5, 4-7, 5-6, 6-5, 7-5</measure>
+        <measure type="tokens">168</measure>
+        <measure type="sentences">15</measure>
+        <measure type="characters">934</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1774</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-an-schwager-kronos,textbearbeitung,328.html">An Schwager Kronos - Johann Wolfgang von Goethe (Interpretation #328)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An Schwager Kronos</head>
+          <lg rhyme="abcdefbg" type="stanza">
+            <l met="+--|+-|" rhythm="200|20|" enj_k="5">Spude dich, Kronos!</l>
+            <l met="+-|+--|+" rhythm="2|01002|" enj_k="5">Fort den rasselnden Trott!</l>
+            <l met="+-|+--+|" rhythm="20|1002|" enj_k="5">Bergab gleitet der Weg;</l>
+            <l met="+-|+-|+-|" rhythm="1020|20" enj_k="3">Ekles Schwindeln zögert</l>
+            <l met="+--|+--|+-|" rhythm="10020|020|" enj_k="5">Mir vor die Stirne dein Haudern.</l>
+            <l met="+-|+--|" rhythm="2|0100" enj_k="2_NP">Frisch den holpernden</l>
+            <l met="+|+-|+--+|" rhythm="2|20|2002|" enj_k="5">Stock, Wurzeln, Steine den Trott</l>
+            <l met="+-|+--+|" rhythm="202001|" enj_k="5">Rasch ins Leben hinein!</l>
+          </lg>
+          <lg rhyme="abcde" type="stanza">
+            <l met="+-|+-|" rhythm="1020|" enj_k="3">Nun schon wieder</l>
+            <l met="+-|+--|+" rhythm="001002|" enj_k="3">Den eratmenden Schritt</l>
+            <l met="+-|+--|" rhythm="20|200|" enj_k="3">Mühsam Berg hinauf.</l>
+            <l met="+--|+--|" rhythm="20|0200|" enj_k="5">Auf denn, nicht träge denn!</l>
+            <l met="+--+|-+|" rhythm="200201|" enj_k="5">Strebend und hoffend an.</l>
+          </lg>
+          <lg rhyme="abcde" type="stanza">
+            <l met="+-|+--+|" rhythm="2|2|2001|" enj_k="3">Weit, hoch, herrlich der Blick</l>
+            <l met="+-|+-|+-|" rhythm="102000|" enj_k="5">Rings ins Leben hinein;</l>
+            <l met="+-|+-|+-|" rhythm="002002|" enj_k="3">Vom Gebürg zum Gebürg,</l>
+            <l met="+--|+--|+" rhythm="0001002|" enj_k="2_NP">Über der ewige Geist</l>
+            <l met="+--|+-|+--|" rhythm="10020200|" enj_k="5">Ewigen Lebens ahndevoll.</l>
+          </lg>
+          <lg rhyme="abcdec" type="stanza">
+            <l met="+--|+--|+-|" rhythm="200|10020|" enj_k="3">Seitwärts des Überdachs Schatten</l>
+            <l met="+-|+" rhythm="102|" enj_k="4">Zieht dich an</l>
+            <l met="+-|+-|+-|+-|+" rhythm="002001002|" enj_k="3">Und der Frischung verheißende Blick</l>
+            <l met="+-|+--|+-|+" rhythm="00100200|" enj_k="5">Auf der Schwelle des Mädchens da.</l>
+            <l met="+--|+-|+-|" rhythm="200|02|20|" enj_k="3">Labe dich! – Mir auch, Mädchen,</l>
+            <l met="+-|+--+|" rhythm="001002|" enj_k="3">Diesen schäumenden Trunk</l>
+            <l met="+-|+-|+-|+-|+" rhythm="001000201|" enj_k="5">Und den freundlichen Gesundheitsblick!</l>
+          </lg>
+          <lg rhyme="abcdef" type="stanza">
+            <l met="+-|+--+|" rhythm="20|1002|" enj_k="5">Ab dann, frischer hinab!</l>
+            <l met="+-|+-|+" rhythm="2|0102|" enj_k="5">Sieh, die Sonne sinkt!</l>
+            <l met="+--|+--|" rhythm="102|102" enj_k="4">Eh sie sinkt, eh mich faßt</l>
+            <l met="+--+|-+|-+|" rhythm="20|010201|" enj_k="4">Greisen im Moore Nebelduft,</l>
+            <l met="+--|+-|+-|" rhythm="0102010|" enj_k="3">Entzahnte Kiefer schnattern</l>
+            <l met="+-|+--|+-|" rhythm="0010002|" enj_k="5">Und das schlockernde Ge|bein –.</l>
+          </lg>
+          <lg rhyme="abcde" type="stanza">
+            <l met="+--|+-|+" rhythm="200102|" enj_k="3">Trunknen vom letzten Strahl</l>
+            <l met="+--|+-|+" rhythm="20|0201|" enj_k="3">Reiß mich, ein Feuermeer</l>
+            <l met="+-|+--|+" rhythm="001002|" enj_k="3">Mir im schäumenden Aug,</l>
+            <l met="+-|+--|+--|" rhythm="00200|200|" enj_k="3">Mich Geblendeten, Taumelnden</l>
+            <l met="+-|+-|+--|+" rhythm="00201002|" enj_k="5">In der Hölle nächtliches Tor.</l>
+          </lg>
+          <lg rhyme="abcdd" type="stanza">
+            <l met="+-|+--+|" rhythm="20|20|02|" enj_k="4">Töne, Schwager, dein Horn,</l>
+            <l met="+--|+--+|" rhythm="2001002|" enj_k="4">Raßle den schallenden Trab,</l>
+            <l met="+-|+--|+--|+-|" rhythm="0010020|021|" enj_k="4">Daß der Orkus vernehme: ein Fürst kommt,</l>
+            <l met="+--|+-|+-|" rhythm="1000020|" enj_k="3">Drunten von ihren Sitzen</l>
+            <l met="+--|+--|+-|" rhythm="00020010|" enj_k="5">Sich die Gewaltigen lüften.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,223 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Kassandra</title>
+        <author>
+          <persName>
+            <surname>Schiller</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">16</measure>
+        <measure type="verses">128</measure>
+        <measure type="verses_per_stanza">1-8, 2-8, 3-8, 4-8, 5-8, 6-8, 7-8, 8-8, 9-8, 10-8, 11-8, 12-8, 13-8, 14-8, 15-8, 16-8</measure>
+        <measure type="tokens">646</measure>
+        <measure type="sentences">34</measure>
+        <measure type="characters">3206</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1802</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/friedrich-schiller-kassandra,textbearbeitung,206.html">Kassandra - Friedrich Schiller (Interpretation #206)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Weimarer Klassik</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Kassandra</head>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="4">Freude war in Trojas Hallen,</l>
+            <l met="+-|+-|+-|+" rhythm="1010202|" enj_k="5">Eh die hohe Feste fiel;</l>
+            <l met="+-|+-|+-|+-|" rhythm="20101020|" enj_k="3">Jubelhymnen hört man schallen</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">In der Saiten goldnes Spiel;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Alle Hände ruhen müde</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="4">Von dem thränenvollen Streit,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="3">Weil der herrliche Pelide</l>
+            <l met="+-|+-|+-|+" rhythm="2010201|" enj_k="5">Priams schöne Tochter freit.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="3">Und geschmückt mit Lorbeerreisern,</l>
+            <l met="+-|+-|+-|+|" rhythm="2010102|" enj_k="3">Festlich wallet Schaar auf Schaar</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Nach der Götter heil'gen Häusern,</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="5">Zu des Thymbriers Altar.</l>
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="3">Dumpf erbrausend durch die Gassen</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" enj_k="4">Wälzt sich die bacchant'sche Lust,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00002020|" enj_k="3">Und in ihrem Schmerz verlassen</l>
+            <l met="+-|+-|+-|+" rhythm="0010102|" enj_k="5">War nur eine traur'ge Brust.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="3">Freudlos in der Freude Fülle,</l>
+            <l met="+-|+-|+-|+" rhythm="2010002|" enj_k="4">Ungesellig und allein,</l>
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="3">Wandelte Kassandra stille</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">In Apollos Lorbeerhain.</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">In des Waldes tiefste Gründe</l>
+            <l met="+-|+-|+-|+" rhythm="2000200|" enj_k="4">Flüchtete die Seherin,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="3">Und sie warf die Priesterbinde</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Zu der Erde zürnend hin:</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="5">Alles ist der Freude offen,</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="4">Alle Herzen sind beglückt,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00101020|" enj_k="4">Und die alten Eltern hoffen,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Und die Schwester steht geschmückt.</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="4">Ich allein muß einsam trauern,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="4">Denn mich flieht der süße Wahn,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="3">Und geflügelt diesen Mauern</l>
+            <l met="+-|+-|+-|+" rhythm="2000200|" enj_k="5">Seh' ich das Verderben an.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="4">Eine Fackel seh' ich glühen,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">Aber nicht in Hymens Hand;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="4">Nach den Wolken seh' ich ziehen,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">Aber nicht wie Opferbrand.</l>
+            <l met="+-|+-|+-|+-|" rhythm="20101020|" enj_k="4">Feste seh' ich froh bereiten,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="3">Doch im ahnungsvollen Geist</l>
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="cc_5">Hör' ich schon des Gottes Schreiten,</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="5">Der sie jammervoll zerreißt.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="4">Und sie schelten meine Klagen,</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="5">Und sie höhnen meinen Schmerz.</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002010|" enj_k="3">Einsam in die Wüste tragen</l>
+            <l met="+-|+-|+-|+" rhythm="1000102|" enj_k="3">Muß ich mein gequältes Herz,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="3">Von den Glücklichen gemieden</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="5">Und den Fröhlichen ein Spott!</l>
+            <l met="+-|+-|+-|+-|" rhythm="20000020|" enj_k="3">Schweres hast du mir beschieden,</l>
+            <l met="+-|+-|+-|+" rhythm="200|0102|" enj_k="5">Pythischer, du arger Gott!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00200010|" enj_k="3">Dein Orakel zu verkünden,</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" enj_k="3">Warum warfest du mich hin</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">In die Stadt der ewig Blinden</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Mit dem aufgeschloßnen Sinn?</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="cc_5">Warum gabst du mir zu sehen,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">Was ich doch nicht wenden kann?</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="5">Das Verhängte muß geschehen,</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="5">Das Gefürchtete muß nahn.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="2|0102010|" enj_k="cc_5">Frommt's, den Schleier aufzuheben,</l>
+            <l met="+-|+-|+-|+" rhythm="0010102|" enj_k="5">Wo das nahe Schreckniß droht?</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="4">Nur der Irrthum ist das Leben,</l>
+            <l met="+-|+-|+-|+" rhythm="0020002|" enj_k="5">Und das Wissen ist der Tod.</l>
+            <l met="+-|+-|+-|+-|" rhythm="2|0201020|" enj_k="3">Nimm, o nimm die traur'ge Klarheit,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Mir vom Aug den blut'gen Schein!</l>
+            <l met="+-|+-|+-|+-|" rhythm="2000|0020" enj_k="2_NP">Schrecklich ist es, deiner Wahrheit</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" enj_k="5">Sterbliches Gefäß zu sein.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="3">Meine Blindheit gib mir wieder</l>
+            <l met="+-|+-|+-|+" rhythm="0010102|" enj_k="5">Und den fröhlich dunklen Sinn!</l>
+            <l met="+-|+-|+-|+-|" rhythm="10001020|" enj_k="4">Nimmer sang ich freud'ge Lieder,</l>
+            <l met="+-|+-|+-|+" rhythm="0000201|" enj_k="5">Seit ich deine Stimme bin.</l>
+            <l met="+-|+-|+-|+-|" rhythm="20000020|" enj_k="4">Zukunft hast du mir gegeben,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="4">Doch du nahmst den Augenblick,</l>
+            <l met="+-|+-|+-|+-|" rhythm="10201020|" enj_k="5">Nahmst der Stunde fröhlich Leben -</l>
+            <l met="+-|+-|+-|+" rhythm="1010201|" enj_k="5">Nimm dein falsch Geschenk zurück!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="10002020|" enj_k="3">Nimmer mit dem Schmuck der Bräute,</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" enj_k="4">Kränzt' ich mir das duft'ge Haar,</l>
+            <l met="+-|+-|+-|+-|" rhythm="10001020|" enj_k="3">Seit ich deinem Dienst mich weihte</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" enj_k="5">An dem traurigen Altar.</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="4">Meine Jugend war nur Weinen,</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" enj_k="5">Und ich kannte nur den Schmerz,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102020|" enj_k="3">Jede herbe Noth der Meinen</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" enj_k="5">Schlug an mein empfindend Herz.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20100020|" enj_k="5">Fröhlich seh' ich die Gespielen,</l>
+            <l met="+-|+-|+-|+" rhythm="1000102" enj_k="3">Alles um mich lebt und liebt</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="5">In der Jugend Lustgefühlen,</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" enj_k="5">Mir nur ist das Herz getrübt.</l>
+            <l met="+-|+-|+-|+-|" rhythm="10201020|" enj_k="cc_5">Mir erscheint der Lenz vergebens,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Der die Erde festlich schmückt;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00100020|" enj_k="cc_5">Wer erfreute sich des Lebens,</l>
+            <l met="+-|+-|+-|+" rhythm="1000201|" enj_k="5">Der in seine Tiefen blickt!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="20101020|" enj_k="3">Selig preis' ich Polyxenen</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="4">In des Herzens trunknem Wahn,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="3">Denn den Besten der Hellenen</l>
+            <l met="+-|+-|+-|+" rhythm="0010002|" enj_k="5">Hofft sie bräutlich zu umfahn.</l>
+            <l met="+-|+-|+-|+-|" rhythm="20001020|" enj_k="5">Stolz ist ihre Brust gehoben,</l>
+            <l met="+-|+-|+-|+" rhythm="0010201" enj_k="5">Ihre Wonne faßt sie kaum,</l>
+            <l met="+-|+-|+-|+-|" rhythm="02|200010|" enj_k="3">Nicht euch, Himmlische dort oben,</l>
+            <l met="+-|+-|+-|+" rhythm="2000002|" enj_k="5">Neidet sie in ihrem Traum.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="cc_5">Und auch ich hab' ihn gesehen,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Den das Herz verlangend wählt!</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102020|" enj_k="3">Seine schönen Blicke flehen,</l>
+            <l met="+-|+-|+-|+" rhythm="0010202|" enj_k="5">Von der Liebe Gluth beseelt.</l>
+            <l met="+-|+-|+-|+-|" rhythm="20100020|" enj_k="3">Gerne möcht' ich mit dem Gatten</l>
+            <l met="+-|+-|+-|+" rhythm="0010201|" enj_k="5">In die heim'sche Wohnung ziehn;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Doch es tritt ein styg'scher Schatten</l>
+            <l met="+-|+-|+-|+" rhythm="2000101|" enj_k="5">Nächtlich zwischen mich und ihn.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00102020|" enj_k="3">Ihre bleichen Larven alle</l>
+            <l met="+-|+-|+-|+" rhythm="2000200|" enj_k="5">Sendet mir Proserpina;</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|0020|" enj_k="4">Wo ich wandre, wo ich walle,</l>
+            <l met="+-|+-|+-|+" rhythm="2000200|" enj_k="5">Stehen mir die Geister da.</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">In der Jugend frohe Spiele</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" enj_k="5">Drängen sie sich grausend ein,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="5">Ein entsetzliches Gewühle!</l>
+            <l met="+-|+-|+-|+" rhythm="2000201|" enj_k="5">Nimmer kann ich fröhlich sein.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="4">Und den Mordstahl seh' ich blinken</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="5">Und das Mörderauge glühn;</l>
+            <l met="+-|+-|+-|+-|" rhythm="0020|0020|" enj_k="3">Nicht zur Rechten, nicht zur Linken</l>
+            <l met="+-|+-|+-|+" rhythm="1000202|" enj_k="5">Kann ich vor dem Schreckniß fliehn;</l>
+            <l met="+-|+-|+-|+-|" rhythm="00201020|" enj_k="3">Nicht die Blicke darf ich wenden,</l>
+            <l met="+-|+-|+-|+" rhythm="20|20|200|" enj_k="3">Wissend, schauend, unverwandt</l>
+            <l met="+-|+-|+-|+-|" rhythm="10002020|" enj_k="3">Muß ich mein Geschick vollenden</l>
+            <l met="+-|+-|+-|+" rhythm="2000102|" enj_k="5">Fallend in dem fremden Land -</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="00200020|" enj_k="5">Und noch hallen ihre Worte -</l>
+            <l met="+-|+-|+-|+" rhythm="2|010102|" enj_k="3">Horch! da dringt verworrner Ton</l>
+            <l met="+-|+-|+-|+-|" rhythm="10001020|" enj_k="5">Fernher aus des Tempels Pforte,</l>
+            <l met="+-|+-|+-|+" rhythm="2010102|" enj_k="5">Todt lag Thetis' großer Sohn!</l>
+            <l met="+-|+-|+-|+-|" rhythm="10200020|" enj_k="5">Eris schüttelt ihre Schlangen,</l>
+            <l met="+-|+-|+-|+" rhythm="0020102|" enj_k="4">Alle Götter fliehn davon,</l>
+            <l met="+-|+-|+-|+-|" rhythm="00102010|" enj_k="3">Und des Donners Wolken hangen</l>
+            <l met="+-|+-|+-|+" rhythm="2010200|" enj_k="5">Schwer herab auf Ilion.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

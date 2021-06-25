@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Irren</title>
+        <author>
+          <persName>
+            <surname>Heym</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">100</measure>
+        <measure type="sentences">9</measure>
+        <measure type="characters">491</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1910</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-heym-die-irren,textbearbeitung,76.html">Die Irren - Georg Heym (Interpretation #76)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Irren</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200010201|" enj_k="5" enj="5">Der Mond tritt aus der gelben Wolkenwand.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010002010|" enj_k="3" enj="5">Die Irren hängen an den Gitterstäben,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|002010|" enj_k="5" enj="5">Wie große Spinnen, die an Mauern kleben.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102010002|" enj_k="5" enj="5">Entlang den Gartenzaun fährt ihre Hand.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020102010|" enj_k="5" enj="5">In offnen Sälen sieht man Tänzer schweben.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000|201" enj_k="3" enj="3">Der Ball der Irren ist es. Plötzlich schreit</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201|020102|" enj_k="4" enj="5">Der Wahnsinn auf. Das Brüllen pflanzt sich weit,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020002010|" enj_k="5" enj="5">Daß alle Mauern von dem Lärme beben.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020002010|" enj_k="cc_5" enj="3">Mit dem er eben über Hume gesprochen,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201010002|" enj_k="5" enj="5">Den Arzt ergreift ein Irrer mit Gewalt.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0102|0100020|" enj_k="5" enj="5">Er liegt im Blut. Sein Schädel ist zerbrochen.</l>
+          </lg>
+          <lg rhyme="aab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="01020102|01" enj_k="3" enj="3">Der Haufe Irrer schaut vergnügt. Doch bald</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200|010201|" enj_k="3" enj="5">Enthuschen sie, da fern die Peitsche knallt,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0201|0002010|" enj_k="5" enj="5">Den Mäusen gleich, die in die Erde krochen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,165 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Deutschland. Ein Wintermärchen, Caput 18 / XVIII</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">17</measure>
+        <measure type="verses">68</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4, 8-4, 9-4, 10-4, 11-4, 12-4, 13-4, 14-4, 15-4, 16-4, 17-4</measure>
+        <measure type="tokens">360</measure>
+        <measure type="sentences">23</measure>
+        <measure type="characters">1902</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/heinrich-heine-deutschland-ein-wintermaerchen-caput-18-xviii,textbearbeitung,356.html">Deutschland. Ein Wintermärchen, Caput 18 / XVIII - Heinrich Heine (Interpretation #356)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">VormärzBiedermeierJunges Deutschland</classCode>
+        <classCode scheme="text_genre">Versepos</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Deutschland. Ein Wintermärchen, Caput 18 / XVIII</head>
+          <lg rhyme="abcb" type="stanza">
+            <l met="+-|-+|-+|-+|" rhythm="20200102|" enj_k="4">Minden ist eine feste Burg,</l>
+            <l met="-+|-+|-+|-" rhythm="0102020|" enj_k="5">Hat gute Wehr und Waffen!</l>
+            <l met="-+|--+|--+|--+|" rhythm="01002001002|" enj_k="3">Mit preußischen Festungen hab ich jedoch</l>
+            <l met="-+|-+|-+|-" rhythm="0200020|" enj_k="5">Nicht gerne was zu schaffen.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="010020201|" enj_k="5">Wir kamen dort an zur Abendzeit.</l>
+            <l met="-+|--+|-+|-" rhythm="02001020" enj_k="3">Die Planken der Zugbrück' stöhnten</l>
+            <l met="-+|--+|-+|--+|" rhythm="020|0002001|" enj_k="5">So schaurig, als wir hinübergerollt;</l>
+            <l met="-+|-+|-+|-" rhythm="0102020|" enj_k="5">Die dunklen Gräben gähnten.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|--+|" rhythm="0100201002|" enj_k="3">Die hohen Bastionen schauten mich an,</l>
+            <l met="-+|-+|-+|-" rhythm="0200020|" enj_k="5">So drohend und verdrossen;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="4">Das große Tor ging rasselnd auf,</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">Ward rasselnd wieder geschlossen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="2|0010002|" enj_k="3">Ach! meine Seele ward betrübt,</l>
+            <l met="-+|-+|-+|-" rhythm="1002010|" enj_k="4">Wie des Odysseus Seele,</l>
+            <l met="-+|-+|-+|-+|" rhythm="0002|0102" enj_k="3">Als er gehört, daß Polyphem</l>
+            <l met="-+|-+|--+|-" rhythm="0201|0020|" enj_k="5">Den Felsblock schob vor die Höhle.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|-+|" rhythm="0100200102|" enj_k="4">Es trat an den Wagen ein Korporal</l>
+            <l met="-+|-+|-+|-" rhythm="020|0020|" enj_k="5">Und frug uns: wie wir hießen?</l>
+            <l met="-+|-+|--+|-+|" rhythm="01020|0201|" enj_k="4">»Ich heiße Niemand, bin Augenarzt</l>
+            <l met="-+|--+|-+|-" rhythm="02001020|" enj_k="5">Und steche den Star den Riesen.«</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="0201002001|" enj_k="5">Im Wirtshaus ward mir noch schlimmer zumut,</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">Das Essen wollt mir nicht schmecken.</l>
+            <l met="-+|--+|-+|-+|" rhythm="01002|0201|" enj_k="5">Ging schlafen sogleich, doch schlief ich nicht,</l>
+            <l met="-+|--+|-+|-" rhythm="01002020|" enj_k="5">Mich drückten so' schwer die Decken.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02010201|" enj_k="3">Es war ein breites Federbett,</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="3">Gardinen von rotem Damaste,</l>
+            <l met="-+|-+|-+|--+|" rhythm="020001002|" enj_k="3">Der Himmel von verblichenem Gold,</l>
+            <l met="-+|-+|--+|-" rhythm="00010020|" enj_k="5">Mit einem schmutzigen Quaste.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="0102|00102|" enj_k="3">Verfluchter Quast! der die ganze Nacht</l>
+            <l met="-+|-+|--+|-" rhythm="01020010|" enj_k="5">Die liebe Ruhe mir raubte!</l>
+            <l met="-+|-+|-+|--+|" rhythm="020|001002|" enj_k="3">Er hing mir, wie des Damokles Schwert,</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">So drohend über dem Haupte!</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="010020101|" enj_k="4">Schien manchmal ein Schlangenkopf zu sein,</l>
+            <l met="--+|--+|-+|-" rhythm="002001020|" enj_k="5">Und ich hörte ihn heimlich zischen:</l>
+            <l met="-+|-+|--+|-+|" rhythm="010200201|" enj_k="5">»Du bist und bleibst in der Festung jetzt,</l>
+            <l met="-+|-+|-+|-" rhythm="0010020|" enj_k="5">Du kannst nicht mehr entwischen!«</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="00020|200|" enj_k="5">»Oh, daß ich wäre« – seufzte ich –,</l>
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="3">»Daß ich zu Hause wäre,</l>
+            <l met="-+|-+|-+|--+|" rhythm="000102002|" enj_k="3">Bei meiner lieben Frau in Paris,</l>
+            <l met="-+|-+|-+|" rhythm="020102|" enj_k="5">Im Faubourg Poissonnière!«</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|-+|" rhythm="020|1000201|" enj_k="3">Ich fühlte, wie über die Stirne mir</l>
+            <l met="-+|-+|--+|-" rhythm="01010020|" enj_k="3">Auch manchmal etwas gestrichen,</l>
+            <l met="-+|-+|-+|-+|" rhythm="20010201|" enj_k="4">Gleich einer kalten Zensorhand,</l>
+            <l met="-+|--+|-+|-" rhythm="00001020|" enj_k="5">Und meine Gedanken wichen –</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|--+|" rhythm="020|0201002|" enj_k="5">Gendarmen in Leichenlaken gehüllt,</l>
+            <l met="-+|-+|-+|-" rhythm="0102010" enj_k="3">Ein weißes Spukgewirre,</l>
+            <l met="-+|--+|-+|-+|" rhythm="01002|0201|" enj_k="3">Umringte mein Bett, ich hörte auch</l>
+            <l met="-+|--+|--+|-" rhythm="200020010|" enj_k="5">Unheimliches Kettengeklirre.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|--+|" rhythm="2|00201002|" enj_k="4">Ach! Die Gespenster schleppten mich fort,</l>
+            <l met="--+|-+|--+|-" rhythm="002010020|" enj_k="3">Und ich hab mich endlich befunden</l>
+            <l met="-+|-+|-+|-+|" rhythm="00010201|" enj_k="5">An einer steilen Felsenwand;</l>
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="5">Dort war ich festgebunden.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="0201002001|" enj_k="5">Der böse schmutzige Betthimmelquast!</l>
+            <l met="-+|-+|-+|-" rhythm="0101020|" enj_k="4">Ich fand ihn gleichfalls wieder,</l>
+            <l met="-+|-+|--+|-+|" rhythm="010200201|" enj_k="3">Doch sah er jetzt wie ein Geier aus,</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="5">Mit Krallen und schwarzem Gefieder.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="020100201|" enj_k="4">Er glich dem preußischen Adler jetzt,</l>
+            <l met="-+|--+|-+|-" rhythm="02001020|" enj_k="5">Und hielt meinen Leib umklammert;</l>
+            <l met="-+|--+|-+|-+|" rhythm="020010002|" enj_k="5">Er fraß mir die Leber aus der Brust,</l>
+            <l met="-+|--+|--+|-" rhythm="010020020|" enj_k="5">Ich habe gestöhnt und gejammert.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|--+|" rhythm="010020|01002|" enj_k="4">Ich jammerte lange – da krähte der Hahn,</l>
+            <l met="--+|-+|-+|-" rhythm="00201020|" enj_k="5">Und der Fiebertraum erblaßte.</l>
+            <l met="-+|-+|--+|--+|" rhythm="0102001002|" enj_k="5">Ich lag zu Minden im schwitzenden Bett,</l>
+            <l met="-+|--+|--+|-" rhythm="020000020|" enj_k="5">Der Adler ward wieder zum Quaste.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="01020201|" enj_k="4">Ich reiste fort mit Extrapost,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="3">Und schöpfte freien Odem</l>
+            <l met="-+|-+|-+|--+|" rhythm="020|001002|" enj_k="3">Erst draußen in der freien Natur,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Auf bückeburg'schem Boden.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

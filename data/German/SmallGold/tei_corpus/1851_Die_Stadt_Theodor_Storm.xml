@@ -1,0 +1,84 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Stadt</title>
+        <author>
+          <persName>
+            <surname>Storm</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">15</measure>
+        <measure type="verses_per_stanza">1-5, 2-5, 3-5</measure>
+        <measure type="tokens">85</measure>
+        <measure type="sentences">3</measure>
+        <measure type="characters">383</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1851</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/theodor-storm-die-stadt,textbearbeitung,213.html">Die Stadt - Theodor Storm (Interpretation #213)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Realismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Stadt</head>
+          <lg rhyme="abaab" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="0102|0102|" enj_k="2_NP.KO">Am grauen Strand, am grauen Meer</l>
+            <l met="-+|-+|-+|" rhythm="002002|" enj_k="5">Und seitab liegt die Stadt;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="4">Der Nebel drückt die Dächer schwer,</l>
+            <l met="-+|-+|-+|-+|" rhythm="00020102|" enj_k="3">Und durch die Stille braust das Meer</l>
+            <l met="+--+|-+|" rhythm="200002|" enj_k="5">Eintönig um die Stadt.</l>
+          </lg>
+          <lg rhyme="abaab" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="0102|0102|" enj_k="3">Es rauscht kein Wald, es schlägt im Mai</l>
+            <l met="-+|--+|-+|" rhythm="0200201|" enj_k="5">Kein Vogel ohn Unterlaß;</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010102|" enj_k="3">Die Wandergans mit hartem Schrei</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="5">Nur fliegt in Herbstesnacht vorbei,</l>
+            <l met="-+|-+|-+|" rhythm="020102|" enj_k="5">Am Strande weht das Gras.</l>
+          </lg>
+          <lg rhyme="abaab" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02010200|" enj_k="3">Doch hängt mein ganzes Herz an dir,</l>
+            <l met="-+|-+|-+|" rhythm="010202|" enj_k="5">Du graue Stadt am Meer;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="3">Der Jugend Zauber für und für</l>
+            <l met="-+|-+|-+|-+|" rhythm="020002|02|" enj_k="3">Ruht lächelnd doch auf dir, auf dir,</l>
+            <l met="-+|-+|-+|" rhythm="020102|" enj_k="5">Du graue Stadt am Meer.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

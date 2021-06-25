@@ -1,0 +1,87 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Deutschland im Marschschritt</title>
+        <author>
+          <persName>
+            <surname>Menzel</surname>
+            <forename>Herybert</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4</measure>
+        <measure type="tokens">94</measure>
+        <measure type="sentences">12</measure>
+        <measure type="characters">481</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1936</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/herybert-menzel-deutschland-im-marschschritt,textbearbeitung,24.html">Deutschland im Marschschritt - Herybert Menzel (Interpretation #24)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Literatur im NationalsozialismusExilliteraturEmigrantenliteratur</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Deutschland im Marschschritt</head>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="00020|202|" enj_k="4" enj="4">Wenn wir marschieren - Schritt um Schritt -</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|00202|" enj_k="5" enj="5">Wir lauschen: unser Herz schlägt mit.</l>
+            <l met="-+|-+|-+|-+|" rhythm="21021|102|" enj_k="3" enj="3">Mein Herz und dein Herz, Kamerad.</l>
+            <l met="-+|-+|-+|-+|" rhythm="0102|02|02|" enj_k="3" enj="3">Im gleichen Takt: Soldat! Soldat!</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02020|202|" enj_k="3" enj="3">So Reih um Reihe - Schritt um Schritt -</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010102|" enj_k="5" enj="5">Kolonnen stampfen gleichen Tritt.</l>
+            <l met="-+|-+|-+|-+|" rhythm="0201|0200|" enj_k="4" enj="5">Wir ahnen's groß, wir beten's schon:</l>
+            <l met="-+|-+|-+|-+|" rhythm="00020002|" enj_k="5" enj="5">Dies ist der Pulsschlag der Nation.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="00020|202|" enj_k="4" enj="4">Wenn wir marschieren - Schritt um Schritt -</l>
+            <l met="-+|-+|-+|-+|" rhythm="00020102|" enj_k="3" enj="3">In unsrem Blute ziehen mit</l>
+            <l met="-+|-+|-+|-+|" rhythm="0201|0201|" enj_k="3" enj="5">Die Väter all, die Enkel schon:</l>
+            <l met="-+|--+|-+|-+|" rhythm="010020002|" enj_k="5" enj="5">Im ewigen Pulsschlag der Nation.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02|02|0202|" enj_k="3" enj="3">Soldat! Soldat! So Tritt um Tritt.</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|00202|" enj_k="5" enj="5">Hört Deutschland, wie es stritt und litt!</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|00102|" enj_k="3" enj="5">Hört Deutschland, wie es ewig zieht,</l>
+            <l met="-+|-+|-+|-+|" rhythm="0102|0201|" enj_k="5" enj="5">Das beste Blut, ins Heldenlied!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

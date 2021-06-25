@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Geliebte</title>
+        <author>
+          <persName>
+            <surname>Mörike</surname>
+            <forename>Eduard</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">100</measure>
+        <measure type="sentences">4</measure>
+        <measure type="characters">499</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1830</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/eduard-moerike-an-die-geliebte,textbearbeitung,140.html">An die Geliebte - Eduard Mörike (Interpretation #140)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Biedermeier</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Geliebte</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="01|00020102|" enj_k="3">Wenn ich, von deinem Anschaun tief gestillt,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02000102010|" enj_k="4">Mich stumm an deinem heilgen Wert vergnüge,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02000102010" enj_k="2_NP">dann hör ich recht die leisen Atemzüge</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="020|1000002|" enj_k="5">Des Engels, welcher sich in dir verhüllt.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002|020102" enj_k="3">Und ein erstaunt, ein fragend Lächeln quillt</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0002|0002010|" enj_k="4">Auf meinen Mund, ob mich kein Traum betrüge,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0002|0100020|" enj_k="3">Daß nun in dir, zu ewiger Genüge,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102|020|002|" enj_k="5">Mein kühnster Wunsch, mein einzger, sich erfüllt?</l>
+          </lg>
+          <lg rhyme="abc" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200020102|" enj_k="5">Von Tiefe dann zu Tiefen stürzt mein Sinn,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02000201020|" enj_k="3">Ich höre aus der Gottheit nächtger Ferne</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02000201020|" enj_k="5">Die Quellen des Geschicks melodisch rauschen.</l>
+          </lg>
+          <lg rhyme="abc" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200010201|" enj_k="3">Betäubt kehr ich den Blick nach oben hin,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0201|0100020|" enj_k="5">Zum Himmel auf - da lächeln alle Sterne;</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="020|00201020|" enj_k="5">Ich kniee, ihrem Lichtgesang zu lauschen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

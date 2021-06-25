@@ -1,0 +1,111 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Teilung der Erde</title>
+        <author>
+          <persName>
+            <surname>Schiller</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4, 8-4</measure>
+        <measure type="tokens">238</measure>
+        <measure type="sentences">11</measure>
+        <measure type="characters">1111</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1795</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/friedrich-schiller-die-teilung-der-erde,textbearbeitung,415.html">Die Teilung der Erde - Friedrich Schiller (Interpretation #415)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Weimarer Klassik</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Teilung der Erde</head>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0201|0200010" enj_k="3">»Nehmt hin die Welt!« rief Zeus von seinen Höhen</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200|2|00201|" enj_k="5">Den Menschen zu. »Nehmt, sie soll euer sein!</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0200|0201020|" enj_k="5">Euch schenk ich sie zum Erb und ewgen Lehen -</l>
+            <l met="-+|-+|-+|-+|" rhythm="02020001|" enj_k="5">Doch teilt euch brüderlich darein!«</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02|0201|02010|" enj_k="5">Da eilt', was Hände hat, sich einzurichten,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0100020202|" enj_k="5">Es regte sich geschäftig jung und alt.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02001001020|" enj_k="5">Der Ackermann griff nach des Feldes Früchten,</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010002|" enj_k="5">Der Junker birschte durch den Wald.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0102|0001020|" enj_k="5">Der Kaufmann nimmt, was seine Speicher fassen,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200010201|" enj_k="5">Der Abt wählt sich den edeln Firnewein,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010200020|" enj_k="4">Der König sperrt die Brücken und die Straßen</l>
+            <l met="-+|-+|-+|-+|" rhythm="02|010002|" enj_k="5">Und sprach: »Der Zehente ist mein.«</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02|000201020|" enj_k="4">Ganz spät, nachdem die Teilung längst geschehen,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002|020102|" enj_k="5">Naht der Poet, er kam aus weiter Fern -</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="2|0000100020|" enj_k="4">Ach! da war überall nichts mehr zu sehen,</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010002|" enj_k="5">Und alles hatte seinen Herrn!</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="22|010201020" enj_k="3">»Weh mir! So soll denn ich allein von allen</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200|2|00102|" enj_k="5">Vergessen sein, ich, dein getreuster Sohn?«</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020102020|" enj_k="4">So ließ er laut der Klage Ruf erschallen</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="5">Und warf sich hin vor Jovis Thron.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00010200010|" enj_k="4">»Wenn du im Land der Träume dich verweilet«,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102|020102|" enj_k="5">Versetzt der Gott, »so hadre nicht mit mir.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0200|0001020|" enj_k="5">Wo warst du denn, als man die Welt geteilet?«</l>
+            <l met="-+|-+|-+|-+|" rhythm="02|0002|02|" enj_k="5">»Ich war«, sprach der Poet, »bei dir.«</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020002010|" enj_k="5">Mein Auge hing an deinem Angesichte,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0001000202|" enj_k="5">An deines Himmels Harmonie mein Ohr -</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|1|00010" enj_k="3">Verzeih dem Geiste, der, von deinem Lichte</l>
+            <l met="-+|-+|-+|-+|" rhythm="02|010002|" enj_k="5">Berauscht, das Irdische verlor!«</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02|02|0102010|" enj_k="5">»Was tun?« spricht Zeus, »die Welt ist weggegeben,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="02|02|020001|" enj_k="5">Der Herbst, die Jagd, der Markt ist nicht mehr mein.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="10000200010|" enj_k="4">Willst du in meinem Himmel mit mir leben -</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102|010201|" enj_k="5">So oft du kommst, er soll dir offen sein.«</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

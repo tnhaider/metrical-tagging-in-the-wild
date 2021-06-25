@@ -1,0 +1,117 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Maifest / Mailied</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">9</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4, 8-4, 9-4</measure>
+        <measure type="tokens">119</measure>
+        <measure type="sentences">9</measure>
+        <measure type="characters">541</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1771</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-maifest,textbearbeitung,178.html">Maifest - Johann Wolfgang von Goethe (Interpretation #178)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Maifest / Mailied</head>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-" rhythm="02010|" enj_k="3">Wie herrlich leuchtet</l>
+            <l met="-+|-+|" rhythm="0002|" enj_k="5">Mir die Natur!</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="5">Wie glänzt die Sonne!</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="5">Wie lacht die Flur!</l>
+          </lg>
+          <lg rhyme="abcd" type="stanza">
+            <l met="-+|-+|-" rhythm="01020|" enj_k="3">Es dringen Blüten</l>
+            <l met="-+|-+|" rhythm="0002|" enj_k="3">Aus jedem Zweig</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="3">Und tausend Stimmen</l>
+            <l met="-+|-+|" rhythm="0002|" enj_k="3">Aus dem Gesträuch</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-" rhythm="01020|" enj_k="3">Und Freud und Wonne</l>
+            <l met="-+|-+|" rhythm="0002|" enj_k="5">Aus jeder Brust.</l>
+            <l met="-+|-+|-" rhythm="02|020|" enj_k="5">O Erd', o Sonne,</l>
+            <l met="-+|-+|" rhythm="02|02|" enj_k="5">O Glück, o Lust,</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-" rhythm="02|020|" enj_k="5">O Lieb', o Liebe,</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="3">So golden schön</l>
+            <l met="-+|-+|-" rhythm="02010|" enj_k="3">Wie Morgenwolken</l>
+            <l met="-+|-+|" rhythm="0002|" enj_k="5">Auf jenen Höhn,</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-" rhythm="01020" enj_k="3">Du segnest herrlich</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="3">Das frische Feld -</l>
+            <l met="-+|-+|-" rhythm="02010|" enj_k="3">Im Blütendampfe</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="5">Die volle Welt!</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-" rhythm="020|20|" enj_k="5">O Mädchen, Mädchen,</l>
+            <l met="-+|-+|" rhythm="0200|" enj_k="5">Wie lieb' ich dich!</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4">Wie blinkt dein Auge,</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="5">Wie liebst du mich!</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-" rhythm="01020|" enj_k="3">So liebt die Lerche</l>
+            <l met="-+|-+|" rhythm="0202|" enj_k="4">Gesang und Luft,</l>
+            <l met="-+|-+|-" rhythm="02010|" enj_k="3">Und Morgenblumen</l>
+            <l met="-+|-+|" rhythm="0201|" enj_k="4">Den Himmelsduft,</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-" rhythm="00020|" enj_k="3">Wie ich dich liebe</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="cc_5">Mit warmem Blut,</l>
+            <l met="-+|-+|-" rhythm="00020|" enj_k="3">Die du mir Jugend</l>
+            <l met="-+|-+|" rhythm="0202|" enj_k="3">Und Freud und Mut</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-" rhythm="01020|" enj_k="3">Zu neuen Liedern</l>
+            <l met="-+|-+|" rhythm="0201|" enj_k="5">Und Tänzen gibst.</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4">Sei ewig glücklich,</l>
+            <l met="-+|-+|" rhythm="0002|" enj_k="5">Wie du mich liebst.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

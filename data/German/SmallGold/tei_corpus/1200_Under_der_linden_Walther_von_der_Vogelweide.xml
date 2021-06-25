@@ -1,0 +1,107 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Under der linden</title>
+        <author>
+          <persName>
+            <surname>Vogelweide</surname>
+            <forename>Walther von der</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">36</measure>
+        <measure type="verses_per_stanza">1-9, 2-9, 3-9, 4-9</measure>
+        <measure type="tokens">147</measure>
+        <measure type="sentences">11</measure>
+        <measure type="characters">626</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1200</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/walther-von-der-vogelweide-under-der-linden,textbearbeitung,220.html">Under der linden - Walther von der Vogelweide (Interpretation #220)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">mittelalterlicheLyrik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Under der linden</head>
+          <lg rhyme="abcabcded" type="stanza">
+            <l>Under der linden</l>
+            <l>An der heide</l>
+            <l>Da unser zweier bette was.</l>
+            <l>Da mugt ir vinden</l>
+            <l>Schône beide</l>
+            <l>Gebrochen bluomen unde gras,</l>
+            <l>vor dem walde in einem tal.</l>
+            <l>Tandaradei,</l>
+            <l>schône sanc diu nahtegal.</l>
+          </lg>
+          <lg rhyme="abcabcded" type="stanza">
+            <l>Ich kam gegangen</l>
+            <l>Zuo der Ouwe:</l>
+            <l>Dô was mîn friedel komen ê</l>
+            <l>Dá war ich empfangen,</l>
+            <l>hêre frouwe</l>
+            <l>daz ich bin saelic iemer mê.</l>
+            <l>Kuste er mich? Wol tûsentstunt:</l>
+            <l>Tandaradei,</l>
+            <l>seht wie rôt mir ist der unt.</l>
+          </lg>
+          <lg rhyme="abcabcded" type="stanza">
+            <l>Do het er gemachet</l>
+            <l>Alsô rîche</l>
+            <l>Von bluomen eine bettstat.</l>
+            <l>Des wirt noch gelachet</l>
+            <l>Innecliche,</l>
+            <l>kumt iemen an daz selbe pfat.</l>
+            <l>Bî den rôsen er wol mac</l>
+            <l>Tandaradei,</l>
+            <l>merken wâ mirz houbet lac.</l>
+          </lg>
+          <lg rhyme="abcabcded" type="stanza">
+            <l>Daz er bi mir laege,</l>
+            <l>wessez iemen</l>
+            <l>(no enwelle got!), sô schamt ich mich.</l>
+            <l>Wes er mit mir pflaege,</l>
+            <l>niemer niemen</l>
+            <l>bevinde daz wan er und ich-</l>
+            <l>und ein kleinez vogellîn</l>
+            <l>tandaradei,</l>
+            <l>daz mac wol getriuwe sin.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

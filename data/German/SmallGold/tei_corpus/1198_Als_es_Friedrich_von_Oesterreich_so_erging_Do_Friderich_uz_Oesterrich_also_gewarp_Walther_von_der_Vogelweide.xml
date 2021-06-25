@@ -1,0 +1,77 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Als es Friedrich von Österreich so erging / Dô Friderich ûz Ôsterrîch alsô gewarp</title>
+        <author>
+          <persName>
+            <surname>Vogelweide</surname>
+            <forename>Walther von der</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">1</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-12</measure>
+        <measure type="tokens">113</measure>
+        <measure type="sentences">2</measure>
+        <measure type="characters">396</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1198</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/walther-von-der-vogelweide-als-es-friedrich-von-oesterreich-so-erging,textbearbeitung,256.html">Als es Friedrich von Österreich so erging - Walther von der Vogelweide (Interpretation #256)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">mittelalterlicheLyrik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Als es Friedrich von Österreich so erging / Dô Friderich ûz Ôsterrîch alsô gewarp</head>
+          <lg rhyme="aabccbddeffe" type="stanza">
+            <l>Dô Friderich ûz Osterrîch alsô gewarp,</l>
+            <l>daz er an der sêle genas und im der lîp erstarp,</l>
+            <l>dô fuort er mînen krenechen trit in die erde,</l>
+            <l>Dô gienc ich slîchent als ein pfawe, swar ich gie,</l>
+            <l>daz houbet hanht ich nider unz ûf mîniu knie,</l>
+            <l>nû riht ich ez ûf nâch vollem werde:</l>
+            <l>ich bin wol ze fiure komen,</l>
+            <l>mich hât daz rîche und ouch diu krône an sich genomen,</l>
+            <l>wol ûf, swer tanzen welle nâch der gîgen!</l>
+            <l>mir ist mîner swære buoz,</l>
+            <l>êrste wil ich eben setzen mînen fuoz</l>
+            <l>und wider in ein hôhgemüete stîgen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

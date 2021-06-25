@@ -1,0 +1,93 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Laß rauschen Lieb, laß rauschen</title>
+        <author>
+          <persName>
+            <surname>Arnim</surname>
+            <forename>Achim von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">5</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4</measure>
+        <measure type="tokens">100</measure>
+        <measure type="sentences">4</measure>
+        <measure type="characters">481</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1806</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/achim-von-arnim-lass-rauschen-lieb-lass-rauschen,textbearbeitung,66.html">Laß rauschen Lieb, laß rauschen - Achim von Arnim (Kurz-Interpretation #66)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Heidelberger RomantikJüngere RomantikHochromantik</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Laß rauschen Lieb, laß rauschen</head>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="4">Ich hört ein Sichlein rauschen,</l>
+            <l met="-+|-+|-+|" rhythm="010002|" enj_k="5">Wohl rauschen durch das Korn,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="4">Ich hört ein Mägdlein klagen,</l>
+            <l met="-+|-+|-+|" rhythm="010201" enj_k="5">Sie hätt ihr Lieb verlorn.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="020|2|020|" enj_k="5">Laß rauschen, Lieb, laß rauschen,</l>
+            <l met="-+|-+|-+|" rhythm="020|002|" enj_k="5">Ich acht nicht, wie es geht,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="3">Ich thät mein Lieb vertauschen</l>
+            <l met="-+|-+|-+|" rhythm="020002|" enj_k="5">In Veilchen und im Klee.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="3">Du hast ein Mägdlein worben</l>
+            <l met="-+|-+|-+|" rhythm="020002|" enj_k="5">In Veilchen und im Klee,</l>
+            <l met="-+|-+|-+|-" rhythm="0200020|" enj_k="5">So steh ich hier alleine,</l>
+            <l met="-+|-+|-+|" rhythm="000201|" enj_k="5">Thut meinem Herzen weh.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="4">Ich hör ein Hirschlein rauschen</l>
+            <l met="-+|-+|-+|" rhythm="020002|" enj_k="5">Wohl rauschen durch den Wald,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Ich hör mein Lieb sich klagen,</l>
+            <l met="-+|-+|-+|" rhythm="010201|" enj_k="5">Die Lieb verrauscht so bald.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="020|2|020|" enj_k="5">Laß rauschen, Lieb, laß rauschen,</l>
+            <l met="-+|-+|-+|" rhythm="020|002|" enj_k="5">Ich weiß nicht, wie mir wird,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="4">Die Bächlein immer rauschen,</l>
+            <l met="-+|-+|-+|" rhythm="020002|" enj_k="5">Und keines sich verirrt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

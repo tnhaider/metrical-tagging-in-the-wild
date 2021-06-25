@@ -1,0 +1,103 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Willkommen und Abschied / Es schlug mein Herz</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-8, 2-8, 3-8, 4-8</measure>
+        <measure type="tokens">186</measure>
+        <measure type="sentences">11</measure>
+        <measure type="characters">905</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1789</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-willkommen-und-abschied-welcome-and-farewell,textbearbeitung,420.html"> Willkommen und Abschied (Welcome and Farewell) - Johann Wolfgang von Goethe (English Translation, Interpretation #420)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Willkommen und Abschied / Es schlug mein Herz</head>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|-" rhythm="0102|01020|" enj_k="5">Es schlug mein Herz, geschwind zu Pferde!</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020002|" enj_k="5">Es war getan fast eh gedacht;</l>
+            <l met="-+|-+|-+|-+|-" rhythm="010200020|" enj_k="4">Der Abend wiegte schon die Erde</l>
+            <l met="-+|-+|-+|-+|" rhythm="00020102|" enj_k="5">Und an den Bergen hing die Nacht</l>
+            <l met="-+|-+|-+|-+|-" rhythm="010201020|" enj_k="3">Schon stand im Nebelkleid die Eiche</l>
+            <l met="-+|-+|-+|-+|" rhythm="0201020|1|" enj_k="cc_5">Ein aufgetürmter Riese, da,</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020100020|" enj_k="3">Wo Finsternis aus dem Gesträuche</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010200|" enj_k="5">Mit hundert schwarzen Augen sah.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|-" rhythm="020002010|" enj_k="3">Der Mond von einem Wolkenhügel</l>
+            <l met="-+|-+|-+|-+|" rhythm="01000201|" enj_k="5">Sah kläglich aus dem Duft hervor;</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020101020|" enj_k="4">Die Winde schwangen leise Flügel</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020001|" enj_k="5">Umsausten schauerlich mein Ohr</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020102010|" enj_k="5">Die Nacht schuf tausend Ungeheuer</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="5">Doch frisch und fröhlich war mein Mut</l>
+            <l met="-+|-+|-+|-+|-" rhythm="000201020|" enj_k="5">In meinen Adern welches Feuer!</l>
+            <l met="-+|-+|-+|-+|" rhythm="00020102|" enj_k="5">In meinem Herzen welche Glut!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|-" rhythm="200|001020|" enj_k="3">Dich sah ich, und die milde Freude</l>
+            <l met="-+|-+|-+|-+|" rhythm="20010200|" enj_k="5">Floß von dem süßen Blick auf mich;</l>
+            <l met="-+|-+|-+|-+|-" rhythm="100200020|" enj_k="4">Ganz war mein Herz an deiner Seite</l>
+            <l met="-+|-+|-+|-+|" rhythm="000201|01|" enj_k="5">Und jeder Atemzug für dich.</l>
+            <l met="-+|-+|--+|-+|-" rhythm="0201002010|" enj_k="3">Ein rosafarbenes Frühlingswetter</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010002|" enj_k="5">Umgab das liebliche Gesicht,</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020000|020|" enj_k="5">Und Zärtlichkeit für mich - ihr Götter!</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|00201|" enj_k="5">Ich hofft es, ich verdient es nicht!</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|-" rhythm="1|2002010" enj_k="3">Doch, ach schon mit der Morgensonne</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020002|" enj_k="5">Verengt der Abschied mir das Herz</l>
+            <l met="-+|-+|-+|-+|-" rhythm="000201020|" enj_k="5">In deinen Küssen welche Wonne!</l>
+            <l met="-+|-+|-+|-+|" rhythm="00020102|" enj_k="5">In deinem Auge welcher Schmerz!</l>
+            <l met="-+|--+|-+|-+|-" rhythm="02|00201020|" enj_k="3">Ich ging und du standst und sahst zu Erden</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="5">Und sahst mir nach mit nassen Blick:</l>
+            <l met="-+|-+|-+|-+|-" rhythm="00|0102010|" enj_k="5">Und doch welch Glück geliebt zu werden!</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|20|002|" enj_k="5">Und lieben, Götter, welch ein Glück!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

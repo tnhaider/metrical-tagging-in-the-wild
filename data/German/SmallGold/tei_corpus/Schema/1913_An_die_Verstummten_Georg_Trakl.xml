@@ -1,0 +1,80 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Verstummten</title>
+        <author>
+          <persName>
+            <surname>Trakl</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">11</measure>
+        <measure type="verses_per_stanza">1-5, 2-4, 3-2</measure>
+        <measure type="tokens">82</measure>
+        <measure type="sentences">6</measure>
+        <measure type="characters">465</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1913</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-trakl-an-die-verstummten,textbearbeitung,343.html">An die Verstummten - Georg Trakl (Interpretation #343)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Verstummten</head>
+          <lg rhyme="abcde" type="stanza">
+            <l met="+-|+--|+-|+--|+-|" rhythm="2|0200102|0020|" enj_k="3" enj="3">O, der Wahnsinn der großen Stadt, da am Abend</l>
+            <l met="-|+-|+--|+--|+-|+-|" rhythm="01020|01002010|" enj_k="4" enj="5">An schwarzer Mauer verkrüppelte Bäume starren,</l>
+            <l met="-|+--|+--|+-|+-|+" rhythm="010020|010201|" enj_k="4" enj="5">Aus silberner Maske der Geist des Bösen schaut;</l>
+            <l met="+--|+--|+--|+--|+-|+" rhythm="20010020|0100201|" enj_k="5" enj="5">Licht mit magnetischer Geißel die steinerne Nacht verdrängt.</l>
+            <l met="+--|+--|+--|+-|+-|" rhythm="2|001002002010|" enj_k="3" enj="3">O, das versunkene Läuten der Abendglocken.</l>
+          </lg>
+          <lg rhyme="abcd" type="stanza">
+            <l met="+-|--|+--|+--|+-|+--|+" rhythm="20|0010020|0102001|" enj_k="4" enj="4">Hure, die in eisigen Schauern ein totes Kindlein gebärt.</l>
+            <l met="+-|+--|+-|+-|+-|+--|" rhythm="20010201000200|" enj_k="3" enj="5">Rasend peitscht Gottes Zorn die Stirne der Besessenen,</l>
+            <l met="+--|+-|+--|+-|+--|+" rhythm="21020|20|0102002|" enj_k="4" enj="4">Purpurne Seuche, Hunger, der grüne Augen zerbricht.</l>
+            <l met="+-|+--|+--|+" rhythm="2|02001002|" enj_k="3" enj="3">O, das gräßliche Lachen des Golds.</l>
+          </lg>
+          <lg rhyme="ab" type="stanza">
+            <l met="+-|+-|+--|+-|+-|+--|+-|" rhythm="00102001020|10020|" enj_k="4" enj="5">Aber stille blutet in dunkler Höhle stummere Menschheit,</l>
+            <l met="+-|+--|+-|+-|+--|+" rhythm="0010020|001002|" enj_k="5" enj="5">Fügt aus harten Metallen das erlösende Haupt.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

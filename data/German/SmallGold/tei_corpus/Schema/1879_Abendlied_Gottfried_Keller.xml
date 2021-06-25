@@ -1,0 +1,87 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Abendlied</title>
+        <author>
+          <persName>
+            <surname>Keller</surname>
+            <forename>Gottfried</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4</measure>
+        <measure type="tokens">101</measure>
+        <measure type="sentences">4</measure>
+        <measure type="characters">504</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1879</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/gottfried-keller-abendlied,textbearbeitung,205.html">Abendlied - Gottfried Keller (Interpretation #205)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Realismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Abendlied</head>
+          <lg rhyme="aaaa" type="stanza">
+            <l met="+-|+-|+-|+-|+" rhythm="20|0010201|" enj_k="3">Augen, meine lieben Fensterlein,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="200020102|" enj_k="4">Gebt mir schon so lange holden Schein,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="201020201|" enj_k="5">Lasset freundlich Bild um Bild herein:</l>
+            <l met="+-|+-|+-|+-|+" rhythm="102000201|" enj_k="5">Einmal werdet ihr verdunkelt sein!</l>
+          </lg>
+          <lg rhyme="aaaa" type="stanza">
+            <l met="+-|+-|+-|+-|+" rhythm="102020102|" enj_k="4">Fallen einst die müden Lider zu,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="102|020102|" enj_k="5">Löscht ihr aus, dann hat die Seele Ruh;</l>
+            <l met="+-|+-|+-|+-|+" rhythm="201020201|" enj_k="4">Tastend streift sie ab die Wanderschuh',</l>
+            <l met="+-|+-|+-|+-|+" rhythm="102000102|" enj_k="5">Legt sich auch in ihre finstre Truh.</l>
+          </lg>
+          <lg rhyme="aaaa" type="stanza">
+            <l met="+-|+-|+-|+-|+" rhythm="1020|20102|" enj_k="4">Noch zwei Fünklein sieht sie glimmend stehn,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="0020|00102|" enj_k="4">Wie zwei Sternlein innerlich zu sehn,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="0020|00102|" enj_k="3">Bis sie schwanken und dann auch vergehn,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="000010201|" enj_k="5">Wie von eines Falters Flügelwehn.</l>
+          </lg>
+          <lg rhyme="aaaa" type="stanza">
+            <l met="+-|+-|+-|+-|+" rhythm="021000201|" enj_k="3">Doch noch wandl' ich auf dem Abendfeld,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="001000201|" enj_k="5">Nur dem sinkenden Gestirn gesellt;</l>
+            <l met="+-|+-|+-|+-|+" rhythm="2|020|00201|" enj_k="3">Trinkt, o Augen, was die Wimper hält,</l>
+            <l met="+-|+-|+-|+-|+" rhythm="001020102|" enj_k="5">Von dem goldnen Überfluß der Welt!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

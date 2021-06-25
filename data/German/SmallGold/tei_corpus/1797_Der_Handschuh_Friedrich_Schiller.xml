@@ -1,0 +1,146 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Der Handschuh</title>
+        <author>
+          <persName>
+            <surname>Schiller</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">67</measure>
+        <measure type="verses_per_stanza">1-6, 2-10, 3-16, 4-11, 5-4, 6-5, 7-5, 8-10</measure>
+        <measure type="tokens">315</measure>
+        <measure type="sentences">9</measure>
+        <measure type="characters">1560</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1797</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/friedrich-schiller-der-handschuh,textbearbeitung,433.html">Der Handschuh - Friedrich Schiller (Interpretation #433)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Weimarer Klassik</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Der Handschuh</head>
+          <lg rhyme="aabccb" type="stanza">
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="5">Vor seinem Löwengarten,</l>
+            <l met="-+|-+|-+|-" rhythm="0200010|" enj_k="4">Das Kampfspiel zu erwarten,</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="4">Saß König Franz,</l>
+            <l met="-+|--+|--+|-" rhythm="002010020|" enj_k="4">Und um ihn die Großen der Krone,</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="3">Und rings auf hohem Balkone</l>
+            <l met="-+|--+|-+|" rhythm="0200102|" enj_k="5">Die Damen in schönem Kranz.</l>
+          </lg>
+          <lg rhyme="aabbccddee" type="stanza">
+            <l met="-+|-+|--+|-" rhythm="00010020|" enj_k="4">Und wie er winkt mit dem Finger,</l>
+            <l met="-+|--+|-+|-" rhythm="20001020|" enj_k="4">Auf tut sich der weite Zwinger,</l>
+            <l met="--+|--+|--+|" rhythm="002001002" enj_k="3">Und hinein mit bedächtigem Schritt</l>
+            <l met="-+|-+|" rhythm="0201|" enj_k="4">Ein Löwe tritt,</l>
+            <l met="-+|-+|" rhythm="0102" enj_k="3">Und sieht sich stumm</l>
+            <l met="-+|" rhythm="02|" enj_k="3">Rings um,</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4">Mit langem Gähnen,</l>
+            <l met="-+|--+|-" rhythm="010020|" enj_k="4">Und schüttelt die Mähnen,</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4">Und streckt die Glieder,</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="5">Und legt sich nieder.</l>
+          </lg>
+          <lg rhyme="abcbdceeffdgghha" type="stanza">
+            <l met="--+|--+|-" rhythm="0010020|" enj_k="4">Und der König winkt wieder,</l>
+            <l met="-+|-+|-+|" rhythm="010002" enj_k="3">Da öffnet sich behend</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="5">Ein zweites Tor,</l>
+            <l met="--+|" rhythm="002|" enj_k="3">Daraus rennt</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="3">Mit wildem Sprunge</l>
+            <l met="-+|--+|" rhythm="02000|" enj_k="5">Ein Tiger hervor,</l>
+            <l met="-+|-+|--+|" rhythm="0002001|" enj_k="4">Wie der den Löwen erschaut,</l>
+            <l met="--+|" rhythm="201|" enj_k="4">Brüllt er laut,</l>
+            <l met="-+|-+|" rhythm="1002" enj_k="3">Schlägt mit dem Schweif</l>
+            <l met="--+|--+|" rhythm="001002|" enj_k="4">Einen furchtbaren Reif,</l>
+            <l met="-+|--+|-" rhythm="010020|" enj_k="4">Und recket die Zunge,</l>
+            <l met="--+|-+|" rhythm="00102" enj_k="3">Und im Kreise scheu</l>
+            <l met="-+|--+|" rhythm="01002|" enj_k="3">Umgeht er den Leu</l>
+            <l met="--+|-" rhythm="1020|" enj_k="5">Grimmig schnurrend;</l>
+            <l met="-+|--+|-" rhythm="010020" enj_k="3">Drauf streckt er sich murrend</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="5">Zur Seite nieder.</l>
+          </lg>
+          <lg rhyme="abbccdeeffd" type="stanza">
+            <l met="--+|--+|-" rhythm="0010020|" enj_k="5">Und der König winkt wieder,</l>
+            <l met="-+|-+|--+|--+|" rhythm="0201001002|" enj_k="3">Da speit das doppelt geöffnete Haus</l>
+            <l met="--+|--+|-+|" rhythm="200100200|" enj_k="5">Zwei Leoparden auf einmal aus,</l>
+            <l met="-+|--+|--+|-+|" rhythm="0200100201|" enj_k="3">Die stürzen mit mutiger Kampfbegier</l>
+            <l met="+|-+|-+|" rhythm="00201|" enj_k="5">Auf das Tigertier,</l>
+            <l met="-+|--+|-+|--+|-" rhythm="02000010020|" enj_k="4">Das packt sie mit seinen grimmigen Tatzen,</l>
+            <l met="--+|--+|" rhythm="001002|" enj_k="3">Und der Leu mit Gebrüll</l>
+            <l met="+--+|--+|" rhythm="0002|002|" enj_k="4">Richtet sich auf, da wird's still,</l>
+            <l met="--+|-+|" rhythm="00102|" enj_k="3">Und herum im Kreis,</l>
+            <l met="-+|-+|" rhythm="0102|" enj_k="4">Von Mordsucht heiß,</l>
+            <l met="+--+|--+|-" rhythm="20010020|" enj_k="5">Lagern die greulichen Katzen.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|--+|-+|" rhythm="0200102" enj_k="3">Da fällt von des Altans Rand</l>
+            <l met="-+|--+|-+|" rhythm="0200102|" enj_k="3">Ein Handschuh von schöner Hand</l>
+            <l met="+--+|-+|-+|" rhythm="00020002|" enj_k="3">Zwischen den Tiger und den Leun</l>
+            <l met="+--+|" rhythm="1002|" enj_k="5">Mitten hinein.</l>
+          </lg>
+          <lg rhyme="ababc" type="stanza">
+            <l met="--+|--+|-+|--+|" rhythm="00100201002|" enj_k="3">Und zu Ritter Delorges spottenderweis</l>
+            <l met="+|--+|-+|-+|" rhythm="20010201|" enj_k="5">Wendet sich Fräulein Kunigund:</l>
+            <l met="-+|-+|--+|-+|" rhythm="020|000102" enj_k="4">»Herr Ritter, ist Eure Lieb so heiß,</l>
+            <l met="-+|-+|-+|-+|" rhythm="10020102|" enj_k="4">Wie Ihr mir's schwört zu jeder Stund,</l>
+            <l met="+|-+|--+|-+|" rhythm="2|0100201|" enj_k="5">Ei, so hebt mir den Handschuh auf.«</l>
+          </lg>
+          <lg rhyme="abccb" type="stanza">
+            <l met="--+|--+|-+|" rhythm="00200102|" enj_k="3">Und der Ritter in schnellem Lauf</l>
+            <l met="--+|--+|-+|-" rhythm="002001020|" enj_k="3">Steigt hinab in den furchtbarn Zwinger</l>
+            <l met="-+|-+|-" rhythm="01020|" enj_k="4">Mit festem Schritte,</l>
+            <l met="-+|-+|-+|-+|-" rhythm="000201020" enj_k="3">Und aus der Ungeheuer Mitte</l>
+            <l met="+--+|--+|-+|-" rhythm="1002001020|" enj_k="5">Nimmt er den Handschuh mit keckem Finger.</l>
+          </lg>
+          <lg rhyme="aabcbbcddc" type="stanza">
+            <l met="+--+|-+|-+|-" rhythm="000200020|" enj_k="3">Und mit Erstaunen und mit Grauen</l>
+            <l met="+--+|--+|-+|-" rhythm="1002002010|" enj_k="4">Sehen's die Ritter und Edelfrauen,</l>
+            <l met="--+|-+|--+|--+|" rhythm="00102002001|" enj_k="5">Und gelassen bringt er den Handschuh zurück.</l>
+            <l met="-+|--+|-+|-+|-" rhythm="0100201020|" enj_k="4">Da schallt ihm sein Lob aus jedem Munde,</l>
+            <l met="+--+|--+|-+|" rhythm="000100201|" enj_k="3">Aber mit zärtlichem Liebesblick –</l>
+            <l met="--+|--+|-+|" rhythm="00200102|" enj_k="5">Er verheißt ihm sein nahes Glück –</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020001020|" enj_k="5">Empfängt ihn Fräulein Kunigunde.</l>
+            <l met="--+|--+|-+|-+|" rhythm="0020010002|" enj_k="5">Und er wirft ihr den Handschuh ins Gesicht:</l>
+            <l met="+-|+--+|-+|" rhythm="20|20|0201|" enj_k="4">»Den Dank, Dame, begehr ich nicht«,</l>
+            <l met="--+|--+|-+|-" rhythm="002001020|" enj_k="5">Und verläßt sie zur selben Stunde.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Halber Schlaf</title>
+        <author>
+          <persName>
+            <surname>Heym</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-2, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">63</measure>
+        <measure type="sentences">5</measure>
+        <measure type="characters">304</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1912</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-heym-halber-schlaf,textbearbeitung,354.html">Halber Schlaf - Georg Heym (Interpretation #354)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Halber Schlaf</head>
+          <lg rhyme="aa" type="stanza">
+            <l met="-+|--+|--+|-+|" rhythm="0100201002|" enj_k="4" enj="5">Die Finsternis raschelt wie ein Gewand,</l>
+            <l met="-+|-+|--+|-+|" rhythm="010200201|" enj_k="5" enj="5">Die Bäume torkeln am Himmelsrand.</l>
+          </lg>
+          <lg rhyme="abbc" type="stanza">
+            <l met="+--|+-|+-|+" rhythm="20000102|" enj_k="4" enj="5">Rette dich in das Herz der Nacht,</l>
+            <l met="+--|+--|+--|+" rhythm="2001001002" enj_k="3" enj="5">Grabe dich schnell in das Dunkele ein,</l>
+            <l met="--+|-+|--+|" rhythm="0020|1002|" enj_k="4" enj="5">Wie in Waben. Mache dich klein,</l>
+            <l met="+--|+-|+-|" rhythm="1000020|" enj_k="5" enj="5">Steige aus deinem Bette.</l>
+          </lg>
+          <lg rhyme="abc" type="stanza">
+            <l met="+--|+--|+-|" rhythm="20010020|" enj_k="4" enj="5">Etwas will über die Brücken,</l>
+            <l met="-+|--+|-+|" rhythm="0200102|" enj_k="4" enj="5">Er scharret mit Hufen krumm,</l>
+            <l met="-+|--+|--+|" rhythm="01002001|" enj_k="5" enj="5">Die Sterne erschraken so weiß.</l>
+          </lg>
+          <lg rhyme="abc" type="stanza">
+            <l met="--+|--+|" rhythm="001002|" enj_k="3" enj="3">Und der Mond wie ein Greis</l>
+            <l met="+-|+--+|" rhythm="201002|" enj_k="3" enj="5">Watschelt oben herum</l>
+            <l met="--+|--+|-" rhythm="0010020|" enj_k="5" enj="5">Mit dem höckrigen Rücken.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Papageien-Park</title>
+        <author>
+          <persName>
+            <surname>Rilke</surname>
+            <forename>Rainer Maria</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">110</measure>
+        <measure type="sentences">5</measure>
+        <measure type="characters">602</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1908</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/rainer-maria-rilke-papageien-park,textbearbeitung,11.html">Papageien-Park - Rainer Maria Rilke (Interpretation #11)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Symbolismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Papageien-Park</head>
+          <lg rhyme="aaaa" type="stanza">
+            <l met="+-|+--|+--|+--|+-|+-|" rhythm="0010020|020|02010|" enj_k="3" enj="3">Unter türkischen Linden, die blühen, an Rasenrändern,</l>
+            <l met="-|+--|+-|+--|+--|+-|" rhythm="01000020010020|" enj_k="3" enj="3">in leise von ihrem Heimweh geschaukelten Ständern</l>
+            <l met="+--|+--|+--|+-|+-|" rhythm="20020|02000020|" enj_k="cc_5" enj="5">atmen die Ara und wissen von ihren Ländern,</l>
+            <l met="+--|+--|+-|+-|+-|" rhythm="00|000020|0020|" enj_k="5" enj="5">die sich, auch wenn sie nicht hinsehn, nicht verändern.</l>
+          </lg>
+          <lg rhyme="aaaa" type="stanza">
+            <l met="+--|+--|+--|+--|+-|" rhythm="20010020000020|" enj_k="3" enj="3">Fremd im beschäftigten Grünen wie eine Parade,</l>
+            <l met="+--|+-|+--|+--|+-|" rhythm="2000|010020020|" enj_k="4" enj="5">zieren sie sich und fühlen sich selber zu schade,</l>
+            <l met="+--|+--|+--|+--|+-|" rhythm="00010020010020|" enj_k="3" enj="3">und mit den kostbaren Schnäbeln aus Jaspis und Jade</l>
+            <l met="+--|+--|+--|+--|+-|" rhythm="10020|0200|10020|" enj_k="5" enj="5">kauen sie Graues, verschleudern es, finden es fade.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="+-|+--|+-|+-|+--|+-|" rhythm="201001020|00020|" enj_k="4" enj="5">Unten klauben die duffen Tauben, was sie nicht mögen,</l>
+            <l met="+--|+--|+--|+--|+-|" rhythm="00020010020010|" enj_k="3" enj="5">während sich oben die höhnischen Vögel verbeugen</l>
+            <l met="+--|+--|+--|+--|+-|" rhythm="00010020010020|" enj_k="5" enj="5">zwischen den beiden fast leeren vergeudeten Trögen.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="+--|+--|+--|+--|+-|" rhythm="00020000|010020|" enj_k="4" enj="5">Aber dann wiegen sie wieder und schläfern und äugen,</l>
+            <l met="+--|+--|+--|+-|+-|" rhythm="20010020|01020|" enj_k="4" enj="5">spielen mit dunkelen Zungen, die gerne lögen,</l>
+            <l met="-|+--|+--|+-|+--|+-" rhythm="010020010|10020|" enj_k="5" enj="5">zerstreut an den Fußfesselringen. Warten auf Zeugen.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

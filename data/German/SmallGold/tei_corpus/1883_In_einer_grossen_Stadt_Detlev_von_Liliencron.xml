@@ -1,0 +1,81 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">In einer großen Stadt</title>
+        <author>
+          <persName>
+            <surname>Liliencron</surname>
+            <forename>Detlev von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">12</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4</measure>
+        <measure type="tokens">83</measure>
+        <measure type="sentences">9</measure>
+        <measure type="characters">402</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1883</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/detlev-von-liliencron-in-einer-grossen-stadt,textbearbeitung,50.html">In einer großen Stadt - Detlev von Liliencron (Interpretation #50)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Naturalismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>In einer großen Stadt</head>
+          <lg rhyme="abcd" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000102" enj_k="3" enj="3">Es treibt vorüber mir im Meer der Stadt</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02|020|200020|" enj_k="5" enj="3">Bald der, bald jener, einer nach dem andern.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="01020|00201|" enj_k="5" enj="5">Ein Blick ins Auge, und vorüber schon.</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010102|" enj_k="5" enj="5">Der Orgeldreher dreht sein Lied.</l>
+          </lg>
+          <lg rhyme="abcd" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000102" enj_k="3" enj="3">Es tropft vorüber mir ins Meer des Nichts</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02|020|200020|" enj_k="5" enj="3">Bald der, bald jener, einer nach dem andern.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="020002|0201|" enj_k="5" enj="5">Ein Blick auf seinen Sarg, vorüber schon.</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010102|" enj_k="5" enj="5">Der Orgeldreher dreht sein Lied.</l>
+          </lg>
+          <lg rhyme="abcd" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102010102|" enj_k="3" enj="5">Es schwimmt ein Leichenzug im Meer der Stadt,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|200020|" enj_k="5" enj="5">Querweg die Menschen, einer nach dem andern.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="020002|0201|" enj_k="5" enj="5">Ein Blick auf meinen Sarg, vorüber schon.</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010102|" enj_k="5" enj="5">Der Orgeldreher dreht sein Lied.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Erlkönig / Wer reitet so spät durch Nacht und Wind?</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4, 8-4</measure>
+        <measure type="tokens">234</measure>
+        <measure type="sentences">15</measure>
+        <measure type="characters">1051</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1778</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-erlkoenig,textbearbeitung,380.html">Erlkönig - Johann Wolfgang von Goethe (Interpretation #380)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Erlkönig / Wer reitet so spät durch Nacht und Wind?</head>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="020010202|" enj_k="5">Wer reitet so spät durch Nacht und Wind?</l>
+            <l met="-+|-+|--+|-+|" rhythm="00020|0002|" enj_k="5">Es ist der Vater mit seinem Kind;</l>
+            <l met="-+|-+|-+|--+|" rhythm="000201002|" enj_k="5">Er hat den Knaben wohl in dem Arm,</l>
+            <l met="-+|-+|--+|-+|" rhythm="01020|0102" enj_k="5">Er faßt ihn sicher, er hält ihn warm.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="02|01002002|" enj_k="5">Mein Sohn, was birgst du so bang dein Gesicht? -</l>
+            <l met="-+|-+|-+|--+|" rhythm="210|002001|" enj_k="5">Siehst Vater, du den Erlkönig nicht?</l>
+            <l met="-+|-+|--+|-+|" rhythm="020100102|" enj_k="5">Den Erlenkönig mit Kron und Schweif? -</l>
+            <l met="-+|-+|-+|-+|" rhythm="02|000201|" enj_k="5">Mein Sohn, es ist ein Nebelstreif. -</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="0102|0102|" enj_k="5">"Du liebes Kind, komm, geh mit mir!</l>
+            <l met="-+|-+|-+|--+|" rhythm="010202000|" enj_k="5">Gar schöne Spiele spiel ich mit dir;</l>
+            <l met="-+|-+|--+|-+|" rhythm="010200102|" enj_k="5">Manch bunte Blumen sind an dem Strand,</l>
+            <l met="--+|-+|-+|--+|" rhythm="0020001002|" enj_k="5">Meine Mutter hat manch gülden Gewand."</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|--+|--+|--+|" rhythm="020|020|02001|" enj_k="cc_5">Mein Vater, mein Vater, und hörest du nicht,</l>
+            <l met="-+|-+|--+|--+|" rhythm="0201001002|" enj_k="5">Was Erlenkönig mir leise verspricht? -</l>
+            <l met="-+|--+|-+|" rhythm="02|002|01|" enj_k="5">Sei ruhig, bleibe ruhig, mein Kind;</l>
+            <l met="-+|-+|-+|--+|" rhythm="010201002|" enj_k="5">In dürren Blättern säuselt der Wind. -</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="2|1020|0002|" enj_k="5">"Willst, feiner Knabe, du mit mir gehn?</l>
+            <l met="--+|-+|--+|-+|" rhythm="0020100201|" enj_k="5">Meine Töchter sollen dich warten schön;</l>
+            <l met="--+|-+|--+|--+|" rhythm="00201001002|" enj_k="4">Meine Töchter führen den nächtlichen Reihn</l>
+            <l met="-+|--+|--+|--+|" rhythm="02002002001|" enj_k="5">Und wiegen und tanzen und singen dich ein."</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|--+|--+|--+|" rhythm="020|020|01002|" enj_k="3">Mein Vater, mein Vater, und siehst du nicht dort</l>
+            <l met="+--|+--|+-|+" rhythm="100200102|" enj_k="5">Erlkönigs Töchter am düstern Ort? -</l>
+            <l met="-+|-+|-+|--+|" rhythm="02|02|01002|" enj_k="5">Mein Sohn, mein Sohn, ich seh es genau:</l>
+            <l met="-+|--+|-+|--+|" rhythm="0200102001|" enj_k="5">Es scheinen die alten Weiden so grau. -</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|--+|--+|" rhythm="0200|02001002|" enj_k="4">"Ich liebe dich, mich reizt deine schöne Gestalt;</l>
+            <l met="-+|--+|--+|--+|" rhythm="010020|01002|" enj_k="5">Und bist du nicht willig, so brauch ich Gewalt."</l>
+            <l met="-+|--+|--+|--+|" rhythm="020|020|01002|" enj_k="5">Mein Vater, mein Vater, jetzt faßt er mich an!</l>
+            <l met="+--|+--|+-|+" rhythm="200100201|" enj_k="5">Erlkönig hat mir ein Leids getan! -</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="01020|01002|" enj_k="5">Dem Vater grauset's, er reitet geschwind,</l>
+            <l met="-+|--+|--+|--+|" rhythm="01002001002|" enj_k="5">Er hält in den Armen das ächzende Kind,</l>
+            <l met="-+|-+|-+|-+|" rhythm="010002002|" enj_k="3">Erreicht den Hof mit Mühe und Not;</l>
+            <l met="-+|-+|--+|-+|" rhythm="000200102|" enj_k="5">In seinen Armen das Kind war tot.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

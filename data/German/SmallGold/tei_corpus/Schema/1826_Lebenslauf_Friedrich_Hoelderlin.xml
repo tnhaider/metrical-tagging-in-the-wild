@@ -1,0 +1,87 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Lebenslauf</title>
+        <author>
+          <persName>
+            <surname>Hölderlin</surname>
+            <forename>Friedrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4</measure>
+        <measure type="tokens">96</measure>
+        <measure type="sentences">6</measure>
+        <measure type="characters">524</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1826</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/friedrich-hoelderlin-lebenslauf,textbearbeitung,416.html">Lebenslauf - Friedrich Hölderlin (Interpretation #416)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">RomantikWeimarerKlassik</classCode>
+        <classCode scheme="text_genre">Ode</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Lebenslauf</head>
+          <lg rhyme="abcd" type="stanza">
+            <l met="+-|+--+|+--+|-+|" rhythm="201002|000102|" enj_k="3">Größers wolltest auch du, aber die Liebe zwingt</l>
+            <l met="+-|+--+|+--+|-+|" rhythm="1020|01200200|" enj_k="4">All uns nieder, das Leid beuget gewaltiger,</l>
+            <l met="+-|+--+|-" rhythm="0020010" enj_k="3">Doch es kehret umsonst nicht</l>
+            <l met="+-|+--+|-+|" rhythm="0020|0002|" enj_k="5">Unser Bogen, woher er kommt.</l>
+          </lg>
+          <lg rhyme="abcd" type="stanza">
+            <l met="+-|+--+|+--+|-+|" rhythm="200002|200102|" enj_k="cc_5">Aufwärts oder hinab! herrschet in heilger Nacht,</l>
+            <l met="+-|+--+|+--+|-+|" rhythm="001002100201|" enj_k="5">Wo die stumme Natur werdende Tage sinnt,</l>
+            <l met="+-|+--|+-|" rhythm="2010020|" enj_k="3">Herrscht im schiefesten Orkus</l>
+            <l met="+-|+--+|-+|" rhythm="0020|0201|" enj_k="5">Nicht ein Grades, ein Recht noch auch?</l>
+          </lg>
+          <lg rhyme="abcd" type="stanza">
+            <l met="+-|+--+|+--+|-+|" rhythm="0020|02|100201|" enj_k="3">Dies erfuhr ich. Denn nie, sterblichen Meistern gleich,</l>
+            <l met="+-|+--+|+--+|-+|" rhythm="00200|0100200|" enj_k="4">Habt ihr Himmlischen, ihr Alleserhaltenden,</l>
+            <l met="+-|+--+|-" rhythm="0020|020" enj_k="3">Daß ich wüßte, mit Vorsicht</l>
+            <l met="+-|+--+|-+|" rhythm="00100202|" enj_k="5">Mich des ebenen Pfads geführt.</l>
+          </lg>
+          <lg rhyme="abcd" type="stanza">
+            <l met="+-|+--+|+--+|-+|" rhythm="002001|100200" enj_k="4">Alles prüfe der Mensch, sagen die Himmlischen,</l>
+            <l met="+-|+--+|+--+|-+|" rhythm="00|1002|200102|" enj_k="4">Daß er, kräftig genährt, danken für Alles lern',</l>
+            <l met="+-|+--|+-|" rhythm="0010020|" enj_k="3">Und verstehe die Freiheit,</l>
+            <l met="+-|+--+|-+|" rhythm="2010|0102|" enj_k="5">Aufzubrechen, wohin er will.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

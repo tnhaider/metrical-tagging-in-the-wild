@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Beschreibung vollkommener Schönheit / Ein haar so kühnlich</title>
+        <author>
+          <persName>
+            <surname>Hoffmannswaldau</surname>
+            <forename>Christian Hoffmann von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">119</measure>
+        <measure type="sentences">1</measure>
+        <measure type="characters">591</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1670</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/christian-hoffmann-von-hoffmannswaldau-beschreibung-vollkommener-schoenheit,textbearbeitung,179.html">Beschreibung vollkommener Schönheit - Christian Hoffmann von Hoffmannswaldau (Interpretation #179)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Barock</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Beschreibung vollkommener Schönheit / Ein haar so kühnlich</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010201000201|" enj_k="3">Ein haar so kühnlich trotz der Berenice spricht</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|0201|0200010|" enj_k="4">Ein mund / der rosen führt und perlen in sich heget</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020|0020102010|" enj_k="4">Ein zünglein / so ein gifft vor tausend hertzen träget</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020|001000201|" enj_k="4">Zwo brüste / wo rubin durch alabaster bricht</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="02|0201000001|" enj_k="4">Ein hals / der schwanen-schnee weit weit zurücke sticht</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020|0010200010|" enj_k="4">Zwey wangen / wo die pracht der Flora sich beweget</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|0201|0102010|" enj_k="4">Ein blick / der blitze führt und männer niederleget</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020|002010201|" enj_k="4">Zwey armen / derer krafft offt leuen hingericht</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|00010002010|" enj_k="4">Ein hertz / aus welchem nichts als mein verderben quillet</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="02|0201|000201|" enj_k="4">Ein wort / so himmlisch ist / und mich verdammen kan</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020|001000201|" enj_k="4">Zwey hände / derer grimm mich in den bann gethan</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="0001020102010|" enj_k="4">Und durch ein süsses gifft die seele selbst umhüllet</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020|002|000201|" enj_k="3">Ein zierrath / wie es scheint / im paradieß gemacht</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000001|000201|" enj_k="5">Hat mich um meinen witz und meine freyheit bracht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

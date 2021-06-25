@@ -1,0 +1,111 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Zur Beruhigung</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">8</measure>
+        <measure type="verses">32</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4, 8-4</measure>
+        <measure type="tokens">187</measure>
+        <measure type="sentences">10</measure>
+        <measure type="characters">992</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/heinrich-heine-zur-beruhigung,textbearbeitung,261.html">Zur Beruhigung - Heinrich Heine (Interpretation #261)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">VormärzBiedermeierJunges Deutschland</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Zur Beruhigung</head>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="0102|0201|" enj_k="5">Wir schlafen ganz, wie Brutus schlief -</l>
+            <l met="-+-|-+-|-+-|+" rhythm="010020|0102" enj_k="3">Doch jener erwachte und bohrte tief</l>
+            <l met="-+|-+|-+|-+-|" rhythm="0102|01020|" enj_k="5">In Cäsars Brust das kalte Messer!</l>
+            <l met="-+|-+-|-+|-+-|" rhythm="0201002010|" enj_k="5">Die Römer waren Tyrannenfresser.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+-|-+-|-+-|-+|" rhythm="010020|20002|" enj_k="5">Wir sind keine Römer, wir rauchen Tabak.</l>
+            <l met="-+|-+|-+-|-+|" rhythm="010200002" enj_k="5">Ein jedes Volk hat seinen Geschmack,</l>
+            <l met="-+|-+|-+|-+-|" rhythm="010200020|" enj_k="5">Ein jedes Volk hat seine Größe;</l>
+            <l met="-+|-+|--+|-+-|" rhythm="0202001020|" enj_k="5">In Schwaben kocht man die besten Klöße.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+-|-+-|-+|" rhythm="01020|01002|" enj_k="5">Wir sind Germanen, gemütlich und brav,</l>
+            <l met="-+-|-+|-+|-+|" rhythm="020010201|" enj_k="4">Wir schlafen gesunden Pflanzenschlaf,</l>
+            <l met="-+-|-+|-+-|-+-|" rhythm="010020|10020|" enj_k="3">Und wenn wir erwachen, pflegt uns zu dürsten,</l>
+            <l met="-+-|-+|-+-|-+-|" rhythm="02002000020|" enj_k="5">Doch nicht nach dem Blute unserer Fürsten.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="01020201|" enj_k="3">Wir sind so treu wie Eichenholz,</l>
+            <l met="-+|-+|-+|-+|" rhythm="0201|0002|" enj_k="5">Auch Lindenholz, drauf sind wir stolz;</l>
+            <l met="-+|-+|-+|-+|-" rhythm="010200020|" enj_k="3">Im Land der Eichen und der Linden</l>
+            <l met="-+|-+|-+|-+|-" rhythm="020|002010|" enj_k="5">Wird niemals sich ein Brutus finden.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+-|-+|-+-|-+|" rhythm="0100202001|" enj_k="4">Und wenn auch ein Brutus unter uns wär,</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|10200|" enj_k="5">Den Cäsar fänd er nimmermehr,</l>
+            <l met="-+|-+|--+|-+|-" rhythm="0201002010|" enj_k="5">Vergeblich würd er den Cäsar suchen;</l>
+            <l met="-+|-+|-+|-+|-" rhythm="000102010|" enj_k="5">Wir haben gute Pfefferkuchen.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="00020102|" enj_k="3">Wir haben sechsunddreißig Herrn</l>
+            <l met="-+|-+|-+|-+|" rhythm="1002|0002" enj_k="3">(Ist nicht zuviel!), und einen Stern</l>
+            <l met="-+|-+-|-+|-+|-" rhythm="0102000020|" enj_k="4">Trägt jeder schützend auf seinem Herzen,</l>
+            <l met="--+|--+|--+|--+|-" rhythm="0010020|010020|" enj_k="5">Und er braucht nicht zu fürchten die Iden des Märzen.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+-|-+-|-+-|+" rhythm="010020|0201|" enj_k="3">Wir nennen sie Väter, und Vaterland</l>
+            <l met="-+-|--+|--+|" rhythm="010002001|" enj_k="cc_5">Benennen wir dasjenige Land,</l>
+            <l met="-+-|-+-|-+|-+-|" rhythm="02001001020|" enj_k="5">das erbeigentümlich gehört den Fürsten;</l>
+            <l met="-+-|-+|-+|-+-|" rhythm="0100200020|" enj_k="5">Wir lieben auch Sauerkraut mit Würsten.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+|-+-|-+-|+" rhythm="000200102|" enj_k="4">Wenn unser Vater spazieren geht,</l>
+            <l met="-+|-+|-+|-+|" rhythm="1002|0102|" enj_k="5">Ziehn wir den Hut mit Pietät;</l>
+            <l met="+-|-+|-+|-+|-" rhythm="20|0102010|" enj_k="3">Deutschland, die fromme Kinderstube,</l>
+            <l met="-+|-+|--+|-+|-" rhythm="0201002010|" enj_k="5">Ist keine römische Mördergrube.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

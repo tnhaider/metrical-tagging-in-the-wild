@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Blauer Abend in Berlin</title>
+        <author>
+          <persName>
+            <surname>Loerke</surname>
+            <forename>Oskar</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">84</measure>
+        <measure type="sentences">5</measure>
+        <measure type="characters">484</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1911</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/oskar-loerke-blauer-abend-in-berlin,textbearbeitung,22.html">Blauer Abend in Berlin - Oskar Loerke (Interpretation #22)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Blauer Abend in Berlin</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020100020|" enj_k="5" enj="5">Der Himmel fließt in steinernen Kanälen;</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020101020|" enj_k="3" enj="3">Denn zu Kanälen steilrecht ausgehauen</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|102010|" enj_k="5" enj="5">Sind alle Straßen, voll vom Himmelblauen;</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0201020|2020" enj_k="2_NP" enj="5">Und Kuppeln gleichen Bojen, Schlote Pfählen</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="020|10201020|" enj_k="4" enj="5">Im Wasser. Schwarze Essendämpfe schwelen</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020102010|" enj_k="5" enj="5">Und sind wie Wasserpflanzen anzuschauen.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="020|00102010|" enj_k="4" enj="4">Die Leben, die sich ganz am Grunde stauen,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020200010|" enj_k="3" enj="5">Beginnen sacht vom Himmel zu erzählen,</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="02|02|010002|" enj_k="5" enj="3">Gemengt, entwirrt nach blauen Melodien.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0001020102|" enj_k="3" enj="3">Wie eines Wassers Bodensatz und Tand</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="2001020002|" enj_k="3" enj="5">regt sie des Wassers Wille und Verstand</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="020|20|20|20|20|" enj_k="5" enj="5">Im Dünen, Kommen, Gehen, Gleiten, Ziehen.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200020102|" enj_k="3" enj="5">Die Menschen sind wie grober bunter Sand</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102|010201|" enj_k="5" enj="5">Im linden Spiel der großen Wellenhand.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

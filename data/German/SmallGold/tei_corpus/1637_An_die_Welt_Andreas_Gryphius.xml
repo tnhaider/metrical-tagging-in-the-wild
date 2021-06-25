@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">An die Welt</title>
+        <author>
+          <persName>
+            <surname>Gryphius</surname>
+            <forename>Andreas</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">135</measure>
+        <measure type="sentences">11</measure>
+        <measure type="characters">623</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1637</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/andreas-gryphius-an-die-welt,textbearbeitung,250.html">An die Welt - Andreas Gryphius (Interpretation #250)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Barock</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>An die Welt</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020102|020102|" enj_k="3" enj="5">Mein oft bestürmtes Schiff, der grimmen Winde Spiel,</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020102|0201020|" enj_k="4" enj="4">Der frechen Wellen Ball, das schier die Flut getrennet,</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020102|0201020|" enj_k="4" enj="4">Das über Klipp' auf Klipp' und Schaum und Sand gerennet,</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="000102|000102|" enj_k="5" enj="5">Kommt vor der Zeit an' Port, den meine Seele will.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="2|00102010002|" enj_k="4" enj="4">Oft, wenn uns schwarze Nacht im Mittag überfiel,</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="0001020201020|" enj_k="5" enj="5">Hat der geschwinde Blitz die Segel schier verbrennet!</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010002|0102010|" enj_k="5" enj="5">Wie oft hab' ich den Wind und Nord und Süd verkennet!</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020002|210|102|" enj_k="5" enj="5">Wie schadhaft ist der Mast, Steu'rruder, Schwert und Kiel.</l>
+          </lg>
+          <lg rhyme="aab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|0102|02|00020|" enj_k="5" enj="5">Steig aus, du müder Geist! Steig aus! Wir sind am Lande!</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="010002|0100020|" enj_k="2_NP.KO" enj="3">Was graut dir für dem Port? Jetzt wirst du aller Bande</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="020102|010202|"  enj_k="5" enj="5">Und Angst und herber Pein und schwerer Schmerzen los.</l>
+          </lg>
+          <lg rhyme="aab" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|0102|0201020|" enj_k="5" enj="5">Ade, verfluchte Welt. Du See voll rauher Stürme:</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="02|0201|0201020|" enj_k="2_NP.KO" enj="3">Glück zu, mein Vaterland, das stete Ruh' im Schirme</l>
+            <l met="-+|-+|-+|-+|-+|-+|" rhythm="010201|010002|" enj_k="5" enj="5">Und Schutz und Frieden hält, du ewiglichtes Schloß!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

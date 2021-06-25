@@ -1,0 +1,105 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Die Tote im Wasser</title>
+        <author>
+          <persName>
+            <surname>Heym</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">7</measure>
+        <measure type="verses">28</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4</measure>
+        <measure type="tokens">205</measure>
+        <measure type="sentences">15</measure>
+        <measure type="characters">984</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1910</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-heym-die-tote-im-wasser,textbearbeitung,73.html">Die Tote im Wasser - Georg Heym (Interpretation #73)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Die Tote im Wasser</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000102|" enj_k="3" enj="5">Die Masten ragen an dem grauen Wall</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0001020102|" enj_k="3" enj="5">Wie ein verbrannter Wald ins frühe Rot,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="01020|00102|" enj_k="3" enj="3">So schwarz wie Schlacke. Wo das Wasser tot</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201|020002|" enj_k="5" enj="3">Zu Speichern stiert, die morsch und im Verfall.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="+--+|-+|-+|-+|" rhythm="2002|020102" enj_k="3" enj="5">Dumpf tönt der Schall, da wiederkehrt die Flut,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201|010201|" enj_k="3" enj="3">Den Kai entlang. Der Stadtnacht Spülicht treibt</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="00010202|01" enj_k="3" enj="3">Wie eine weiße Haut im Strom und reibt</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="00020|00201|" enj_k="5" enj="5">Sich an dem Dampfer, der im Docke ruht.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="++|-+|-+|-+|-+|" rhythm="2|2|02|000102|" enj_k="3" enj="3">Staub, Obst, Papier, in einer dicken Schicht,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000201|" enj_k="5" enj="5">So treibt der Kot aus seinen Röhren ganz.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="010201|0102" enj_k="3" enj="3">Ein weißes Tanzkleid kommt, in fettem Glanz</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102|021002|" enj_k="5" enj="3">Ein nackter Hals und bleiweiß ein Gesicht.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="02010002|02" enj_k="3" enj="3">Die Leiche wälzt sich ganz heraus. Es bläht</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="010|0010202|" enj_k="5" enj="5">Das Kleid sich wie ein weißes Schiff im Wind.</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102020102" enj_k="3" enj="5">Die toten Augen starren groß und blind</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="020|0010201|" enj_k="5" enj="5">Zum Himmel, der voll rosa Wolken steht.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020101020|" enj_k="2_NP" enj="5">Das lila Wasser bebt von kleiner Welle.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0201020|0020" enj_k="3" enj="3">- Der Wasserratten Fährte, die bemannen</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0102|0102020|" enj_k="3" enj="5">Das weiße Schiff. Nun treibt es stolz von dannen,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|001020|" enj_k="5" enj="5">Voll grauer Köpfe und voll schwarzer Felle.</l>
+          </lg>
+          <lg rhyme="None" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020102|020" enj_k="3" enj="5">Die Tote segelt froh hinaus, gerissen</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0202|010202" enj_k="3" enj="3">Von Wind und Flut. Ihr dicker Bauch entragt</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102|020102|" enj_k="5" enj="5">Dem Wasser groß, zerhöhlt und fast zernagt.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020100020|" enj_k="5" enj="5">Wie eine Grotte dröhnt er von den Bissen.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|+-|" rhythm="0102|000120" enj_k="3" enj="5">Sie treibt ins Meer. Ihr salutiert Neptun</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0002|000102|" enj_k="cc_5" enj="5">Von einem Wrack, da sie das Meer verschlingt,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200010201|" enj_k="4" enj="5">Darinnen sie zur grünen Tiefe sinkt,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201020201|" enj_k="5" enj="5">Im Arm der feisten Kraken auszuruhn.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

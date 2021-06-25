@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Mensch im Eisen</title>
+        <author>
+          <persName>
+            <surname>Lersch</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">104</measure>
+        <measure type="sentences">8</measure>
+        <measure type="characters">529</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1907</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/heinrich-lersch-mensch-im-eisen,textbearbeitung,321.html">Mensch im Eisen - Heinrich Lersch (Interpretation #321)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">ArbeiterliteraturArbeiterdichtung, Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Mensch im Eisen</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200|010201|" enj_k="3" enj="5">Mein Tagwerk ist: im engen Kesselrohr</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|102010|" enj_k="4" enj="5">bei kleinem Glühlicht kniend krumm zu sitzen –</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010|002010|" enj_k="5" enj="5">an Nieten hämmernd in der Hitze schwitzen.</l>
+            <l met="-+|-+|-+|-+|" rhythm="0102|0102|" enj_k="4" enj="5">Verrußt sind Aug` und Haar und Ohr –</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201010201|" enj_k="4" enj="4">Als wär ich nur ein kleiner Schlagmotor,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01000201020|" enj_k="4" enj="5">So lass` ich meine Arme federnd flitzen –</l>
+            <l met="-+|-+|-+|-+|--+|-" rhythm="01021|0010020|" enj_k="4" enj="5">Die glühnde Luft sticht wie mit giftigen Spitzen;</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="10020|10201|" enj_k="5" enj="5">Immer von neuem bricht der Schweiß hervor...</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="02|020|00201|" enj_k="3" enj="3">O Mensch! Wo bist du? Wie ein Käfertier</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="0201010|001020|" enj_k="4" enj="5">Im Bernstein eingeschlossen hockst du rings im Eisen,</l>
+            <l met="+-|-+|-+|-+|-+|-+|" rhythm="200100010002|" enj_k="5" enj="5">Eisen umpanzert dich in schließendem Gewirr.</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0201020|102|" enj_k="5" enj="5">Im Auge rast die Seele, arm und irr.</l>
+            <l met="+-|-+|-+|+-|-+|-+|-" rhythm="200201|2001020|" enj_k="3" enj="3">Heimweh heult wahnsinnswild, Heimweh weint süße Weisen</l>
+            <l met="-+|-+|-+|-+|-+|-+|-" rhythm="020|202|020|1020|" enj_k="5" enj="5">Nach Erde, Mensch und Licht. So schrei doch, Mensch im Eisen!</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

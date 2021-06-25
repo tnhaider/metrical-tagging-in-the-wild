@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Berlin I</title>
+        <author>
+          <persName>
+            <surname>Heym</surname>
+            <forename>Georg</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">89</measure>
+        <measure type="sentences">9</measure>
+        <measure type="characters">489</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1911</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/georg-heym-berlin-i,textbearbeitung,181.html">Berlin I - Georg Heym (Interpretation #181)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Berlin I</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|100020" enj_k="2_NP" enj="5">Beteerte Fässer rollten von den Schwellen</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020001020|" enj_k="5" enj="5">Der dunklen Speicher auf die hohen Kähne.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="020102|01020|" enj_k="3" enj="3">Die Schlepper zogen an. Des Rauches Mähne</l>
+            <l met="-+|-+|-+|-+|--+|-" rhythm="010200010020|" enj_k="5" enj="5">Hing rußig nieder auf die öligen Wellen.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010002010|" enj_k="5" enj="5">Zwei Dampfer kamen mit Musikkapellen.</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010002010|" enj_k="5" enj="5">Den Schornstein kappten sie am Brückenbogen.</l>
+            <l met="++|-+|-+|-+|--+|-" rhythm="2|2|0200010020" enj_k="2_NP" enj="5">Rauch, Ruß, Gestank lag auf den schmutzigen Wogen</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|001020|" enj_k="5" enj="5">Der Gerbereien mit den braunen Fellen.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="00020|100020" enj_k="3" enj="3">In allen Brücken, drunter uns die Zille</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0102|0100020|" enj_k="3" enj="5">Hindurchgebracht, ertönten die Signale</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="01020|100020|" enj_k="5" enj="5">Gleichwie in Trommeln wachsend in der Stille.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0102|0100020|" enj_k="3" enj="5">Wir ließen los und trieben im Kanale</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="020102|00010|" enj_k="3" enj="3">An Gärten langsam hin. In dem Idylle</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="20020102010|" enj_k="5" enj="5">Sahn wir der Riesenschlote Nachtfanale.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf dem See / aufm Zürichersee</title>
+        <author>
+          <persName>
+            <surname>Goethe</surname>
+            <forename>Johann Wolfgang von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">3</measure>
+        <measure type="verses">20</measure>
+        <measure type="verses_per_stanza">1-8, 2-4, 3-8</measure>
+        <measure type="tokens">89</measure>
+        <measure type="sentences">6</measure>
+        <measure type="characters">448</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1775</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/johann-wolfgang-von-goethe-auf-dem-see,textbearbeitung,98.html">Auf dem See - Johann Wolfgang von Goethe (Interpretation #98)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf dem See / aufm Zürichersee</head>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="01020|102|" enj_k="3">Und frische Nahrung, neues Blut</l>
+            <l met="-+|-+|-+|" rhythm="200102|" enj_k="5">Saug’ ich aus freyer Welt;</l>
+            <l met="-+|-+|-+|-+|" rhythm="0002|0202|" enj_k="cc_5">Wie ist Natur so hold und gut,</l>
+            <l met="-+|-+|-+|" rhythm="000201|" enj_k="5">Die mich am Busen hält!</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020002|" enj_k="3">Die Welle wieget unsern Kahn</l>
+            <l met="-+|-+|-+|" rhythm="020102|" enj_k="4">Im Rudertakt hinauf,</l>
+            <l met="-+|-+|-+|-+|" rhythm="020|20100|" enj_k="3">Und Berge, wolkig himmelan,</l>
+            <l met="-+|-+|-+|" rhythm="010002|" enj_k="5">Begegnen unserm Lauf.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="+-|+-|+-|+-|" rhythm="2|02|01020|" enj_k="5">Aug’, mein Aug’, was sinkst du nieder?</l>
+            <l met="+-|+-|+-|+-|" rhythm="1020|1020|" enj_k="5">Goldne Träume kommt ihr wieder?</l>
+            <l met="+-|+-|+-|+" rhythm="2|01|0201|" enj_k="5">Weg, du Traum! so Gold du bist;</l>
+            <l met="+-|+-|+-|+" rhythm="1020200|" enj_k="5">Hier auch Lieb’ und Leben ist.</l>
+          </lg>
+          <lg rhyme="ababcdcd" type="stanza">
+            <l met="+-|+-|+-|" rhythm="001020|" enj_k="3">Auf der Welle blinken</l>
+            <l met="+-|+--|+-|" rhythm="2010020|" enj_k="5">Tausend schwebende Sterne,</l>
+            <l met="+-|+-|+-|" rhythm="102020|" enj_k="3">Weiche Nebel trinken</l>
+            <l met="+-|+--|+-|" rhythm="1010020|" enj_k="5">Rings die thürmende Ferne;</l>
+            <l met="+-|+-|+-|" rhythm="100020|" enj_k="3">Morgenwind umflügelt</l>
+            <l met="+-|+--|+" rhythm="001002|" enj_k="4">Die beschattete Bucht,</l>
+            <l met="+-|+-|+-|" rhythm="002020|" enj_k="3">Und im See bespiegelt</l>
+            <l met="+-|+--|+" rhythm="001002|" enj_k="5">Sich die reifende Frucht.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

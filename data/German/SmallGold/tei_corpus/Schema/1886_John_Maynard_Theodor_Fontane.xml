@@ -1,0 +1,147 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">John Maynard</title>
+        <author>
+          <persName>
+            <surname>Fontane</surname>
+            <forename>Theodor</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">11</measure>
+        <measure type="verses">62</measure>
+        <measure type="verses_per_stanza">1-7, 2-10, 3-6, 4-6, 5-6, 6-4, 7-6, 8-2, 9-6, 10-4, 11-5</measure>
+        <measure type="tokens">393</measure>
+        <measure type="sentences">21</measure>
+        <measure type="characters">1937</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1886</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/theodor-fontane-john-maynard,textbearbeitung,377.html">John Maynard - Theodor Fontane (Interpretation #377)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Realismus</classCode>
+        <classCode scheme="text_genre">Ballade</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>John Maynard</head>
+          <lg rhyme="aabbcca" type="stanza">
+            <l met="-+-|" rhythm="020|" enj_k="5" enj="5">John Maynard!</l>
+            <l met="-+|-+-|" rhythm="02020|" enj_k="5" enj="5">"Wer ist John Maynard?"</l>
+            <l met="-+-|-+|-+|-+|" rhythm="020000201|" enj_k="4" enj="5">"John Maynard war unser Steuermann,</l>
+            <l met="|+--|+--|+--+|" rhythm="200|1002001|" enj_k="4" enj="5">aushielt er, bis er das Ufer gewann,</l>
+            <l met="-+-|-+-|-+-|+" rhythm="010020|0102|" enj_k="4" enj="5">er hat uns gerettet, er trägt die Kron',</l>
+            <l met="-+|-+|--+|--+|" rhythm="0200|001002|" enj_k="5" enj="5">er starb für uns, unsre Liebe sein Lohn.</l>
+            <l met="-+-|" rhythm="020|" enj_k="5" enj="5">John Maynard."</l>
+          </lg>
+          <lg rhyme="aabbccddee" type="stanza">
+            <l met="-+-|-+-|-+-|+|" rhythm="0201000201|" enj_k="4" enj="5">Die "Schwalbe" fliegt über den Erie-See,</l>
+            <l met="-+|--+|-+-|-+|" rhythm="21002|01002|" enj_k="5" enj="5">Gischt schäumt um den Bug wie Flocken von Schnee;</l>
+            <l met="--+|-+|-+|-+|" rhythm="002100201|" enj_k="4" enj="5">von Detroit fliegt sie nach Buffalo -</l>
+            <l met="-+|-+-|-+-|+" rhythm="020000102|" enj_k="4" enj="5">die Herzen aber sind frei und froh,</l>
+            <l met="--+|-+-|-+-|-+|" rhythm="00002001002|" enj_k="3" enj="3">und die Passagiere mit Kindern und Fraun</l>
+            <l met="-+|-+-|-+-|+" rhythm="020100201|" enj_k="4" enj="5">im Dämmerlicht schon das Ufer schaun,</l>
+            <l met="-+|-+|-+-|-+|" rhythm="020001002|" enj_k="3" enj="3">und plaudernd an John Maynard heran</l>
+            <l met="-+-|-+|-+|-+|" rhythm="020|020|201|" enj_k="5" enj="5">tritt alles: "Wie weit noch, Steuermann?"</l>
+            <l met="-+|-+|-+|--+|" rhythm="0102|01002|" enj_k="5" enj="5">Der schaut nach vorn und schaut in die Rund:</l>
+            <l met="-+|--+|-+|-+|" rhythm="010020|102|" enj_k="5" enj="5">"Noch dreißig Minuten ... Halbe Stund."</l>
+          </lg>
+          <lg rhyme="aabbcc" type="stanza">
+            <l met="--+|--+|--+|--+|" rhythm="002001|002001|" enj_k="4" enj="5">Alle Herzen sind froh, alle Herzen sind frei -</l>
+            <l met="-+|--+|-+|-+|" rhythm="010020102|" enj_k="4" enj="5">da klingt's aus dem Schiffsraum her wie Schrei,</l>
+            <l met="+-|+-|+-|+" rhythm="20|10|002|" enj_k="4" enj="5">"Feuer!" war es, was da klang,</l>
+            <l met="-+|--+|-+|-+|" rhythm="020010201|" enj_k="4" enj="5">ein Qualm aus Kajüt und Luke drang,</l>
+            <l met="-+|-+|-+|-+|" rhythm="02|020102|" enj_k="5" enj="5">ein Qualm, dann Flammen lichterloh,</l>
+            <l met="--+|--+|--+|-+|" rhythm="00100200201|" enj_k="5" enj="5">und noch zwanzig Minuten bis Buffalo.</l>
+          </lg>
+          <lg rhyme="aabbcc" type="stanza">
+            <l met="--+|-+|-+|-+|" rhythm="000020|102|" enj_k="3" enj="3">Und die Passagiere, bunt gemengt,</l>
+            <l met="-+|-+-|-+-|-+|" rhythm="0201002001|" enj_k="4" enj="5">am Bugspriet stehn sie zusammengedrängt,</l>
+            <l met="-+|-+|--+|-+|" rhythm="010200202|" enj_k="4" enj="5">am Bugspriet vorn ist noch Luft und Licht,</l>
+            <l met="-+|-+|-+-|-+|" rhythm="020001002|" enj_k="4" enj="5">am Steuer aber lagert sich´s dicht,</l>
+            <l met="--+|--+|-+|-+|" rhythm="001002|102|2|" enj_k="5" enj="5">und ein Jammern wird laut: "Wo sind wir? wo?"</l>
+            <l met="--+|--+|--+|-+|" rhythm="00200100201|" enj_k="5" enj="5">Und noch fünfzehn Minuten bis Buffalo. -</l>
+          </lg >
+          <lg rhyme="aabbcd" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="0102|002001|" enj_k="4" enj="5">Der Zugwind wächst, doch die Qualmwolke steht,</l>
+            <l met="-+|-+|--+|-+|" rhythm="010200201|" enj_k="4" enj="5">der Kapitän nach dem Steuer späht,</l>
+            <l met="-+|-+|--+|-+|" rhythm="020000201|" enj_k="4" enj="5">er sieht nicht mehr seinen Steuermann,</l>
+            <l met="+-|-+-|+-|+" rhythm="00020102|" enj_k="5" enj="5">aber durchs Sprachrohr fragt er an:</l>
+            <l met="-+|-+-|" rhythm="02|020|" enj_k="5" enj="5">"Noch da, John Maynard?"</l>
+            <l met="+--+|" rhythm="20|02|" enj_k="5" enj="5">"Ja, Herr. Ich bin."</l>
+          </lg>
+          <lg rhyme="abcc" type="stanza">
+            <l met="--+|--+|-" rhythm="002|0020|" enj_k="5" enj="5">"Auf den Strand! In die Brandung!"</l>
+            <l met="-+-|-+|" rhythm="01002|" enj_k="5" enj="5">"Ich halte drauf hin."</l>
+            <l met="--+|-+-|-+|-+|" rhythm="001020|02|02|" enj_k="5" enj="5">Und das Schiffsvolk jubelt: "Halt aus! Hallo!"</l>
+            <l met="--+|-+-|-+|-+|" rhythm="0020100201|" enj_k="5" enj="5">Und noch zehn Minuten bis Buffalo. - -</l>
+          </lg>
+          <lg rhyme="aabbcc" type="stanza">
+            <l met="-+|-+-|-+|-+|" rhythm="02|020|0102|" enj_k="3" enj="5">"Noch da, John Maynard?" Und Antwort schallt's</l>
+            <l met="--+|--+|-+|--+|" rhythm="0020010|20|02|" enj_k="5" enj="5">mit ersterbender Stimme: "Ja, Herr, ich halt's!"</l>
+            <l met="-+|-+-|-+-|-+|" rhythm="00020|020|02|" enj_k="3" enj="3">Und in die Brandung, was Klippe, was Stein,</l>
+            <l met="+-|-+|-+-|-+|" rhythm="10020|1002|" enj_k="5" enj="5">jagt er die "Schwalbe" mitten hinein.</l>
+            <l met="-+|-+-|-+-|-+|" rhythm="01020|01002|" enj_k="5" enj="5">Soll Rettung kommen, so kommt sie nur so.</l>
+            <l met="+-|-+|-+|-+|" rhythm="20|010201|" enj_k="5" enj="5">Rettung: der Strand von Buffalo!</l>
+          </lg>
+          <lg rhyme="aa" type="stanza">
+            <l met="-+|-+-|-+-|-+|" rhythm="01020|01002|" enj_k="5" enj="5">Das Schiff geborsten. Das Feuer verschwelt.</l>
+            <l met="-+|-+-|-+-|+" rhythm="01020|0102|" enj_k="5" enj="5">Gerettet alle. Nur einer fehlt!</l>
+          </lg>
+          <lg rhyme="aabbcc" type="stanza">
+            <l met="--+|-+|--+|-+|" rhythm="00102|00102" enj_k="3" enj="5">Alle Glocken gehn; ihre Töne schwell'n</l>
+            <l met="--+|-+|-+|-+|" rhythm="102020002|" enj_k="4" enj="5">himmelan aus Kirchen und Kapell'n,</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="010020|0201|" enj_k="4" enj="5">ein Klingen und Läuten, sonst schweigt die Stadt,</l>
+            <l met="-+|-+|-+|-+|" rhythm="120|00102|" enj_k="5" enj="5">ein Dienst nur, den sie heute hat:</l>
+            <l met="-+|-+|-+|-+|" rhythm="12020001|" enj_k="4" enj="5">Zehntausend folgen oder mehr,</l>
+            <l met="--+|-+-|-+-|+" rhythm="012020|0201|" enj_k="5" enj="5">und kein Aug' im Zuge, das tränenleer.</l>
+          </lg>
+          <lg rhyme="aabb" type="stanza">
+            <l met="-+-|-+|-+-|-+|" rhythm="0100201002|" enj_k="4" enj="5">Sie lassen den Sarg in Blumen hinab,</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010002|" enj_k="4" enj="5">mit Blumen schließen sie das Grab,</l>
+            <l met="--+|-+-|-+-|+" rhythm="0010200201|" enj_k="3" enj="3">und mit goldner Schrift in den Marmorstein</l>
+            <l met="--+|--+|-+|" rhythm="00200201|" enj_k="5" enj="5">schreibt die Stadt ihren Dankspruch ein:</l>
+          </lg>
+          <lg rhyme="aabbc" type="stanza">
+            <l met="-+|-+-|-+|-+|" rhythm="01020|0202" enj_k="3" enj="3">"Hier ruht John Maynard! In Qualm und Brand</l>
+            <l met="-+|-+-|-+|-+|" rhythm="100202001|" enj_k="4" enj="5">hielt er das Steuer fest in der Hand,</l>
+            <l met="-+-|-+-|-+|-+|" rhythm="010020|0102|" enj_k="4" enj="5">er hat uns gerettet, er trägt die Kron,</l>
+            <l met="-+|-+|--+|--+|" rhythm="0200|001002|" enj_k="5" enj="5">er starb für uns, unsre Liebe sein Lohn.</l>
+            <l met="-+-|" rhythm="020|" enj_k="5" enj="5">John Maynard."</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

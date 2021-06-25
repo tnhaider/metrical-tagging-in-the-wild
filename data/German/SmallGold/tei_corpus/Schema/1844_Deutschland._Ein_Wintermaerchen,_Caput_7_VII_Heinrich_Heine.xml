@@ -1,0 +1,237 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Deutschland. Ein Wintermärchen, Caput 7 / VII</title>
+        <author>
+          <persName>
+            <surname>Heine</surname>
+            <forename>Heinrich</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">29</measure>
+        <measure type="verses">116</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4, 5-4, 6-4, 7-4, 8-4, 9-4, 10-4, 11-4, 12-4, 13-4, 14-4, 15-4, 16-4, 17-4, 18-4, 19-4, 20-4, 21-4, 22-4, 23-4, 24-4, 25-4, 26-4, 27-4, 28-4, 29-4</measure>
+        <measure type="tokens">602</measure>
+        <measure type="sentences">40</measure>
+        <measure type="characters">3205</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1844</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/heinrich-heine-deutschland-ein-wintermaerchen-caput-7-vii,textbearbeitung,355.html">Deutschland. Ein Wintermärchen, Caput 7 / VII - Heinrich Heine (Interpretation #355)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">VormärzBiedermeierJunges Deutschland</classCode>
+        <classCode scheme="text_genre">Versepos</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Deutschland. Ein Wintermärchen, Caput 7 / VII</head>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="010202|01" enj_k="3">Ich ging nach Haus und schlief, als ob</l>
+            <l met="-+|--+|-+|-" rhythm="02002010|" enj_k="5">Die Engel gewiegt mich hätten.</l>
+            <l met="-+|-+|-+|--+|" rhythm="020102002|" enj_k="4">Man ruht in deutschen Betten so weich,</l>
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="5">Denn das sind Federbetten.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0200100201" enj_k="2_NP">Wie sehnt ich mich oft nach der Süßigkeit</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="4">Des vaterländischen Pfühles,</l>
+            <l met="-+|-+|--+|-+|" rhythm="000100201|" enj_k="3">Wenn ich auf harten Matratzen lag,</l>
+            <l met="--+|--+|--+|-" rhythm="0020010020|" enj_k="5">In der schlaflosen Nacht des Exiles!</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="0102|0201|" enj_k="3">Man schläft sehr gut und träumt auch gut</l>
+            <l met="-+|--+|-+|-" rhythm="00002010|" enj_k="5">In unseren Federbetten.</l>
+            <l met="-+|-+|-+|--+|" rhythm="020102002|" enj_k="3">Hier fühlt die deutsche Seele sich frei</l>
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="5">Von allen Erdenketten.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|--+|" rhythm="010201002" enj_k="3">Sie fühlt sich frei und schwingt sich empor</l>
+            <l met="--+|-+|-+|-" rhythm="00102010|" enj_k="5">Zu den höchsten Himmelsräumen.</l>
+            <l met="-+|-+|--+|--+|" rhythm="01020|01002|" enj_k="3">O deutsche Seele, wie stolz ist dein Flug</l>
+            <l met="-+|-+|--+|-" rhythm="00010020|" enj_k="5">In deinen nächtlichen Träumen!</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="010020|102|" enj_k="5">Die Götter erbleichen, wenn du nahst!</l>
+            <l met="-+|-+|-+|-" rhythm="0100020" enj_k="3">Du hast auf deinen Wegen</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010201" enj_k="3">Gar manches Sternlein ausgeputzt</l>
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="5">Mit deinen Flügelschlägen!</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|-+|" rhythm="0200200102|" enj_k="5">Franzosen und Russen gehört das Land,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Das Meer gehört den Briten,</l>
+            <l met="-+|--+|--+|--+|" rhythm="20001002002|" enj_k="3">Wir aber besitzen im Luftreich des Traums</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Die Herrschaft unbestritten.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|--+|" rhythm="020001002|" enj_k="5">Hier üben wir die Hegemonie,</l>
+            <l met="-+|-+|-+|-" rhythm="0100020|" enj_k="5">Hier sind wir unzerstückelt;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020100|" enj_k="3">Die andern Völker haben sich</l>
+            <l met="-+|-+|--+|-" rhythm="01020010|" enj_k="5">Auf platter Erde entwickelt. – –</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="00020|0200|" enj_k="4">Und als ich einschlief, da träumte mir,</l>
+            <l met="-+|--+|--+|-" rhythm="020010020" enj_k="2_NP">Ich schlenderte wieder im hellen</l>
+            <l met="+-|-+|--+|--+|" rhythm="20|01002001|" enj_k="3">Mondschein die hallenden Straßen entlang,</l>
+            <l met="--+|-+|--+|-" rhythm="002010020|" enj_k="5">In dem altertümlichen Köllen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|--+|" rhythm="020001002|" enj_k="3">Und hinter mir ging wieder einher</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="5">Mein schwarzer, vermummter Begleiter.</l>
+            <l met="-+|-+|--+|--+|" rhythm="01020|01002|" enj_k="4">Ich war so müde, mir brachen die Knie,</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">Doch immer gingen wir weiter.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="01020|02001|" enj_k="3">Wir gingen weiter. Mein Herz in der Brust</l>
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="4">War klaffend aufgeschnitten,</l>
+            <l met="-+|-+|-+|--+|" rhythm="000201002|" enj_k="3">Und aus der Herzenswunde hervor</l>
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="5">Die roten Tropfen glitten.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="0102002001|" enj_k="4">Ich tauchte manchmal die Finger hinein,</l>
+            <l met="-+|-+|--+|-" rhythm="01000020|" enj_k="4">Und manchmal ist es geschehen,</l>
+            <l met="-+|-+|-+|--+|" rhythm="000201002|" enj_k="3">Daß ich die Haustürpfosten bestrich</l>
+            <l met="--+|--+|-+|-" rhythm="001002010|" enj_k="5">Mit dem Blut im Vorübergehen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="0102|0002|" enj_k="3">Und jedesmal, wenn ich ein Haus</l>
+            <l met="-+|--+|-+|-" rhythm="020|01020|" enj_k="4">Bezeichnet in solcher Weise,</l>
+            <l met="-+|-+|--+|-+|" rhythm="020100102|" enj_k="3">Ein Sterbeglöckchen erscholl fernher,</l>
+            <l met="-+|-+|--+|-" rhythm="20010020|" enj_k="5">Wehmütig wimmernd und leise.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="020000102|" enj_k="5">Am Himmel aber erblich der Mond,</l>
+            <l met="-+|-+|-+|-" rhythm="0101020|" enj_k="5">Er wurde immer trüber;</l>
+            <l met="-+|-+|-+|--+|" rhythm="010202000|" enj_k="3">Gleich schwarzen Rossen jagten an ihm</l>
+            <l met="-+|-+|--+|-" rhythm="01020010|" enj_k="5">Die wilden Wolken vorüber.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="010200002|" enj_k="3">Und immer ging hinter mir einher</l>
+            <l met="-+|--+|--+|-" rhythm="000010020|" enj_k="3">Mit seinem verborgenen Beile</l>
+            <l met="-+|--+|-+|--+|" rhythm="01002|02000|" enj_k="3">Die dunkle Gestalt – so wanderten wir</l>
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="5">Wohl eine gute Weile.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|-+|" rhythm="020020|1002|" enj_k="3">Wir gehen und gehen, bis wir zuletzt</l>
+            <l met="+-|-+|--+|-" rhythm="10020010|" enj_k="5">Wieder zum Domplatz gelangen;</l>
+            <l met="-+|-+|--+|-+|" rhythm="120100201|" enj_k="5">Weit offen standen die Pforten dort,</l>
+            <l met="-+|-+|-+|-" rhythm="0102010|" enj_k="5">Wir sind hineingegangen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="020020102|" enj_k="3">Es herrschte im ungeheuren Raum</l>
+            <l met="-+|-+|-+|-" rhythm="02|02|020|" enj_k="5">Nur Tod und Nacht und Schweigen;</l>
+            <l met="-+|-+|-+|-+|" rhythm="01020102|" enj_k="4">Es brannten Ampeln hie und da,</l>
+            <l met="--+|--+|-+|-" rhythm="002001020|" enj_k="5">Um die Dunkelheit recht zu zeigen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|--+|" rhythm="02001002001|" enj_k="4">Ich wandelte lange den Pfeilern entlang</l>
+            <l met="-+|-+|-+|-" rhythm="0201020" enj_k="3">Und hörte nur die Tritte</l>
+            <l met="-+|--+|--+|-+|" rhythm="010020|0200" enj_k="3">Von meinem Begleiter, er folgte mir</l>
+            <l met="-+|-+|-+|-" rhythm="02|01020|" enj_k="5">Auch hier bei jedem Schritte.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="010200002|" enj_k="cc_5">Wir kamen endlich zu einem Ort,</l>
+            <l met="-+|--+|-+|-" rhythm="01002010|" enj_k="2_NP.KO">Wo funkelnde Kerzenhelle</l>
+            <l met="-+|--+|-+|-+|" rhythm="010020201|" enj_k="5">Und blitzendes Gold und Edelstein;</l>
+            <l met="-+|--+|--+|-" rhythm="010020010|" enj_k="5">Das war die Drei-Königs-Kapelle.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="010020002|" enj_k="cc_4">Die Heil'gen Drei Könige jedoch,</l>
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="4">Die sonst so still dort lagen,</l>
+            <l met="-+|--+|-+|-+|" rhythm="020|010201|" enj_k="3">O Wunder! sie saßen aufrecht jetzt</l>
+            <l met="-+|-+|-+|-" rhythm="0001020|" enj_k="5">Auf ihren Sarkophagen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|--+|" rhythm="020010|01002|" enj_k="3">Drei Totengerippe, phantastisch geputzt,</l>
+            <l met="-+|-+|-+|-+|" rhythm="02000200" enj_k="2_NP">Mit Kronen auf den elenden</l>
+            <l met="-+|-+|--+|-+|" rhythm="01020|0201" enj_k="3">Vergilbten Schädeln, sie trugen auch</l>
+            <l met="-+|--+|--+|-" rhythm="020|010020|" enj_k="5">Das Zepter in knöchernen Händen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|-+|" rhythm="020100201" enj_k="3">Wie Hampelmänner bewegten sie</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">Die längstverstorbenen Knochen;</l>
+            <l met="-+|--+|-+|-+|" rhythm="010020|002|" enj_k="3">Die haben nach Moder und zugleich</l>
+            <l met="-+|-+|-+|-" rhythm="0201020|" enj_k="5">Nach Weihrauchduft gerochen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|--+|-+|" rhythm="0100200102|" enj_k="4">Der eine bewegte sogar den Mund</l>
+            <l met="-+|--+|--+|-" rhythm="010020|020|" enj_k="5">Und hielt eine Rede, sehr lange;</l>
+            <l met="-+|-+|--+|--+|" rhythm="02000020|02" enj_k="3">Er setzte mir auseinander, warum</l>
+            <l met="-+|--+|-+|-" rhythm="00002010|" enj_k="5">Er meinen Respekt verlange.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="02|000201|" enj_k="4">Zuerst weil er ein Toter sei,</l>
+            <l met="-+|--+|-+|-" rhythm="020|00020|" enj_k="4">Und zweitens weil er ein König,</l>
+            <l met="-+|--+|-+|-+|" rhythm="020|000201|" enj_k="5">Und drittens weil er ein Heil'ger sei –</l>
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="5">Das alles rührte mich wenig.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|--+|" rhythm="0100201002|" enj_k="5">Ich gab ihm zur Antwort lachenden Muts:</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="5">»Vergebens ist deine Bemühung!</l>
+            <l met="-+|--+|--+|-+" rhythm="020|0000201" enj_k="3">Ich sehe, daß du der Vergangenheit</l>
+            <l met="-+|-+|--+|-" rhythm="02|010020|" enj_k="5">Gehörst in jeder Beziehung.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="2|201|0102|" enj_k="3">Fort! fort von hier! im tiefen Grab</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="5">Ist eure natürliche Stelle.</l>
+            <l met="-+|-+|-+|-+|" rhythm="02010002|" enj_k="3">Das Leben nimmt jetzt in Beschlag</l>
+            <l met="-+|-+|--+|-" rhythm="02000020|" enj_k="5">Die Schätze dieser Kapelle.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|--+|--+|" rhythm="0201001002" enj_k="3">Der Zukunft fröhliche Kavallerie</l>
+            <l met="-+|-+|-+|-" rhythm="0101020|" enj_k="4">Soll hier im Dome hausen,</l>
+            <l met="-+|--+|--+|--+|" rhythm="010020|01002|" enj_k="4">Und weicht ihr nicht willig, so brauch ich Gewalt</l>
+            <l met="-+|--+|-+|-" rhythm="01002010|" enj_k="5">Und laß euch mit Kolben lausen!«</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|--+|" rhythm="020|001002|" enj_k="5">So sprach ich, und ich drehte mich um,</l>
+            <l met="-+|-+|-+|-" rhythm="0201020" enj_k="3">Da sah ich furchtbar blinken</l>
+            <l met="-+|--+|-+|--+|" rhythm="0100201002|" enj_k="5">Des stummen Begleiters furchtbares Beil –</l>
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="5">Und er verstand mein Winken.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|-+|-+|-+|" rhythm="0200|0002" enj_k="3">Er nahte sich, und mit dem Beil</l>
+            <l met="-+|--+|-+|-" rhythm="02000010" enj_k="2_NP">Zerschmetterte er die armen</l>
+            <l met="-+|--+|-+|--+|" rhythm="02002010|01" enj_k="3">Skelette des Aberglaubens, er schlug</l>
+            <l met="-+|-+|-+|-" rhythm="020|1020|" enj_k="5">Sie nieder ohn' Erbarmen.</l>
+          </lg>
+          <lg rhyme="abcb" type="stanza">
+            <l met="-+|--+|-+|-+|" rhythm="020|010201|" enj_k="3">Es dröhnte der Hiebe Widerhall</l>
+            <l met="-+|--+|--+|-" rhythm="010020|020|" enj_k="5">Aus allen Gewölben, entsetzlich! –</l>
+            <l met="-+|-+|--+|-+|" rhythm="200|200002|" enj_k="4">Blutströme schossen aus meiner Brust,</l>
+            <l met="-+|-+|-+|-" rhythm="0002010|" enj_k="5">Und ich erwachte plötzlich.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

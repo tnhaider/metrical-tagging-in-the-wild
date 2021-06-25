@@ -1,0 +1,85 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Auf der Terrasse des Café Josty</title>
+        <author>
+          <persName>
+            <surname>Boldt</surname>
+            <forename>Paul</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">14</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-3, 4-3</measure>
+        <measure type="tokens">81</measure>
+        <measure type="sentences">5</measure>
+        <measure type="characters">482</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1912</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/paul-boldt-auf-der-terrasse-des-cafe-josty,textbearbeitung,104.html">Auf der Terrasse des Café Josty - Paul Boldt (Interpretation #104)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Expressionismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Auf der Terrasse des Café Josty</head>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|--+|-+|-+|-+|" rhythm="01002|010002" enj_k="3" enj="3">Der Potsdamer Platz in ewigem Gebrüll</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02000100020" enj_k="2_NP" enj="5">Vergletschert alle hallenden Lawinen</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010|102010|" enj_k="3" enj="5">Der Straßentrakte: Trams auf Eisenschienen,</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="00020|00201|" enj_k="5" enj="5">Automobile und den Menschenmüll.</l>
+          </lg>
+          <lg rhyme="abba" type="stanza">
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102000002|" enj_k="3" enj="5">Die Menschen rinnen über den Asphalt,</l>
+            <l met="+-|-+|--+|--+|" rhythm="20010|01002|" enj_k="5" enj="5">Ameisenemsig, wie Eidechsen flink.</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="20020|00201|" enj_k="3" enj="3">Stirne und Hände, von Gedanken blink,</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="1002000102|" enj_k="5" enj="5">Schwimmen wie Sonnenlicht durch dunklen Wald.</l>
+          </lg>
+          <lg rhyme="aba" type="stanza">
+            <l met="+-|-+|-+|-+|-+|-" rhythm="21000200020|" enj_k="cc_5" enj="5">Nachtregen hüllt den Platz in eine Höhle,</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="02010|2|02010|" enj_k="4" enj="5">Wo Fledermäuse, weiß, mit Flügeln schlagen</l>
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0102020|1020|" enj_k="3" enj="3">Und lila Quallen liegen - bunte Öle;</l>
+          </lg>
+          <lg rhyme="abb" type="stanza">
+            <l met="-+|-+|-+|-+|-+|-" rhythm="0201|0100020|" enj_k="5" enj="5">Die mehren sich, zerschnitten von den Wagen. -</l>
+            <l met="+-|-+|-+|-+|-+|" rhythm="1002|020102|" enj_k="3" enj="3">Aufspritzt Berlin, des Tages glitzernd Nest,</l>
+            <l met="-+|-+|-+|-+|-+|" rhythm="0102010002|" enj_k="5" enj="3">Vom Rauch der Nacht wie Eiter einer Pest.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

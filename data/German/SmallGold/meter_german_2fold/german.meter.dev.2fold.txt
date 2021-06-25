@@ -1,0 +1,3253 @@
+1	Und	+	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+2	das	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	al	+	1	.	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+-
+4	te	-	0	.	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+-
+5	Holz	+	1	:	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+6	be	-	0	.	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+-
+7	hen	+	2	.	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+2	sing'	+	2	:	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+-
+3	und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+4	kann	+	1	.	.	VM	VMFIN	0	iambic	iambic.tri	-+-+-+-
+5	nicht	-	0	:	.	PT	PTKNEG	0	iambic	iambic.tri	-+-+-+-
+6	wei	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	nen	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Am	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	A	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	bend	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	wenn	+	0	.	.	KO	KOUS	0	iambic	iambic.penta	-+-+-+-+-+-
+5	die	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+6	Gloc	+	1	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ken	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Frie	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	den	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	läu	+	1	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ten	-	0	:	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+
+2	ist	+	0	:	.	VA	VAFIN	0	iambic	iambic.tri	-+-+-+
+3	doch	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+4	lan	+	1	.	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+
+5	ge	-	0	:	.	ADV	ADV	2	iambic	iambic.tri	-+-+-+
+6	tot	+	2	.	:	ADJ	ADJD	0	iambic	iambic.tri	-+-+-+
+
+1	Ein	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+2	blon	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+3	der	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+4	Dich	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	ter	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	wird	+	0	.	.	VA	VAFIN	0	iambic	iambic.penta	-+-+-+-+-+
+7	viel	-	0	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+
+8	leicht	+	0	:	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+
+9	ver	-	0	.	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+
+10	rückt	+	2	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	Von	+	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+2	dem	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+3	thrä	+	2	.	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+
+4	nen	-	0	.	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+
+5	vol	+	1	:	.	ADJ	ADJA	3	troch	troch.tetra	+-+-+-+
+6	len	-	0	.	.	ADJ	ADJA	4	troch	troch.tetra	+-+-+-+
+7	Streit	+	2	.	:	NN	NN	0	troch	troch.tetra	+-+-+-+
+
+1	Von	+	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+2	dem	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+3	Söl	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	ler	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	in	+	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+6	den	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+7	Grund	+	2	.	:	NN	NN	0	troch	troch.tetra	+-+-+-+
+
+1	mit	-	0	.	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+-+
+2	Gott	+	2	:	:	NN	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+
+3	für	-	0	.	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+-+
+4	Kö	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+5	nig	-	0	:	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+6	und	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	-+-+--+-+
+7	Va	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+8	ter	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+9	land	+	1	:	.	NN	NN	3	iambic	iambic.relaxed.syll	-+-+--+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+-
+2	rausch	+	2	:	.	VV	VVFIN	1	iambic	iambic.tetra	-+-+-+-+-
+3	te	-	0	.	.	VV	VVFIN	2	iambic	iambic.tetra	-+-+-+-+-
+4	mit	+	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+-
+5	den	-	0	:	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+-
+6	Ro	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+7	sen	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+8	bän	+	1	:	.	NN	NN	3	iambic	iambic.tetra	-+-+-+-+-
+9	dern	-	0	.	:	NN	NN	4	iambic	iambic.tetra	-+-+-+-+-
+
+1	Mor	+	1	.	.	NN	NN	1	troch	troch.tri	+-+-+-
+2	gen	-	0	:	.	NN	NN	2	troch	troch.tri	+-+-+-
+3	wind	+	0	.	.	NN	NN	3	troch	troch.tri	+-+-+-
+4	um	-	0	.	.	VV	VVFIN	1	troch	troch.tri	+-+-+-
+5	flü	+	2	:	.	VV	VVFIN	2	troch	troch.tri	+-+-+-
+6	gelt	-	0	.	:	VV	VVFIN	3	troch	troch.tri	+-+-+-
+
+1	Un	-	2	.	.	ADJ	ADJA	1	amphi	amphi.tri	-+--+--+-
+2	heim	+	0	:	.	ADJ	ADJA	2	amphi	amphi.tri	-+--+--+-
+3	li	-	0	.	.	ADJ	ADJA	3	amphi	amphi.tri	-+--+--+-
+4	ches	-	0	.	.	ADJ	ADJA	4	amphi	amphi.tri	-+--+--+-
+5	Ket	+	2	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+6	ten	-	0	:	.	NN	NN	2	amphi	amphi.tri	-+--+--+-
+7	ge	-	0	.	.	NN	NN	3	amphi	amphi.tri	-+--+--+-
+8	klir	+	1	.	.	NN	NN	4	amphi	amphi.tri	-+--+--+-
+9	re	-	0	.	:	NN	NN	5	amphi	amphi.tri	-+--+--+-
+
+1	Legt	+	1	.	.	VV	VVFIN	0	troch	troch.penta	+-+-+-+-+
+2	sich	-	0	:	.	PR	PRF	0	troch	troch.penta	+-+-+-+-+
+3	auch	+	2	.	.	ADV	ADV	0	troch	troch.penta	+-+-+-+-+
+4	in	-	0	.	.	AP	APPR	0	troch	troch.penta	+-+-+-+-+
+5	ih	+	0	:	.	PP	PPOSAT	1	troch	troch.penta	+-+-+-+-+
+6	re	-	0	.	.	PP	PPOSAT	2	troch	troch.penta	+-+-+-+-+
+7	finst	+	1	.	.	ADJ	ADJA	1	troch	troch.penta	+-+-+-+-+
+8	re	-	0	:	.	ADJ	ADJA	2	troch	troch.penta	+-+-+-+-+
+9	Truh	+	2	.	:	NN	NN	0	troch	troch.penta	+-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+2	e	+	1	:	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+-
+3	wig	-	0	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+-
+4	Wet	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+5	ter	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+6	die	+	0	.	.	PR	PRELS	0	iambic	iambic.penta	-+-+-+-+-+-
+7	sich	-	0	.	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+-
+8	kla	+	1	:	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+-
+9	gend	-	0	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+-
+10	win	+	2	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+-
+11	den	-	0	:	.	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Mit	-	0	.	.	AP	APPR	0	amphi	amphi.tri	-+--+--+-
+2	dro	+	2	.	.	ADJ	ADJD	1	amphi	amphi.tri	-+--+--+-
+3	hend	-	0	:	.	ADJ	ADJD	2	amphi	amphi.tri	-+--+--+-
+4	ge	-	0	.	.	ADJ	ADJA	1	amphi	amphi.tri	-+--+--+-
+5	schwun	+	1	.	.	ADJ	ADJA	2	amphi	amphi.tri	-+--+--+-
+6	ge	-	0	.	.	ADJ	ADJA	3	amphi	amphi.tri	-+--+--+-
+7	ner	-	0	:	.	ADJ	ADJA	4	amphi	amphi.tri	-+--+--+-
+8	Keu	+	2	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+9	le	-	0	.	:	NN	NN	2	amphi	amphi.tri	-+--+--+-
+
+1	Im	+	0	.	.	ADV	ADV	1	troch	troch.penta	+-+-+-+-+
+2	mer	-	0	:	.	ADV	ADV	2	troch	troch.penta	+-+-+-+-+
+3	glänzt	+	1	.	.	VV	VVFIN	0	troch	troch.penta	+-+-+-+-+
+4	das	-	0	.	.	AR	ART	0	troch	troch.penta	+-+-+-+-+
+5	Pfla	+	2	:	.	NN	NN	1	troch	troch.penta	+-+-+-+-+
+6	ster	-	0	.	.	NN	NN	2	troch	troch.penta	+-+-+-+-+
+7	was	+	2	.	.	VV	VVFIN	1	troch	troch.penta	+-+-+-+-+
+8	ser	-	0	:	.	VV	VVFIN	2	troch	troch.penta	+-+-+-+-+
+9	nass	+	1	.	:	VV	VVFIN	3	troch	troch.penta	+-+-+-+-+
+
+1	Tü	+	1	.	.	NN	NN	1	troch	troch.di	+-+-
+2	cher	-	0	:	.	NN	NN	2	troch	troch.di	+-+-
+3	rei	+	2	.	.	VV	VVINF	1	troch	troch.di	+-+-
+4	ßen	-	0	.	:	VV	VVINF	2	troch	troch.di	+-+-
+
+1	Ske	-	0	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+--+
+2	let	+	2	:	.	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+--+
+3	te	-	0	.	.	NN	NN	3	iambic	iambic.relaxed.syll	-+--+-+--+
+4	des	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+--+-+--+
+5	A	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+--+
+6	ber	-	0	:	.	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+--+
+7	glau	+	1	.	.	NN	NN	3	iambic	iambic.relaxed.syll	-+--+-+--+
+8	bens	-	0	.	:	NN	NN	4	iambic	iambic.relaxed.syll	-+--+-+--+
+9	er	-	0	:	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+--+-+--+
+10	schlug	+	1	.	.	VV	VVFIN	0	iambic	iambic.relaxed.syll	-+--+-+--+
+
+1	Ein	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+--+-
+2	Fluch	+	1	:	.	NN	NN	0	iambic	iambic.relaxed.syll	-+-+--+--+-
+3	dem	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+--+-
+4	Got	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+--+-
+5	te	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+--+-
+6	zu	-	0	:	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+--+-
+7	dem	+	1	.	.	PR	PRELS	0	iambic	iambic.relaxed.syll	-+-+--+--+-
+8	wir	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+--+-
+9	ge	-	0	.	.	VV	VVPP	1	iambic	iambic.relaxed.syll	-+-+--+--+-
+10	be	+	2	:	.	VV	VVPP	2	iambic	iambic.relaxed.syll	-+-+--+--+-
+11	ten	-	0	.	.	VV	VVPP	3	iambic	iambic.relaxed.syll	-+-+--+--+-
+
+1	zie	+	2	.	.	VV	VVFIN	1	iambic	iambic.invert	+--+-+--+--+-
+2	ren	-	0	.	.	VV	VVFIN	2	iambic	iambic.invert	+--+-+--+--+-
+3	sie	-	0	:	.	PP	PPER	0	iambic	iambic.invert	+--+-+--+--+-
+4	sich	+	0	.	:	PR	PRF	0	iambic	iambic.invert	+--+-+--+--+-
+5	und	-	0	.	.	KO	KON	0	iambic	iambic.invert	+--+-+--+--+-
+6	füh	+	1	:	.	VV	VVFIN	1	iambic	iambic.invert	+--+-+--+--+-
+7	len	-	0	.	.	VV	VVFIN	2	iambic	iambic.invert	+--+-+--+--+-
+8	sich	-	0	.	.	PR	PRF	0	iambic	iambic.invert	+--+-+--+--+-
+9	sel	+	2	.	.	ADV	ADV	1	iambic	iambic.invert	+--+-+--+--+-
+10	ber	-	0	:	.	ADV	ADV	2	iambic	iambic.invert	+--+-+--+--+-
+11	zu	-	0	.	.	PT	PTKA	0	iambic	iambic.invert	+--+-+--+--+-
+12	scha	+	2	.	.	ADJ	ADJD	1	iambic	iambic.invert	+--+-+--+--+-
+13	de	-	0	.	.	ADJ	ADJD	2	iambic	iambic.invert	+--+-+--+--+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+
+2	sin	+	1	:	.	VV	VVFIN	1	iambic	iambic.tri	-+-+-+
+3	ken	-	0	.	.	VV	VVFIN	2	iambic	iambic.tri	-+-+-+
+4	tief	+	0	.	.	ADJ	ADJD	0	iambic	iambic.tri	-+-+-+
+5	ins	-	0	:	.	AP	APPRART	0	iambic	iambic.tri	-+-+-+
+
+1	Das	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	Schwei	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	gen	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	tap	+	1	.	.	VV	VVFIN	1	iambic	iambic.tetra	-+-+-+-+
+5	pet	-	0	:	.	VV	VVFIN	2	iambic	iambic.tetra	-+-+-+-+
+6	schwer	+	1	.	.	ADJ	ADJD	0	iambic	iambic.tetra	-+-+-+-+
+7	her	-	0	.	.	ADV	ADV	1	iambic	iambic.tetra	-+-+-+-+
+8	ab	+	2	:	:	ADV	ADV	2	iambic	iambic.tetra	-+-+-+-+
+
+1	Noch	-	0	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+2	manch	+	1	:	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+3	mal	-	0	.	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+4	zap	+	2	.	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+-
+5	pelnd	-	0	:	:	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+-
+6	Und	+	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+7	der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+8	Fel	+	1	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	der	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	Tie	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	re	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Be	-	0	.	.	VV	VVFIN	1	amphi	amphi.di.relaxed	-+--+-
+2	gehrt	+	1	.	.	VV	VVFIN	2	amphi	amphi.di.relaxed	-+--+-
+3	eins	-	0	:	.	PI	PIS	0	amphi	amphi.di.relaxed	-+--+-
+4	zu	-	0	.	.	PT	PTKZU	0	amphi	amphi.di.relaxed	-+--+-
+5	ha	+	2	.	.	VV	VVINF	1	amphi	amphi.di.relaxed	-+--+-
+6	sten	-	0	.	:	VV	VVINF	2	amphi	amphi.di.relaxed	-+--+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+2	se	+	2	:	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	he	-	0	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	dich	+	0	.	:	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+5	wenn	-	0	:	.	KO	KOUS	0	iambic	iambic.penta	-+-+-+-+-+-
+6	auf	+	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+7	dem	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+8	fer	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+9	nen	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+10	We	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ge	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Denn	-	0	.	.	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	op	+	1	:	.	VV	VVFIN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	fert	-	0	.	.	VV	VVFIN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	kei	+	2	.	.	PI	PIS	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	ner	-	0	:	.	PI	PIS	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	mehr	+	0	.	:	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	der	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	gott	+	1	:	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	heit	-	0	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	dei	+	0	.	.	PP	PPOSAT	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	ner	-	0	:	.	PP	PPOSAT	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	pracht	+	2	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Brei	+	2	.	.	NE	NE	1	troch	troch.tetra	+-+-+-+
+2	test	-	0	:	.	NE	NE	2	troch	troch.tetra	+-+-+-+
+3	ü	+	0	.	.	AP	APPR	1	troch	troch.tetra	+-+-+-+
+4	ber	-	0	.	.	AP	APPR	2	troch	troch.tetra	+-+-+-+
+5	mein	+	0	:	.	PP	PPOSAT	0	troch	troch.tetra	+-+-+-+
+6	Ge	-	0	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+7	fild	+	2	.	:	NN	NN	2	troch	troch.tetra	+-+-+-+
+
+1	Ruht	+	2	.	.	VV	VVFIN	0	asklepiade	asklepiade	+-+--++--+-+
+2	im	-	0	:	.	AP	APPRART	0	asklepiade	asklepiade	+-+--++--+-+
+3	we	+	1	.	.	ADJ	ADJA	1	asklepiade	asklepiade	+-+--++--+-+
+4	hen	-	0	.	.	ADJ	ADJA	2	asklepiade	asklepiade	+-+--++--+-+
+5	den	-	0	.	.	ADJ	ADJA	3	asklepiade	asklepiade	+-+--++--+-+
+6	Gras	+	2	.	:	NN	NN	0	asklepiade	asklepiade	+-+--++--+-+
+7	wann	+	0	:	.	PW	PWAV	0	asklepiade	asklepiade	+-+--++--+-+
+8	sich	-	0	.	.	PR	PRF	0	asklepiade	asklepiade	+-+--++--+-+
+9	die	-	0	.	.	AR	ART	0	asklepiade	asklepiade	+-+--++--+-+
+10	Kühl'	+	1	.	.	NN	NN	0	asklepiade	asklepiade	+-+--++--+-+
+11	er	-	0	.	.	VV	VVFIN	1	asklepiade	asklepiade	+-+--++--+-+
+12	gießt	+	1	:	.	VV	VVFIN	2	asklepiade	asklepiade	+-+--++--+-+
+
+1	Zwi	+	0	.	.	AP	APPR	1	iambic	iambic.tetra.invert	+--+-+-+
+2	schen	-	0	.	.	AP	APPR	2	iambic	iambic.tetra.invert	+--+-+-+
+3	den	-	0	.	.	AR	ART	0	iambic	iambic.tetra.invert	+--+-+-+
+4	Ti	+	2	:	.	NN	NN	1	iambic	iambic.tetra.invert	+--+-+-+
+5	ger	-	0	.	.	NN	NN	2	iambic	iambic.tetra.invert	+--+-+-+
+6	und	+	0	.	.	KO	KON	0	iambic	iambic.tetra.invert	+--+-+-+
+7	den	-	0	:	.	AR	ART	0	iambic	iambic.tetra.invert	+--+-+-+
+8	Leun	+	2	.	:	NN	NN	0	iambic	iambic.tetra.invert	+--+-+-+
+
+1	doch	-	0	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+2	al	+	1	:	.	PI	PIS	1	iambic	iambic.penta	-+-+-+-+-+-
+3	le	-	0	.	.	PI	PIS	2	iambic	iambic.penta	-+-+-+-+-+-
+4	ha	+	0	.	.	VA	VAFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+5	ben	-	0	:	.	VA	VAFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+6	Mut	+	2	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+7	in	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+8	ih	+	0	:	.	PP	PPOSAT	1	iambic	iambic.penta	-+-+-+-+-+-
+9	ren	-	0	.	.	PP	PPOSAT	2	iambic	iambic.penta	-+-+-+-+-+-
+10	Mie	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	nen	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Das	-	0	.	.	PD	PDS	0	iambic	iambic.penta	-+-+-+-+-+-
+2	ist	+	0	:	.	VA	VAFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+3	nicht	-	0	.	.	PT	PTKNEG	0	iambic	iambic.penta	-+-+-+-+-+-
+4	Ich	+	2	.	:	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+5	wo	-	0	:	.	PW	PWAV	1	iambic	iambic.penta	-+-+-+-+-+-
+6	von	+	0	.	.	PW	PWAV	2	iambic	iambic.penta	-+-+-+-+-+-
+7	die	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+8	Klei	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	der	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	schei	+	1	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	nen	-	0	:	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Dorn	-	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+2	ro	+	1	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+3	sen	-	0	.	.	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+
+4	mei	+	0	.	.	PP	PPOSAT	1	iambic	iambic.penta	-+-+-+-+-+
+5	nes	-	0	:	.	PP	PPOSAT	2	iambic	iambic.penta	-+-+-+-+-+
+6	Flei	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+7	sches	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+8	stecht	+	2	:	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+9	nicht	-	0	.	.	PT	PTKNEG	0	iambic	iambic.penta	-+-+-+-+-+
+10	so	+	0	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Er	-	0	.	.	PP	PPER	0	iambic	iambic.chol.relaxed	-+-+-+--+
+2	hing	+	2	:	.	VV	VVFIN	0	iambic	iambic.chol.relaxed	-+-+-+--+
+3	mir	-	0	.	:	PP	PPER	0	iambic	iambic.chol.relaxed	-+-+-+--+
+4	wie	+	0	.	.	PW	PWAV	0	iambic	iambic.chol.relaxed	-+-+-+--+
+5	des	-	0	:	.	AR	ART	0	iambic	iambic.chol.relaxed	-+-+-+--+
+6	Da	+	1	.	.	NN	NN	1	iambic	iambic.chol.relaxed	-+-+-+--+
+7	mok	-	0	.	.	NN	NN	2	iambic	iambic.chol.relaxed	-+-+-+--+
+8	les	-	0	:	.	NN	NN	3	iambic	iambic.chol.relaxed	-+-+-+--+
+9	Schwert	+	2	.	.	NE	NE	0	iambic	iambic.chol.relaxed	-+-+-+--+
+
+1	Was	+	1	.	:	PW	PWS	0	troch	troch.tetra	+-+-+-+
+2	von	-	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+3	Men	+	1	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	schen	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	nicht	+	0	:	.	PT	PTKNEG	0	troch	troch.tetra	+-+-+-+
+6	ge	-	0	.	.	VV	VVPP	1	troch	troch.tetra	+-+-+-+
+7	wußt	+	2	.	.	VV	VVPP	2	troch	troch.tetra	+-+-+-+
+
+1	Und	+	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+2	die	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	Nach	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	ti	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	gal	+	1	:	.	NN	NN	3	troch	troch.tetra	+-+-+-+-
+6	len	-	0	.	.	NN	NN	4	troch	troch.tetra	+-+-+-+-
+7	schla	+	2	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	gen	-	0	:	:	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	das	-	0	.	.	AR	ART	0	amphi	amphi.tri.plus	-+--+--+-+-
+2	erb	+	2	.	.	ADJ	ADJD	1	amphi	amphi.tri.plus	-+--+--+-+-
+3	ei	-	0	:	.	ADJ	ADJD	2	amphi	amphi.tri.plus	-+--+--+-+-
+4	gen	-	0	.	.	ADJ	ADJD	3	amphi	amphi.tri.plus	-+--+--+-+-
+5	tüm	+	1	.	.	ADJ	ADJD	4	amphi	amphi.tri.plus	-+--+--+-+-
+6	lich	-	0	.	.	ADJ	ADJD	5	amphi	amphi.tri.plus	-+--+--+-+-
+7	ge	-	0	:	.	VV	VVFIN	1	amphi	amphi.tri.plus	-+--+--+-+-
+8	hört	+	1	.	.	VV	VVFIN	2	amphi	amphi.tri.plus	-+--+--+-+-
+9	den	-	0	.	.	AR	ART	0	amphi	amphi.tri.plus	-+--+--+-+-
+10	Für	+	2	:	.	NN	NN	1	amphi	amphi.tri.plus	-+--+--+-+-
+11	sten	-	0	.	:	NN	NN	2	amphi	amphi.tri.plus	-+--+--+-+-
+
+1	Wenn	-	0	.	.	KO	KOUS	0	iambic	iambic.penta	-+-+-+-+-+-
+2	du	+	0	:	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+3	im	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+-
+4	Land	+	1	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+5	der	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+6	Träu	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	me	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	dich	+	0	:	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+9	ver	-	0	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+10	wei	+	1	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+11	let	-	0	:	:	VV	VVFIN	3	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+2	hört	+	2	:	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+-
+3	ein	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+-
+4	Mägd	+	1	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	lein	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	kla	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	gen	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Dein	-	0	.	.	PP	PPOSAT	0	iambic	iambic.tetra	-+-+-+-+
+2	blu	+	1	:	.	ADJ	ADJD	1	iambic	iambic.tetra	-+-+-+-+
+3	tend	-	0	.	.	ADJ	ADJD	2	iambic	iambic.tetra	-+-+-+-+
+4	Herz	+	2	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	in	-	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+6	Eis	+	2	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+8	Hohn	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Freund	+	2	.	.	ADV	ADV	1	troch	troch.tetra	+-+-+-+-
+2	lich	-	0	:	.	ADV	ADV	2	troch	troch.tetra	+-+-+-+-
+3	wohl	+	0	.	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+-
+4	mit	-	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+5	Aug	+	1	:	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+6	und	-	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+7	Mun	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	de	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Sie	-	0	.	.	PP	PPER	0	iambic	iambic.chol.relaxed	-+-+--+
+2	kämmt	+	2	:	.	VV	VVFIN	0	iambic	iambic.chol.relaxed	-+-+--+
+3	ihr	-	0	.	.	PP	PPOSAT	0	iambic	iambic.chol.relaxed	-+-+--+
+4	gol	+	1	.	.	ADJ	ADJA	1	iambic	iambic.chol.relaxed	-+-+--+
+5	de	-	0	:	.	ADJ	ADJA	2	iambic	iambic.chol.relaxed	-+-+--+
+6	nes	-	0	.	.	ADJ	ADJA	3	iambic	iambic.chol.relaxed	-+-+--+
+7	Haar	+	2	.	:	NN	NN	0	iambic	iambic.chol.relaxed	-+-+--+
+
+1	die	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+2	tol	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+3	le	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+4	Ju	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	gend	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	fu	+	2	.	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+
+7	sel	-	0	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+
+8	se	+	1	:	.	ADJ	ADJD	3	iambic	iambic.penta	-+-+-+-+-+
+9	lig	-	0	.	.	ADJ	ADJD	4	iambic	iambic.penta	-+-+-+-+-+
+10	lärmt	+	2	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Nimmt	-	0	.	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+2	man	+	0	:	.	PI	PIS	1	iambic	iambic.tetra	-+-+-+-+
+3	chen	-	0	.	.	PI	PIS	2	iambic	iambic.tetra	-+-+-+-+
+4	mit	+	1	.	.	PT	PTKVZ	0	iambic	iambic.tetra	-+-+-+-+
+5	der's	-	0	:	.	PR	PRELS	0	iambic	iambic.tetra	-+-+-+-+
+6	nicht	+	1	.	.	PT	PTKNEG	0	iambic	iambic.tetra	-+-+-+-+
+7	ge	-	0	.	.	VV	VVPP	1	iambic	iambic.tetra	-+-+-+-+
+8	dacht	+	2	:	:	VV	VVPP	2	iambic	iambic.tetra	-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+2	wenn	+	0	:	.	KO	KOUS	0	iambic	iambic.penta	-+-+-+-+-+-
+3	ich	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+4	mich	+	0	.	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+-
+5	an	-	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+6	trü	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+7	be	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Lust	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+9	ver	-	0	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+10	ge	+	1	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+11	be	-	0	:	:	VV	VVFIN	3	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+2	Mond	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+3	tritt	-	0	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+4	aus	+	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+5	der	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+6	gel	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+7	ben	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+8	Wol	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	ken	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+10	wand	+	1	.	:	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	amphi	amphi.tri	-+--+--+-
+2	teilt	+	2	.	.	VV	VVFIN	0	amphi	amphi.tri	-+--+--+-
+3	mit	-	0	:	.	AP	APPR	0	amphi	amphi.tri	-+--+--+-
+4	ge	-	0	.	.	ADJ	ADJA	1	amphi	amphi.tri	-+--+--+-
+5	wal	+	1	.	.	ADJ	ADJA	2	amphi	amphi.tri	-+--+--+-
+6	ti	-	0	.	.	ADJ	ADJA	3	amphi	amphi.tri	-+--+--+-
+7	gen	-	0	:	.	ADJ	ADJA	4	amphi	amphi.tri	-+--+--+-
+8	Ar	+	2	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+
+1	Ein	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	haar	+	1	:	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	so	-	0	.	.	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	kühn	+	2	.	.	ADJ	ADJD	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	lich	-	0	:	.	ADJ	ADJD	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	trotz	+	1	.	.	AP	APPR	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	der	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	Be	+	0	:	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	re	-	0	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	ni	+	2	.	.	NN	NN	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	ce	-	0	:	.	NN	NN	4	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	spricht	+	1	.	:	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+-
+2	Erd	+	1	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+-
+3	und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+-
+4	Him	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+5	mel	-	0	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+6	will	+	0	.	.	VM	VMFIN	0	iambic	iambic.tetra	-+-+-+-+-
+7	er	-	0	.	.	VV	VVINF	1	iambic	iambic.tetra	-+-+-+-+-
+8	hal	+	2	:	.	VV	VVINF	2	iambic	iambic.tetra	-+-+-+-+-
+9	ten	-	0	.	:	VV	VVINF	3	iambic	iambic.tetra	-+-+-+-+-
+
+1	Sei	+	0	.	.	PP	PPOSAT	1	asklepiade	asklepiade	+-+--++--+-+
+2	ne	-	0	:	.	PP	PPOSAT	2	asklepiade	asklepiade	+-+--++--+-+
+3	Nach	+	2	.	.	NN	NN	1	asklepiade	asklepiade	+-+--++--+-+
+4	ti	-	0	.	.	NN	NN	2	asklepiade	asklepiade	+-+--++--+-+
+5	gall	-	1	.	.	NN	NN	3	asklepiade	asklepiade	+-+--++--+-+
+6	weckt	+	0	.	.	VV	VVFIN	0	asklepiade	asklepiade	+-+--++--+-+
+7	flö	+	2	:	.	ADJ	ADJD	1	asklepiade	asklepiade	+-+--++--+-+
+8	tend	-	0	.	.	ADJ	ADJD	2	asklepiade	asklepiade	+-+--++--+-+
+9	ihn	-	0	.	.	PP	PPER	0	asklepiade	asklepiade	+-+--++--+-+
+10	wie	+	1	.	.	ADV	ADV	1	asklepiade	asklepiade	+-+--++--+-+
+11	der	-	0	.	.	ADV	ADV	2	asklepiade	asklepiade	+-+--++--+-+
+12	auf	+	2	:	:	PT	PTKVZ	0	asklepiade	asklepiade	+-+--++--+-+
+
+1	Von	-	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+
+2	ihm	+	0	:	.	PP	PPER	0	iambic	iambic.tri	-+-+-+
+3	nun	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+4	träu	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+
+5	men	-	0	:	.	VV	VVINF	2	iambic	iambic.tri	-+-+-+
+6	müßt'	+	1	.	:	VM	VMFIN	0	iambic	iambic.tri	-+-+-+
+
+1	Es	-	0	.	.	PP	PPER	0	amphi	amphi.tri	-+--+--+-
+2	war	+	2	:	.	VA	VAFIN	0	amphi	amphi.tri	-+--+--+-
+3	einst	-	0	.	.	ADV	ADV	0	amphi	amphi.tri	-+--+--+-
+4	ein	-	0	.	.	AR	ART	0	amphi	amphi.tri	-+--+--+-
+5	Kö	+	1	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+6	nig	-	0	:	.	NN	NN	2	amphi	amphi.tri	-+--+--+-
+7	in	-	0	.	.	AP	APPR	0	amphi	amphi.tri	-+--+--+-
+8	Thu	+	2	.	.	NE	NE	1	amphi	amphi.tri	-+--+--+-
+9	le	-	0	.	:	NE	NE	2	amphi	amphi.tri	-+--+--+-
+
+1	Wo	-	0	.	.	PW	PWAV	0	iambic	iambic.relaxed.syll	-+--+-+-
+2	fun	+	1	:	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+--+-+-
+3	keln	-	0	.	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+--+-+-
+4	de	-	0	.	.	ADJ	ADJA	3	iambic	iambic.relaxed.syll	-+--+-+-
+5	Ker	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+-
+6	zen	-	0	:	.	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+-
+7	hel	+	1	.	.	NN	NN	3	iambic	iambic.relaxed.syll	-+--+-+-
+8	le	-	0	.	:	NN	NN	4	iambic	iambic.relaxed.syll	-+--+-+-
+
+1	Als	-	0	.	.	KO	KOUS	0	iambic	iambic.tri	-+-+-+-
+2	woll	+	2	:	.	VM	VMFIN	1	iambic	iambic.tri	-+-+-+-
+3	ten	-	0	.	.	VM	VMFIN	2	iambic	iambic.tri	-+-+-+-
+4	sie	+	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+5	was	-	0	:	.	PI	PIS	0	iambic	iambic.tri	-+-+-+-
+6	sa	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	gen	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Der	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	lieb	+	2	:	.	ADJ	ADJA	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	li	-	0	.	.	ADJ	ADJA	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	che	+	0	.	.	ADJ	ADJA	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	co	-	0	:	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	rall	+	1	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	der	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	lip	+	2	:	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	pen	-	0	.	:	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	wird	+	1	.	.	VA	VAFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	ver	-	0	:	.	VV	VVINF	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	blei	+	2	.	.	VV	VVINF	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	chen	-	0	.	.	VV	VVINF	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	das	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	Ei	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	sen	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	kreuz	+	1	.	.	NN	NN	3	iambic	iambic.tetra	-+-+-+-+
+5	am	-	0	:	.	AP	APPRART	0	iambic	iambic.tetra	-+-+-+-+
+6	Preu	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	ßen	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	band	+	1	:	:	NN	NN	3	iambic	iambic.tetra	-+-+-+-+
+
+1	Ba	+	0	.	.	NE	NE	1	troch	troch.tetra	+-+-+-+-
+2	jo	-	0	:	.	NE	NE	2	troch	troch.tetra	+-+-+-+-
+3	net	+	2	.	.	NE	NE	3	troch	troch.tetra	+-+-+-+-
+4	te	-	0	.	:	NE	NE	4	troch	troch.tetra	+-+-+-+-
+5	Schlacht	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	ge	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	tüm	+	1	.	.	NN	NN	3	troch	troch.tetra	+-+-+-+-
+8	mel	-	0	:	.	NN	NN	4	troch	troch.tetra	+-+-+-+-
+
+1	So	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+2	trau	+	2	:	.	ADJ	ADJD	1	iambic	iambic.tri	-+-+-+
+3	lich	-	0	.	.	ADJ	ADJD	2	iambic	iambic.tri	-+-+-+
+4	und	+	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+
+5	so	-	0	:	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+6	hold	+	2	.	:	ADJ	ADJD	0	iambic	iambic.tri	-+-+-+
+
+1	Was	-	0	.	.	PW	PWS	0	iambic	iambic.tetra	-+-+-+-+-
+2	sollt	+	2	:	.	VM	VMFIN	0	iambic	iambic.tetra	-+-+-+-+-
+3	ich	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+-
+4	nicht	+	1	.	.	PT	PTKNEG	0	iambic	iambic.tetra	-+-+-+-+-
+5	mit	-	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+-
+6	ih	+	0	.	.	PP	PPER	1	iambic	iambic.tetra	-+-+-+-+-
+7	nen	-	0	.	.	PP	PPER	2	iambic	iambic.tetra	-+-+-+-+-
+8	sin	+	2	:	.	VV	VVINF	1	iambic	iambic.tetra	-+-+-+-+-
+9	gen	-	0	.	:	VV	VVINF	2	iambic	iambic.tetra	-+-+-+-+-
+
+1	Auf	+	0	.	.	AP	APPR	0	troch	troch.tri	+-+-+-
+2	der	-	0	:	.	AR	ART	0	troch	troch.tri	+-+-+-
+3	Wel	+	1	.	.	NN	NN	1	troch	troch.tri	+-+-+-
+4	le	-	0	.	.	NN	NN	2	troch	troch.tri	+-+-+-
+5	blin	+	2	:	.	VV	VVINF	1	troch	troch.tri	+-+-+-
+6	ken	-	0	.	:	VV	VVINF	2	troch	troch.tri	+-+-+-
+
+1	dass	-	0	.	.	KO	KOUS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	al	+	1	:	.	PI	PIS	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	les	-	0	.	:	PI	PIS	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	ohn'	+	1	.	.	KO	KOUI	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	ein'	-	0	:	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	Geist	+	2	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	den	-	0	.	:	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	Gott	+	1	:	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	selbst	-	0	.	.	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	hält	+	2	.	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	muss	-	0	:	.	VM	VMFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	wan	+	2	.	:	VV	VVINF	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	ken	-	0	.	.	VV	VVINF	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	Al	-	1	.	.	ADV	ADV	1	iambic	iambic.tetra	-+-+-+-+
+2	lü	+	0	:	.	ADV	ADV	2	iambic	iambic.tetra	-+-+-+-+
+3	be	-	0	.	.	ADV	ADV	3	iambic	iambic.tetra	-+-+-+-+
+4	rall	+	2	.	.	ADV	ADV	4	iambic	iambic.tetra	-+-+-+-+
+5	ist	-	0	:	.	VA	VAFIN	0	iambic	iambic.tetra	-+-+-+-+
+6	dür	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+7	res	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+8	Holz	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Hin	-	0	.	.	ADV	ADV	1	iambic	iambic.di	-+-+-
+2	auf	+	2	.	:	ADV	ADV	2	iambic	iambic.di	-+-+-
+3	Hin	-	0	.	.	ADV	ADV	1	iambic	iambic.di	-+-+-
+4	auf	+	2	.	.	ADV	ADV	2	iambic	iambic.di	-+-+-
+
+1	Auf	+	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+2	dem	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	Stro	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	me	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	will	+	0	:	.	VM	VMFIN	0	troch	troch.tetra	+-+-+-+-
+6	ich	-	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+7	fah	+	2	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	ren	-	0	:	:	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Kup	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	peln	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	glei	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+5	chen	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+6	Bo	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	jen	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Schlo	+	2	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+9	te	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+10	Pfäh	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	len	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+2	ich	+	0	:	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+3	er	-	0	.	.	VV	VVFIN	1	iambic	iambic.tri	-+-+-+-
+4	wach	+	2	.	.	VV	VVFIN	2	iambic	iambic.tri	-+-+-+-
+5	te	-	0	:	.	VV	VVFIN	3	iambic	iambic.tri	-+-+-+-
+6	plötz	+	1	.	.	ADJ	ADJD	1	iambic	iambic.tri	-+-+-+-
+7	lich	-	0	.	:	ADJ	ADJD	2	iambic	iambic.tri	-+-+-+-
+
+1	Siehst	-	2	.	.	VV	VVFIN	0	iambic	iambic.chol.relaxed	-+-+-+--+
+2	Va	+	1	:	.	NN	NN	1	iambic	iambic.chol.relaxed	-+-+-+--+
+3	ter	-	0	.	:	NN	NN	2	iambic	iambic.chol.relaxed	-+-+-+--+
+4	du	+	0	.	.	PP	PPER	0	iambic	iambic.chol.relaxed	-+-+-+--+
+5	den	-	0	:	.	AR	ART	0	iambic	iambic.chol.relaxed	-+-+-+--+
+6	Erl	+	2	.	.	NN	NN	1	iambic	iambic.chol.relaxed	-+-+-+--+
+7	kö	-	0	.	.	NN	NN	2	iambic	iambic.chol.relaxed	-+-+-+--+
+8	nig	-	0	:	.	NN	NN	3	iambic	iambic.chol.relaxed	-+-+-+--+
+9	nicht	+	1	.	.	PT	PTKNEG	0	iambic	iambic.chol.relaxed	-+-+-+--+
+
+1	Er	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+2	saß	+	1	:	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+-
+3	beim	-	0	.	.	AP	APPRART	0	iambic	iambic.tri	-+-+-+-
+4	Kö	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	nigs	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	mah	+	1	.	.	NN	NN	3	iambic	iambic.tri	-+-+-+-
+7	le	-	0	.	:	NN	NN	4	iambic	iambic.tri	-+-+-+-
+
+1	Doch	-	0	.	.	KO	KON	0	iambic	iambic.chol.relaxed	-+-+--+
+2	lu	+	1	:	.	ADJ	ADJD	1	iambic	iambic.chol.relaxed	-+-+--+
+3	stig	-	0	.	.	ADJ	ADJD	2	iambic	iambic.chol.relaxed	-+-+--+
+4	leuch	+	2	.	.	VV	VVFIN	1	iambic	iambic.chol.relaxed	-+-+--+
+5	tet	-	0	:	.	VV	VVFIN	2	iambic	iambic.chol.relaxed	-+-+--+
+6	der	-	0	.	.	AR	ART	0	iambic	iambic.chol.relaxed	-+-+--+
+7	Mai	+	2	.	:	NN	NN	0	iambic	iambic.chol.relaxed	-+-+--+
+
+1	Seh	+	1	.	.	VV	VVFIN	0	troch	troch.tetra	+-+-+-+-
+2	kein	-	0	:	.	PI	PIAT	0	troch	troch.tetra	+-+-+-+-
+3	Säug	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	ling	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	aus	+	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+6	der	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+7	Wie	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	ge	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Es	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+2	schwankt	+	2	:	.	VV	VVFIN	0	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+3	der	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+4	ro	+	1	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+5	te	-	0	:	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+6	Wein	+	2	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+7	an	-	0	.	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+8	ro	+	1	:	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+9	sti	-	0	.	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+10	gen	-	0	.	.	ADJ	ADJA	3	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+11	Git	+	2	:	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+12	tern	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+-+-+--+-
+
+1	Du	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+2	mei	+	0	:	.	PP	PPOSAT	1	iambic	iambic.tri	-+-+-+-
+3	ner	-	0	.	.	PP	PPOSAT	2	iambic	iambic.tri	-+-+-+-
+4	Lust	+	2	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+5	und	-	0	:	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+6	We	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+7	hen	-	0	.	:	NN	NN	2	iambic	iambic.tri	-+-+-+-
+
+1	In	-	0	.	.	AP	APPR	0	iambic	iambic.di	-+-+-
+2	eu	+	1	.	.	PP	PPOSAT	1	iambic	iambic.di	-+-+-
+3	erm	-	0	.	.	PP	PPOSAT	2	iambic	iambic.di	-+-+-
+4	Scho	+	2	.	.	NN	NN	1	iambic	iambic.di	-+-+-
+
+1	Die	-	0	.	.	AR	ART	0	amphi	amphi.tri.plus	-+--+--+-+
+2	Schwal	+	2	.	.	NN	NN	1	amphi	amphi.tri.plus	-+--+--+-+
+3	be	-	0	:	.	NN	NN	2	amphi	amphi.tri.plus	-+--+--+-+
+4	fliegt	-	1	.	.	VV	VVFIN	0	amphi	amphi.tri.plus	-+--+--+-+
+5	ü	+	0	.	.	AP	APPR	1	amphi	amphi.tri.plus	-+--+--+-+
+6	ber	-	0	.	.	AP	APPR	2	amphi	amphi.tri.plus	-+--+--+-+
+7	den	-	0	:	.	AR	ART	0	amphi	amphi.tri.plus	-+--+--+-+
+8	E	+	2	.	.	NN	NN	1	amphi	amphi.tri.plus	-+--+--+-+
+9	rie-	-	0	.	.	NN	NN	2	amphi	amphi.tri.plus	-+--+--+-+
+10	See	+	1	.	:	NN	NN	3	amphi	amphi.tri.plus	-+--+--+-+
+
+1	Je	+	0	.	.	PD	PDAT	1	troch	troch.tetra	+-+-+-+-
+2	ner	-	0	:	.	PD	PDAT	2	troch	troch.tetra	+-+-+-+-
+3	mag	+	1	.	.	VM	VMFIN	0	troch	troch.tetra	+-+-+-+-
+4	der	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+5	Hel	+	1	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	ler	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	scho	+	2	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	nen	-	0	:	:	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	In	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+2	ei	+	0	:	.	AR	ART	1	iambic	iambic.penta	-+-+-+-+-+-
+3	nem	-	0	.	.	AR	ART	2	iambic	iambic.penta	-+-+-+-+-+-
+4	Fen	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+5	ster	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+6	fängt	+	0	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+7	ein	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+8	Jun	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+9	ge	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+10	Flie	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	gen	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	auch	-	0	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Mäd	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	chen	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	hel	+	2	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+5	le	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+6	die	+	0	.	:	PD	PDAT	1	iambic	iambic.penta	-+-+-+-+-+-
+7	sem	-	0	.	.	PD	PDAT	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Pfer	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	de	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	sprun	+	1	.	.	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+-
+11	ge	-	0	:	.	NN	NN	4	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Som	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+2	mer	-	0	:	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+3	mich	+	0	.	.	PR	PRF	0	troch	troch.tetra	+-+-+-+-
+4	mit	-	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+5	Frucht	+	1	:	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+6	und	-	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+7	Myr	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	then	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	--+-+--+-+
+2	ent	-	0	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	--+-+--+-+
+3	reißt	+	2	:	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	--+-+--+-+
+4	die	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	--+-+--+-+
+5	Keu	+	1	.	.	NN	NN	1	iambic	iambic.relaxed.syll	--+-+--+-+
+6	le	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	--+-+--+-+
+7	dem	-	0	:	.	AR	ART	0	iambic	iambic.relaxed.syll	--+-+--+-+
+8	näch	+	0	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	--+-+--+-+
+9	sten	-	0	.	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	--+-+--+-+
+10	gleich	+	1	.	:	ADV	ADV	0	iambic	iambic.relaxed.syll	--+-+--+-+
+
+1	In	+	0	.	.	ADV	ADV	1	troch	troch.penta	+-+-+-+-+
+2	ein	-	0	:	.	ADV	ADV	2	troch	troch.penta	+-+-+-+-+
+3	an	+	2	.	.	ADV	ADV	3	troch	troch.penta	+-+-+-+-+
+4	der	-	0	.	.	ADV	ADV	4	troch	troch.penta	+-+-+-+-+
+5	dicht	+	1	:	.	ADJ	ADJD	0	troch	troch.penta	+-+-+-+-+
+6	hin	-	0	.	.	VV	VVPP	1	troch	troch.penta	+-+-+-+-+
+7	ein	+	2	.	.	VV	VVPP	2	troch	troch.penta	+-+-+-+-+
+8	ge	-	0	:	.	VV	VVPP	3	troch	troch.penta	+-+-+-+-+
+9	hakt	+	1	.	:	VV	VVPP	4	troch	troch.penta	+-+-+-+-+
+
+1	e	+	1	.	.	KO	KOUS	1	troch	troch.tetra	+-+-+-+-
+2	he	-	0	:	.	KO	KOUS	2	troch	troch.tetra	+-+-+-+-
+3	wir	+	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+4	es	-	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+5	in	+	2	:	.	PT	PTKVZ	1	troch	troch.tetra	+-+-+-+-
+6	ne	-	0	.	.	PT	PTKVZ	2	troch	troch.tetra	+-+-+-+-
+7	wer	+	1	.	.	VA	VAINF	1	troch	troch.tetra	+-+-+-+-
+8	den	-	0	:	:	VA	VAINF	2	troch	troch.tetra	+-+-+-+-
+
+1	Der	-	0	.	.	AR	ART	0	amphi	amphi.tri	-+--+--+-
+2	Bäu	+	2	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+3	me	-	0	:	.	NN	NN	2	amphi	amphi.tri	-+--+--+-
+4	gi	-	0	.	.	ADJ	ADJA	1	amphi	amphi.tri	-+--+--+-
+5	gan	+	1	.	.	ADJ	ADJA	2	amphi	amphi.tri	-+--+--+-
+6	ti	-	0	.	.	ADJ	ADJA	3	amphi	amphi.tri	-+--+--+-
+7	sche	-	0	:	.	ADJ	ADJA	4	amphi	amphi.tri	-+--+--+-
+8	Schat	+	2	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+9	ten	-	0	.	:	NN	NN	2	amphi	amphi.tri	-+--+--+-
+
+1	von	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+2	bun	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+3	ten	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+4	Pfer	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	den	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	al	+	1	.	.	PI	PIS	1	iambic	iambic.penta	-+-+-+-+-+
+7	le	-	0	.	.	PI	PIS	2	iambic	iambic.penta	-+-+-+-+-+
+8	aus	+	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+9	dem	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+10	Land	+	2	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Doch	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+
+2	al	+	2	:	.	PI	PIS	1	iambic	iambic.penta	-+-+-+-+-+
+3	les	-	0	.	:	PI	PIS	2	iambic	iambic.penta	-+-+-+-+-+
+4	was	+	0	.	.	PR	PRELS	0	iambic	iambic.penta	-+-+-+-+-+
+5	uns	-	0	:	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+6	an	+	2	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+
+7	rührt	-	0	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+
+8	dich	+	2	:	:	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+9	und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+
+10	mich	+	2	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Daß	-	0	.	.	KO	KOUS	0	iambic	iambic.penta	-+-+-+-+-+-
+2	al	+	1	:	.	PI	PIAT	1	iambic	iambic.penta	-+-+-+-+-+-
+3	le	-	0	.	.	PI	PIAT	2	iambic	iambic.penta	-+-+-+-+-+-
+4	Mau	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+5	ern	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+6	von	+	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+7	dem	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+8	Lär	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	me	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	be	+	1	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ben	-	0	:	:	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+-
+2	man	+	0	:	.	PI	PIS	0	iambic	iambic.tetra	-+-+-+-+-
+3	in	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+-
+4	Mähr	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+5	chen	-	0	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+6	und	+	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+-
+7	Ge	-	0	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+8	dich	+	2	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+9	ten	-	0	.	:	NN	NN	3	iambic	iambic.tetra	-+-+-+-+-
+
+1	Jetzt	-	0	.	.	ADV	ADV	0	iambic	iambic.tetra	-+-+-+-+
+2	kenn’	+	2	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+3	ich	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+4	dich	+	0	.	:	PR	PRF	0	iambic	iambic.tetra	-+-+-+-+
+5	Gott	-	0	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+6	steh’	+	1	.	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+7	mir	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+8	bei	+	2	:	.	PT	PTKVZ	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Dämm	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+2	rung	-	0	:	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+3	will	+	0	.	.	VM	VMFIN	0	troch	troch.tetra	+-+-+-+-
+4	die	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+5	Flü	+	1	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	gel	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	sprei	+	2	.	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+-
+8	ten	-	0	:	:	VV	VVFIN	2	troch	troch.tetra	+-+-+-+-
+
+1	So	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+-
+2	steh	+	2	:	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+-
+3	ich	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+4	hier	+	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+-
+5	al	-	0	:	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+-
+6	lei	+	2	.	.	ADV	ADV	2	iambic	iambic.tri	-+-+-+-
+7	ne	-	0	.	:	ADV	ADV	3	iambic	iambic.tri	-+-+-+-
+
+1	Zu	+	0	.	.	PT	PTKZU	0	troch	troch.tetra	+-+-+-+-
+2	ent	-	0	:	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+3	beh	+	2	.	.	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+4	ren	-	0	.	:	VV	VVINF	3	troch	troch.tetra	+-+-+-+-
+5	zu	+	0	:	.	PT	PTKZU	0	troch	troch.tetra	+-+-+-+-
+6	be	-	0	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+7	geh	+	2	.	.	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+8	ren	-	0	:	.	VV	VVINF	3	troch	troch.tetra	+-+-+-+-
+
+1	Ein	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	hertz	+	2	:	:	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	aus	-	0	.	.	AP	APPR	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	wel	+	0	.	.	PR	PRELS	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	chem	-	0	:	.	PR	PRELS	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	nichts	+	1	.	.	PI	PIS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	als	-	0	.	.	KO	KOKOM	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	mein	+	0	:	.	PP	PPOSAT	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	ver	-	0	.	.	VV	VVFIN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	der	+	2	.	.	VV	VVFIN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	ben	-	0	:	.	VV	VVFIN	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	quil	+	1	.	.	VV	VVFIN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	let	-	0	.	.	VV	VVFIN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	Bis	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+2	uns	+	0	:	.	PP	PPOSAT	1	iambic	iambic.tetra	-+-+-+-+
+3	re	-	0	.	.	PP	PPOSAT	2	iambic	iambic.tetra	-+-+-+-+
+4	Hand	+	1	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	in	-	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+6	A	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	sche	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	stiebt	+	1	:	:	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Herr	-	0	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+
+2	Rit	+	2	:	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+3	ter	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+4	ist	+	0	.	.	VA	VAFIN	0	iambic	iambic.relaxed.syll	-+-+--+-+
+5	Eu	-	0	:	.	PP	PPOSAT	1	iambic	iambic.relaxed.syll	-+-+--+-+
+6	re	-	0	.	.	PP	PPOSAT	2	iambic	iambic.relaxed.syll	-+-+--+-+
+7	Lieb	+	1	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+
+8	so	-	0	.	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+-+--+-+
+9	heiß	+	2	:	.	ADJ	ADJD	0	iambic	iambic.relaxed.syll	-+-+--+-+
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	dir	+	0	:	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+3	die	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+4	rech	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+5	te	-	0	:	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+6	Stra	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	ße	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	weist	+	1	:	:	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Eilt	-	0	.	.	VV	VVFIN	0	iambic	iambic.relaxed.syll	-+-+--+-
+2	heim	+	2	:	.	PT	PTKVZ	0	iambic	iambic.relaxed.syll	-+-+--+-
+3	mit	-	0	.	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+-
+4	sor	+	1	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+-+--+-
+5	gen	-	0	.	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+-+--+-
+6	der	-	0	:	.	ADJ	ADJA	3	iambic	iambic.relaxed.syll	-+-+--+-
+7	See	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-
+8	le	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-
+
+1	Als	-	0	.	.	KO	KOUS	0	iambic	iambic.tri	-+-+-+-
+2	uns	+	0	:	.	PP	PPOSAT	1	iambic	iambic.tri	-+-+-+-
+3	re	-	0	.	.	PP	PPOSAT	2	iambic	iambic.tri	-+-+-+-
+4	Lie	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	be	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	wer	+	1	.	.	VA	VAINF	1	iambic	iambic.tri	-+-+-+-
+7	den	-	0	.	:	VA	VAINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Doch	+	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+2	zu	-	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+3	licht	+	2	.	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+4	ist's	-	0	.	.	VA	VAFIN	0	troch	troch.tetra	+-+-+-+-
+5	mir	+	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+6	zum	-	0	.	.	AP	APPRART	0	troch	troch.tetra	+-+-+-+-
+7	Schrei	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	ben	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Im	-	0	.	.	AP	APPRART	0	iambic	iambic.tetra	-+-+-+-+
+2	Fahr	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	stuhl	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	schacht	+	1	.	:	NN	NN	3	iambic	iambic.tetra	-+-+-+-+
+5	im	-	0	:	.	AP	APPRART	0	iambic	iambic.tetra	-+-+-+-+
+6	Bau	+	1	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	am	-	0	.	.	AP	APPRART	0	iambic	iambic.tetra	-+-+-+-+
+8	Krahn	+	2	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Ein	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	Welt	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	ge	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	richt	+	1	.	.	NN	NN	3	iambic	iambic.tetra	-+-+-+-+
+5	ist	-	0	:	.	VA	VAFIN	0	iambic	iambic.tetra	-+-+-+-+
+6	die	+	0	.	.	PD	PDAT	1	iambic	iambic.tetra	-+-+-+-+
+7	ser	-	0	.	.	PD	PDAT	2	iambic	iambic.tetra	-+-+-+-+
+8	Krieg	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	a	+	0	.	.	ADV	ADV	1	iambic	iambic.tetra.invert	+--+-+-+
+2	ber	-	0	:	.	ADV	ADV	2	iambic	iambic.tetra.invert	+--+-+-+
+3	durchs	-	0	.	.	AP	APPRART	0	iambic	iambic.tetra.invert	+--+-+-+
+4	Sprach	+	2	.	.	NN	NN	1	iambic	iambic.tetra.invert	+--+-+-+
+5	rohr	-	0	.	.	NN	NN	2	iambic	iambic.tetra.invert	+--+-+-+
+6	fragt	+	1	:	.	VV	VVFIN	0	iambic	iambic.tetra.invert	+--+-+-+
+7	er	-	0	.	.	PP	PPER	0	iambic	iambic.tetra.invert	+--+-+-+
+8	an	+	2	.	:	PT	PTKVZ	0	iambic	iambic.tetra.invert	+--+-+-+
+
+1	Singt	-	0	.	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+
+2	stets	+	2	:	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+3	die	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+4	Nach	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+
+5	ti	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+
+6	gall	+	1	.	:	NN	NN	3	iambic	iambic.tri	-+-+-+
+
+1	So	+	0	.	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+
+2	voll	-	0	:	.	ADJ	ADJD	0	troch	troch.tetra	+-+-+-+
+3	Un	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	ruh	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	und	+	0	:	.	KO	KON	0	troch	troch.tetra	+-+-+-+
+6	zer	-	0	.	.	VV	VVPP	1	troch	troch.tetra	+-+-+-+
+7	streut	+	2	.	:	VV	VVPP	2	troch	troch.tetra	+-+-+-+
+
+1	Ver	-	0	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+-+--+-+
+2	gilb	+	1	:	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+-+--+-+
+3	ten	-	0	.	.	ADJ	ADJA	3	iambic	iambic.relaxed.syll	-+-+--+-+
+4	Schä	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+5	deln	-	0	:	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+6	sie	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-+
+7	tru	+	2	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+8	gen	-	0	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+9	auch	+	1	:	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+-+--+-+
+
+1	Am	-	0	.	.	AP	APPRART	0	iambic	iambic.tri	-+-+-+
+2	Stran	+	2	:	.	NN	NN	1	iambic	iambic.tri	-+-+-+
+3	de	-	0	.	.	NN	NN	2	iambic	iambic.tri	-+-+-+
+4	weht	+	1	.	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+
+5	das	-	0	:	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+6	Gras	+	2	.	:	NN	NN	0	iambic	iambic.tri	-+-+-+
+
+1	Wenn	+	0	.	.	KO	KOUS	0	troch	troch.tetra	+-+-+-+
+2	du	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+3	in	+	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+4	der	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+5	Win	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+6	ter	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+7	nacht	+	1	.	:	NN	NN	3	troch	troch.tetra	+-+-+-+
+
+1	Kann	-	0	.	.	VM	VMFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+2	al	+	0	:	.	PI	PIAT	1	iambic	iambic.penta	-+-+-+-+-+-
+3	ler	-	0	.	.	PI	PIAT	2	iambic	iambic.penta	-+-+-+-+-+-
+4	an	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+5	dern	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+6	Freu	+	1	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	den	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Glanz	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+9	ver	-	0	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+10	ach	+	2	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	+	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+2	das	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	Wir	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	ren	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	bunt	+	1	:	.	ADJ	ADJD	0	troch	troch.tetra	+-+-+-+-
+6	und	-	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+7	bun	+	2	.	.	ADJ	ADJD	1	troch	troch.tetra	+-+-+-+-
+8	ter	-	0	:	:	ADJ	ADJD	2	troch	troch.tetra	+-+-+-+-
+
+1	ob	-	0	.	.	KO	KOUS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	den'	+	0	:	.	PD	PDS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	ein	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	schar	+	1	.	.	ADJ	ADJA	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	fes	-	0	:	.	ADJ	ADJA	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	Schwert	+	2	.	:	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	an	-	0	.	.	AP	APPR	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	zar	+	1	:	.	ADJ	ADJA	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	ter	-	0	.	.	ADJ	ADJA	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	Sei	+	2	.	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	de	-	0	:	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	schwebt	+	1	.	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Um	-	0	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+--+-+-+
+2	ring	+	1	:	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+--+-+-+
+3	te	-	0	.	.	VV	VVFIN	3	iambic	iambic.relaxed.syll	-+--+-+-+
+4	mein	-	0	.	.	PP	PPOSAT	0	iambic	iambic.relaxed.syll	-+--+-+-+
+5	Bett	+	2	.	:	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+-+
+6	ich	-	0	:	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+--+-+-+
+7	hör	+	2	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+--+-+-+
+8	te	-	0	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+--+-+-+
+9	auch	+	1	:	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+--+-+-+
+
+1	So	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+2	wird	+	1	:	.	VA	VAFIN	0	iambic	iambic.tri	-+-+-+
+3	mein	-	0	.	.	PP	PPOSAT	0	iambic	iambic.tri	-+-+-+
+4	Herz	+	1	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+
+5	nicht	-	0	:	.	PT	PTKNEG	0	iambic	iambic.tri	-+-+-+
+6	alt	+	2	.	:	ADJ	ADJD	0	iambic	iambic.tri	-+-+-+
+
+1	Dich	-	2	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+-
+2	sah	+	0	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+-
+3	ich	-	0	.	:	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+-
+4	und	+	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+-
+5	die	-	0	:	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+-
+6	mil	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+-
+7	de	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+-
+8	Freu	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+9	de	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+-
+2	Wan	+	1	:	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+3	gen	-	0	.	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+4	Ziehr	+	2	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+5	ver	-	0	:	.	VV	VVFIN	1	iambic	iambic.tri	-+-+-+-
+6	blei	+	2	.	.	VV	VVFIN	2	iambic	iambic.tri	-+-+-+-
+7	chet	-	0	.	:	VV	VVFIN	3	iambic	iambic.tri	-+-+-+-
+
+1	Da	-	0	.	.	KO	KOUS	1	amphi	amphi.tri	-+--+--+-
+2	mit	+	0	.	.	KO	KOUS	2	amphi	amphi.tri	-+--+--+-
+3	er	-	0	:	.	PP	PPER	0	amphi	amphi.tri	-+--+--+-
+4	die	-	0	.	.	AR	ART	0	amphi	amphi.tri	-+--+--+-
+5	Frist	+	2	.	.	NN	NN	0	amphi	amphi.tri	-+--+--+-
+6	nicht	-	0	.	.	PT	PTKNEG	0	amphi	amphi.tri	-+--+--+-
+7	ver	-	0	:	.	VV	VVFIN	1	amphi	amphi.tri	-+--+--+-
+8	feh	+	2	.	.	VV	VVFIN	2	amphi	amphi.tri	-+--+--+-
+9	le	-	0	.	:	VV	VVFIN	3	amphi	amphi.tri	-+--+--+-
+
+1	Ge	-	0	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+2	stir	+	2	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+3	ne	-	0	.	:	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+-
+4	spie	+	2	.	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+-
+5	gelnd	-	0	:	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+-
+6	sich	+	0	.	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+-
+7	be	-	0	.	:	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+8	schau'n	+	1	:	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+9	das	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+10	Blin	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ken	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+2	auf	+	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+3	das	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+4	Grab	+	2	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	drei	-	0	:	.	CA	CARD	0	iambic	iambic.tetra	-+-+-+-+
+6	Schip	+	1	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	pen	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	Sand	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+
+2	seit	+	0	:	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+
+3	ab	-	2	.	.	ADV	ADV	2	iambic	iambic.tri	-+-+-+
+4	liegt	+	0	.	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+
+5	die	-	0	:	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+6	Stadt	+	2	.	:	NN	NN	0	iambic	iambic.tri	-+-+-+
+
+1	Vor	-	0	.	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+-
+2	bei	+	2	:	:	ADV	ADV	2	iambic	iambic.tri	-+-+-+-
+3	ver	-	0	.	.	VV	VVFIN	1	iambic	iambic.tri	-+-+-+-
+4	weht	+	2	.	.	VV	VVFIN	2	iambic	iambic.tri	-+-+-+-
+5	nie	-	0	:	:	ADV	ADV	0	iambic	iambic.tri	-+-+-+-
+6	wie	+	2	.	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+-
+7	der	-	0	.	.	ADV	ADV	2	iambic	iambic.tri	-+-+-+-
+
+1	Hier	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+2	in	+	0	:	.	AP	APPR	0	iambic	iambic.tri	-+-+-+
+3	der	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+4	Ein	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+
+5	sam	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+
+6	keit	+	1	.	:	NN	NN	3	iambic	iambic.tri	-+-+-+
+
+1	Drei	-	0	.	.	CA	CARD	0	iambic	iambic.relaxed.syll	-+-+--+-
+2	Ta	+	2	:	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-
+3	ge	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-
+4	will	+	0	.	.	VM	VMFIN	0	iambic	iambic.relaxed.syll	-+-+--+-
+5	ich	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-
+6	dir	-	0	:	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-
+7	schen	+	2	.	.	VV	VVINF	1	iambic	iambic.relaxed.syll	-+-+--+-
+8	ken	-	0	.	:	VV	VVINF	2	iambic	iambic.relaxed.syll	-+-+--+-
+
+1	Das	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+2	trü	+	1	:	.	ADJ	ADJA	1	iambic	iambic.tri	-+-+-+
+3	be	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tri	-+-+-+
+4	Er	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+
+5	den	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+
+6	leid	+	1	.	:	NN	NN	3	iambic	iambic.tri	-+-+-+
+
+1	nimm	-	2	.	.	VV	VVIMP	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	dein	+	0	:	.	PP	PPOSAT	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	Ver	-	0	.	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	häng	+	1	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	nis	-	0	:	.	NN	NN	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	an	+	2	.	:	PT	PTKVZ	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	Laß	-	2	.	.	VV	VVIMP	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	al	+	0	:	.	PI	PIS	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	les	-	0	.	.	PI	PIS	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	un	+	2	.	.	ADJ	ADJD	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	be	-	0	:	.	ADJ	ADJD	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	reut	+	1	.	.	ADJ	ADJD	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	So	-	0	.	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+-+--+-
+2	still	+	2	:	.	ADJ	ADJD	0	iambic	iambic.relaxed.syll	-+-+--+-
+3	wars	-	0	.	.	VA	VAFIN	0	iambic	iambic.relaxed.syll	-+-+--+-
+4	rings	+	1	.	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+-+--+-
+5	in	-	0	:	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+-
+6	der	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+-
+7	Run	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-
+8	de	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	wie	+	0	:	.	PW	PWAV	0	iambic	iambic.penta	-+-+-+-+-+-
+3	ge	-	0	.	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+-
+4	trof	+	1	.	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+-
+5	fen	-	0	:	.	VV	VVPP	3	iambic	iambic.penta	-+-+-+-+-+-
+6	aus	+	0	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ein	-	0	.	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+8	an	+	2	:	.	ADV	ADV	3	iambic	iambic.penta	-+-+-+-+-+-
+9	der	-	0	.	.	ADV	ADV	4	iambic	iambic.penta	-+-+-+-+-+-
+10	hin	+	1	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ken	-	0	:	:	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+2	al	+	0	:	.	PI	PIAT	1	iambic	iambic.tri	-+-+-+-
+3	ler	-	0	.	.	PI	PIAT	2	iambic	iambic.tri	-+-+-+-
+4	Qual	+	1	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+5	ent	-	0	:	.	VV	VVPP	1	iambic	iambic.tri	-+-+-+-
+6	nom	+	2	.	.	VV	VVPP	2	iambic	iambic.tri	-+-+-+-
+7	men	-	0	.	:	VV	VVPP	3	iambic	iambic.tri	-+-+-+-
+
+1	Bis	-	0	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+2	wei	+	1	:	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+3	len	-	0	.	.	ADV	ADV	3	iambic	iambic.penta	-+-+-+-+-+-
+4	schwillt	+	0	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+5	Ge	-	0	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+6	heul	+	2	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+7	aus	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+8	dump	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+9	fer	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+10	Re	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	gung	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Be	-	0	.	.	ADJ	ADJD	1	iambic	iambic.relaxed.syll	-+--+-+
+2	hag	+	1	:	.	ADJ	ADJD	2	iambic	iambic.relaxed.syll	-+--+-+
+3	lich	-	0	.	.	ADJ	ADJD	3	iambic	iambic.relaxed.syll	-+--+-+
+4	ins	-	0	.	.	AP	APPRART	0	iambic	iambic.relaxed.syll	-+--+-+
+5	Feld	+	2	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+
+6	hin	-	0	:	.	PT	PTKVZ	1	iambic	iambic.relaxed.syll	-+--+-+
+7	aus	+	1	.	:	PT	PTKVZ	2	iambic	iambic.relaxed.syll	-+--+-+
+
+1	Erst	-	0	.	.	ADV	ADV	0	iambic	iambic.chol.relaxed	-+-+-+--+
+2	drau	+	2	:	.	ADV	ADV	1	iambic	iambic.chol.relaxed	-+-+-+--+
+3	ßen	-	0	.	:	ADV	ADV	2	iambic	iambic.chol.relaxed	-+-+-+--+
+4	in	+	0	.	.	AP	APPR	0	iambic	iambic.chol.relaxed	-+-+-+--+
+5	der	-	0	:	.	AR	ART	0	iambic	iambic.chol.relaxed	-+-+-+--+
+6	frei	+	1	.	.	ADJ	ADJA	1	iambic	iambic.chol.relaxed	-+-+-+--+
+7	en	-	0	.	.	ADJ	ADJA	2	iambic	iambic.chol.relaxed	-+-+-+--+
+8	Na	-	0	:	.	NN	NN	1	iambic	iambic.chol.relaxed	-+-+-+--+
+9	tur	+	2	.	.	NN	NN	2	iambic	iambic.chol.relaxed	-+-+-+--+
+
+1	Von	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+2	Draht	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+3	der	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+4	Netz	+	1	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	an	-	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+6	Net	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	ze	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	spinnt	+	1	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	in	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+2	Stie	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	fel	-	0	.	:	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	Maul	+	1	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	und	-	0	:	:	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+6	Oh	+	1	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	ren	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	Sand	+	2	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	un	+	2	:	.	AP	APPR	1	iambic	iambic.tetra	-+-+-+-+
+3	ter	-	0	.	.	AP	APPR	2	iambic	iambic.tetra	-+-+-+-+
+4	uns	+	0	.	:	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+5	ge	-	0	:	.	ADJ	ADJD	1	iambic	iambic.tetra	-+-+-+-+
+6	sät	+	1	.	.	ADJ	ADJD	2	iambic	iambic.tetra	-+-+-+-+
+7	den	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+8	Geist	+	2	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	--+-+--+-+
+2	das	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	--+-+--+-+
+3	Schiffs	+	1	:	.	NN	NN	1	iambic	iambic.relaxed.syll	--+-+--+-+
+4	volk	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	--+-+--+-+
+5	ju	+	2	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	--+-+--+-+
+6	belt	-	0	.	:	VV	VVFIN	2	iambic	iambic.relaxed.syll	--+-+--+-+
+7	Halt	-	0	:	.	VV	VVIMP	0	iambic	iambic.relaxed.syll	--+-+--+-+
+8	aus	+	2	.	.	PT	PTKVZ	0	iambic	iambic.relaxed.syll	--+-+--+-+
+9	Hal	-	0	.	:	NE	NE	1	iambic	iambic.relaxed.syll	--+-+--+-+
+10	lo	+	2	:	.	NE	NE	2	iambic	iambic.relaxed.syll	--+-+--+-+
+
+1	fast	-	1	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+2	schon	+	0	:	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+3	ent	-	0	.	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+-
+4	wach	+	2	.	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+-
+5	sen	-	0	:	:	VV	VVPP	3	iambic	iambic.penta	-+-+-+-+-+-
+6	mit	+	1	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ten	-	0	.	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+8	in	+	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+9	dem	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+10	Schwun	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ge	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+2	fühl	+	2	:	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+3	der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+4	Stun	+	1	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+5	den	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+6	Wei	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ser	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	kaum	+	0	:	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+9	mehr	-	0	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+10	rück	+	2	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+-
+11	en	-	0	:	.	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	In	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+2	mei	+	0	:	.	PP	PPOSAT	1	iambic	iambic.tetra	-+-+-+-+
+3	nem	-	0	.	.	PP	PPOSAT	2	iambic	iambic.tetra	-+-+-+-+
+4	Her	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+5	zen	-	0	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+6	wel	+	1	.	.	PW	PWAT	1	iambic	iambic.tetra	-+-+-+-+
+7	che	-	0	.	.	PW	PWAT	2	iambic	iambic.tetra	-+-+-+-+
+8	Glut	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Be	+	2	.	.	VV	VVPP	1	troch	troch.di	+-+-
+2	sen	-	0	:	:	VV	VVPP	2	troch	troch.di	+-+-
+3	Be	+	2	.	.	NN	NN	1	troch	troch.di	+-+-
+4	sen	-	0	.	.	NN	NN	2	troch	troch.di	+-+-
+
+1	und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+2	harrn	+	1	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+3	des	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+4	Winks	+	2	.	:	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+5	den	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+6	Him	+	1	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	mel	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	zu	+	0	:	.	PT	PTKZU	0	iambic	iambic.penta	-+-+-+-+-+-
+9	zer	-	0	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+-
+10	flei	+	2	.	.	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+-
+11	schen	-	0	:	.	VV	VVINF	3	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+-
+2	ro	+	1	:	.	ADJ	ADJA	1	iambic	iambic.tri	-+-+-+-
+3	ten	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tri	-+-+-+-
+4	Trop	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	fen	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	glit	+	1	.	.	VV	VVFIN	1	iambic	iambic.tri	-+-+-+-
+7	ten	-	0	.	:	VV	VVFIN	2	iambic	iambic.tri	-+-+-+-
+
+1	Schwim	+	1	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+2	men	-	0	:	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+3	wie	-	0	.	.	KO	KOKOM	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	Son	+	2	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+5	nen	-	0	:	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+6	licht	+	0	.	.	NN	NN	3	iambic	iambic.penta.invert	+--+-+-+-+
+7	durch	-	0	.	.	AP	APPR	0	iambic	iambic.penta.invert	+--+-+-+-+
+8	dunk	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta.invert	+--+-+-+-+
+9	len	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta.invert	+--+-+-+-+
+10	Wald	+	2	.	:	NN	NN	0	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	Mut	+	1	.	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+
+2	ger	-	0	:	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+
+3	Au	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	gen	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	lich	+	1	:	.	ADJ	ADJD	1	troch	troch.tetra	+-+-+-+
+6	ter	-	0	.	.	ADJ	ADJD	2	troch	troch.tetra	+-+-+-+
+7	Schein	+	2	.	:	NN	NN	0	troch	troch.tetra	+-+-+-+
+
+1	Al	+	2	.	.	PI	PIAT	1	troch	troch.tetra	+-+-+-+-
+2	le	-	0	:	.	PI	PIAT	2	troch	troch.tetra	+-+-+-+-
+3	sol	+	1	.	.	PI	PIAT	1	troch	troch.tetra	+-+-+-+-
+4	len	-	0	.	.	PI	PIAT	2	troch	troch.tetra	+-+-+-+-
+5	Schwer	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	ter	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	wer	+	1	.	.	VA	VAINF	1	troch	troch.tetra	+-+-+-+-
+8	den	-	0	:	:	VA	VAINF	2	troch	troch.tetra	+-+-+-+-
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+-+--+-+
+2	See	+	2	:	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+-+--+-+
+3	le	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+-+--+-+
+4	der	+	0	.	.	PR	PRELS	0	iambic	iambic.relaxed.syll	-+-+-+--+-+
+5	im	-	0	:	.	AP	APPRART	0	iambic	iambic.relaxed.syll	-+-+-+--+-+
+6	Le	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+-+--+-+
+7	ben	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+-+--+-+
+8	ihr	-	0	:	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+-+--+-+
+9	gött	+	1	.	.	ADJ	ADJD	1	iambic	iambic.relaxed.syll	-+-+-+--+-+
+10	lich	-	0	.	.	ADJ	ADJD	2	iambic	iambic.relaxed.syll	-+-+-+--+-+
+11	Recht	+	2	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+-+-+--+-+
+
+1	Löscht	+	1	.	.	VV	VVFIN	0	troch	troch.penta	+-+-+-+-+
+2	ihr	-	0	:	.	PP	PPER	0	troch	troch.penta	+-+-+-+-+
+3	aus	+	2	.	:	PT	PTKVZ	0	troch	troch.penta	+-+-+-+-+
+4	dann	-	0	.	.	ADV	ADV	0	troch	troch.penta	+-+-+-+-+
+5	hat	+	2	:	.	VA	VAFIN	0	troch	troch.penta	+-+-+-+-+
+6	die	-	0	.	.	AR	ART	0	troch	troch.penta	+-+-+-+-+
+7	See	+	1	.	.	NN	NN	1	troch	troch.penta	+-+-+-+-+
+8	le	-	0	:	.	NN	NN	2	troch	troch.penta	+-+-+-+-+
+9	Ruh	+	2	.	.	NN	NN	0	troch	troch.penta	+-+-+-+-+
+
+1	Vo	-	0	.	.	ADV	ADV	1	iambic	iambic.di	-+-+-
+2	rü	+	2	:	.	ADV	ADV	2	iambic	iambic.di	-+-+-
+3	ber	-	0	.	.	ADV	ADV	3	iambic	iambic.di	-+-+-
+4	ei	+	1	.	.	VV	VVPP	1	iambic	iambic.di	-+-+-
+5	lend	-	0	:	:	VV	VVPP	2	iambic	iambic.di	-+-+-
+
+1	Nachts	+	2	.	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+
+2	in	-	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+3	Wal	+	1	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	des	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	ein	+	2	:	.	NN	NN	3	troch	troch.tetra	+-+-+-+
+6	sam	-	0	.	.	NN	NN	4	troch	troch.tetra	+-+-+-+
+7	keit	+	1	.	:	NN	NN	5	troch	troch.tetra	+-+-+-+
+
+1	Stir	+	2	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+2	ne	-	0	:	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+3	und	-	0	.	.	KO	KON	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	Hän	+	2	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+5	de	-	0	:	:	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+6	von	+	0	.	.	AP	APPR	0	iambic	iambic.penta.invert	+--+-+-+-+
+7	Ge	-	0	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+8	dan	+	2	:	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+9	ken	-	0	.	.	NN	NN	3	iambic	iambic.penta.invert	+--+-+-+-+
+10	blink	+	1	.	.	VV	VVFIN	0	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	an	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+2	ei	+	0	:	.	AR	ART	1	iambic	iambic.penta	-+-+-+-+-+
+3	ner	-	0	.	.	AR	ART	2	iambic	iambic.penta	-+-+-+-+-+
+4	frem	+	2	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+5	den	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+6	stil	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+7	len	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+8	Stel	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	le	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+10	die	+	0	.	.	PR	PRELS	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Die	-	0	.	.	PD	PDS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	wer	+	0	:	.	VA	VAFIN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	den	-	0	.	.	VA	VAFIN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	theils	+	1	.	.	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	zu	-	0	:	.	PT	PTKA	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	staub	+	2	.	:	ADJ	ADJD	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	theils	-	0	.	.	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	nichts	+	1	:	.	PI	PIS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	und	-	0	.	.	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	nich	+	2	.	.	ADJ	ADJD	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	tig	-	0	:	.	ADJ	ADJD	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	wer	+	1	.	.	VA	VAINF	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	den	-	0	.	.	VA	VAINF	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	Nach	-	0	.	.	VV	VVPP	1	iambic	iambic.tri	-+-+-+
+2	träu	+	1	:	.	VV	VVPP	2	iambic	iambic.tri	-+-+-+
+3	mend	-	0	.	.	VV	VVPP	3	iambic	iambic.tri	-+-+-+
+4	in	+	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+
+5	den	-	0	:	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+6	Duft	+	2	.	:	NN	NN	0	iambic	iambic.tri	-+-+-+
+
+1	In	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+2	Träu	+	1	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+3	me	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+4	war	+	0	.	.	VA	VAFIN	0	iambic	iambic.penta	-+-+-+-+-+
+5	solch	-	0	:	.	PI	PIAT	0	iambic	iambic.penta	-+-+-+-+-+
+6	Le	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+7	ben	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+8	ein	+	0	:	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+
+9	ge	-	0	.	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+
+10	taucht	+	1	.	:	VV	VVPP	3	iambic	iambic.penta	-+-+-+-+-+
+
+1	Da	+	0	.	.	ADV	ADV	1	troch	troch.relaxed.syll	+-+--+-+-+-+-
+2	mals	-	0	:	.	ADV	ADV	2	troch	troch.relaxed.syll	+-+--+-+-+-+-
+3	schlug	+	1	.	.	VV	VVFIN	0	troch	troch.relaxed.syll	+-+--+-+-+-+-
+4	Tam	-	2	.	.	NE	NE	1	troch	troch.relaxed.syll	+-+--+-+-+-+-
+5	bur	-	0	.	.	NE	NE	2	troch	troch.relaxed.syll	+-+--+-+-+-+-
+6	marsch	+	0	:	.	NE	NE	3	troch	troch.relaxed.syll	+-+--+-+-+-+-
+7	den	-	0	.	.	AR	ART	0	troch	troch.relaxed.syll	+-+--+-+-+-+-
+8	Sturm	+	2	.	.	NN	NN	0	troch	troch.relaxed.syll	+-+--+-+-+-+-
+9	auf	-	0	:	.	AP	APPR	0	troch	troch.relaxed.syll	+-+--+-+-+-+-
+10	al	+	1	.	.	PI	PIAT	1	troch	troch.relaxed.syll	+-+--+-+-+-+-
+11	len	-	0	.	.	PI	PIAT	2	troch	troch.relaxed.syll	+-+--+-+-+-+-
+12	We	+	2	:	.	NN	NN	1	troch	troch.relaxed.syll	+-+--+-+-+-+-
+13	gen	-	0	.	:	NN	NN	2	troch	troch.relaxed.syll	+-+--+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+2	Ko	+	1	:	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+3	lik	-	0	.	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+4	in	+	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+-
+5	Ge	-	0	:	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+6	där	+	2	.	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+7	men	-	0	.	:	NN	NN	3	iambic	iambic.tri	-+-+-+-
+
+1	Von	-	0	.	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+-
+2	Quel	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-
+3	len	-	0	:	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-
+4	die	+	0	.	.	PR	PRELS	0	iambic	iambic.relaxed.syll	-+-+--+-
+5	von	-	0	.	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+-
+6	den	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+-
+7	Klüf	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-
+8	ten	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-
+
+1	Soll	-	0	.	.	VM	VMFIN	0	iambic	iambic.tri	-+-+-+-
+2	sie	+	0	:	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+3	vom	-	0	.	.	AP	APPRART	0	iambic	iambic.tri	-+-+-+-
+4	Schwert	+	1	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+5	nicht	-	0	:	.	PT	PTKNEG	0	iambic	iambic.tri	-+-+-+-
+6	las	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	sen	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+
+2	blu	+	1	:	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+
+3	tend	-	0	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+
+4	reißt	+	2	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+5	er	-	0	:	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+6	von	+	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+7	der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+8	Frucht	+	1	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	ent	-	0	.	.	PT	PTKVZ	1	iambic	iambic.penta	-+-+-+-+-+
+10	zwei	+	2	.	:	PT	PTKVZ	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	O	+	1	.	.	NE	NE	0	troch	troch.tetra	+-+-+-+-
+2	du	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+3	Aus	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	ge	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	burt	+	1	:	.	NN	NN	3	troch	troch.tetra	+-+-+-+-
+6	der	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+7	Höl	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	le	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	In	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+2	al	+	0	:	.	PI	PIAT	1	iambic	iambic.penta	-+-+-+-+-+
+3	len	-	0	.	.	PI	PIAT	2	iambic	iambic.penta	-+-+-+-+-+
+4	Lüf	+	1	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	ten	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	hallt	+	2	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+7	es	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+8	wie	+	0	:	.	KO	KOKOM	0	iambic	iambic.penta	-+-+-+-+-+
+9	Ge	-	0	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+10	schrei	+	2	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	er	-	0	.	.	PP	PPER	0	amphi	amphi.tri.plus	-+--+--+-+
+2	hat	+	1	.	.	VA	VAFIN	0	amphi	amphi.tri.plus	-+--+--+-+
+3	uns	-	0	:	.	PP	PPER	0	amphi	amphi.tri.plus	-+--+--+-+
+4	ge	-	0	.	.	VV	VVPP	1	amphi	amphi.tri.plus	-+--+--+-+
+5	ret	+	2	.	.	VV	VVPP	2	amphi	amphi.tri.plus	-+--+--+-+
+6	tet	-	0	.	:	VV	VVPP	3	amphi	amphi.tri.plus	-+--+--+-+
+7	er	-	0	:	.	PP	PPER	0	amphi	amphi.tri.plus	-+--+--+-+
+8	trägt	+	1	.	.	VV	VVFIN	0	amphi	amphi.tri.plus	-+--+--+-+
+9	die	-	0	.	.	AR	ART	0	amphi	amphi.tri.plus	-+--+--+-+
+10	Kron	+	2	:	.	NN	NN	0	amphi	amphi.tri.plus	-+--+--+-+
+
+1	Habt	+	0	.	.	VA	VAFIN	0	troch	troch.tetra	+-+-+-+-
+2	die	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	grü	+	1	.	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+-
+4	nen	-	0	.	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+-
+5	Fra	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	ge	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	zei	+	1	.	.	NN	NN	3	troch	troch.tetra	+-+-+-+-
+
+1	Herr	+	2	.	:	NN	NN	0	iambic	iambic.penta.invert	+--+-+-+-+
+2	es	-	0	.	.	PP	PPER	0	iambic	iambic.penta.invert	+--+-+-+-+
+3	ist	-	0	.	.	VA	VAFIN	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	Zeit	+	2	:	.	NN	NN	0	iambic	iambic.penta.invert	+--+-+-+-+
+5	Der	-	0	.	:	AR	ART	0	iambic	iambic.penta.invert	+--+-+-+-+
+6	Som	+	2	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+7	mer	-	0	:	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+8	war	+	0	.	.	VA	VAFIN	0	iambic	iambic.penta.invert	+--+-+-+-+
+9	sehr	-	0	.	.	ADV	ADV	0	iambic	iambic.penta.invert	+--+-+-+-+
+10	groß	+	2	:	.	ADJ	ADJD	0	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	Und	+	0	.	.	KO	KON	0	iambic	iambic.tetra.invert	+--+-+-+-
+2	mit	-	0	.	.	AP	APPR	0	iambic	iambic.tetra.invert	+--+-+-+-
+3	Er	-	0	.	.	NN	NN	1	iambic	iambic.tetra.invert	+--+-+-+-
+4	stau	+	2	:	.	NN	NN	2	iambic	iambic.tetra.invert	+--+-+-+-
+5	nen	-	0	.	.	NN	NN	3	iambic	iambic.tetra.invert	+--+-+-+-
+6	und	+	0	.	.	KO	KON	0	iambic	iambic.tetra.invert	+--+-+-+-
+7	mit	-	0	:	.	AP	APPR	0	iambic	iambic.tetra.invert	+--+-+-+-
+8	Grau	+	2	.	.	NN	NN	1	iambic	iambic.tetra.invert	+--+-+-+-
+9	en	-	0	.	:	NN	NN	2	iambic	iambic.tetra.invert	+--+-+-+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+2	wand	+	2	:	.	VV	VVFIN	1	iambic	iambic.tetra	-+-+-+-+
+3	re	-	0	.	.	VV	VVFIN	2	iambic	iambic.tetra	-+-+-+-+
+4	durch	+	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+5	die	-	0	:	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+6	stil	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+7	le	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+8	Nacht	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Er	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+2	kriecht	+	1	:	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+3	wie	-	0	.	.	KO	KOKOM	0	iambic	iambic.penta	-+-+-+-+-+
+4	Ne	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	bel	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	auf	+	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+7	dem	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+8	Pfla	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	ster	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+10	schwer	+	1	.	.	ADJ	ADJD	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	Wald	+	1	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+3	ist	-	0	.	.	VA	VAFIN	0	iambic	iambic.tetra	-+-+-+-+
+4	lang	+	2	.	:	ADJ	ADJD	0	iambic	iambic.tetra	-+-+-+-+
+5	du	-	0	:	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+6	bist	+	0	.	.	VA	VAFIN	0	iambic	iambic.tetra	-+-+-+-+
+7	all	-	0	.	.	ADV	ADV	1	iambic	iambic.tetra	-+-+-+-+
+8	ein	+	2	:	.	ADV	ADV	2	iambic	iambic.tetra	-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+2	als	+	0	:	.	KO	KOUS	0	iambic	iambic.tri	-+-+-+-
+3	er	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+4	kam	+	1	.	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+-
+5	zu	-	0	:	.	PT	PTKZU	0	iambic	iambic.tri	-+-+-+-
+6	ster	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	ben	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Be	-	0	.	.	NN	NN	1	iambic	iambic.chol.relaxed	-+---+--+
+2	nen	+	1	.	.	NN	NN	2	iambic	iambic.chol.relaxed	-+---+--+
+3	nen	-	0	:	.	NN	NN	3	iambic	iambic.chol.relaxed	-+---+--+
+4	wir	-	0	.	.	PP	PPER	0	iambic	iambic.chol.relaxed	-+---+--+
+5	das	-	0	.	.	PD	PDAT	1	iambic	iambic.chol.relaxed	-+---+--+
+6	je	+	2	.	.	PD	PDAT	2	iambic	iambic.chol.relaxed	-+---+--+
+7	ni	-	0	:	.	PD	PDAT	3	iambic	iambic.chol.relaxed	-+---+--+
+8	ge	-	0	.	.	PD	PDAT	4	iambic	iambic.chol.relaxed	-+---+--+
+9	Land	+	1	.	:	NN	NN	0	iambic	iambic.chol.relaxed	-+---+--+
+
+1	Noch	-	0	.	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+--+-+-+
+2	drei	+	1	:	.	CA	CARD	1	iambic	iambic.relaxed.syll	-+--+-+-+
+3	ßig	-	0	.	.	CA	CARD	2	iambic	iambic.relaxed.syll	-+--+-+-+
+4	Mi	-	0	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+-+
+5	nu	+	2	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+-+
+6	ten	-	0	:	:	NN	NN	3	iambic	iambic.relaxed.syll	-+--+-+-+
+7	Hal	+	1	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+--+-+-+
+8	be	-	0	.	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+--+-+-+
+9	Stund	+	2	:	.	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+-+
+
+1	Es	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+--+-+-+
+2	herrsch	+	2	:	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+--+-+-+
+3	te	-	0	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+--+-+-+
+4	im	-	0	.	.	AP	APPRART	0	iambic	iambic.relaxed.syll	-+--+-+-+
+5	un	+	2	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+--+-+-+
+6	ge	-	0	:	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+--+-+-+
+7	heu	+	1	.	.	ADJ	ADJA	3	iambic	iambic.relaxed.syll	-+--+-+-+
+8	ren	-	0	.	.	ADJ	ADJA	4	iambic	iambic.relaxed.syll	-+--+-+-+
+9	Raum	+	2	:	:	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+-+
+
+1	Im	-	0	.	.	AP	APPRART	0	iambic	iambic.relaxed.syll	-+--+-+
+2	Schat	+	2	:	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+
+3	ten	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+
+4	ein	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+--+-+
+5	Spar	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+
+6	ter	-	0	:	.	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+
+7	heer	+	1	.	.	NN	NN	3	iambic	iambic.relaxed.syll	-+--+-+
+
+1	So	-	0	.	.	ADV	ADV	0	iambic	iambic.di	-+-+
+2	lie	+	1	:	.	VV	VVFIN	1	iambic	iambic.di	-+-+
+3	be	-	0	.	.	VV	VVFIN	2	iambic	iambic.di	-+-+
+4	mich	+	2	.	:	PP	PPER	0	iambic	iambic.di	-+-+
+
+1	Aus	-	0	.	.	AP	APPR	0	iambic	iambic.di	-+-+
+2	je	+	0	:	.	PI	PIAT	1	iambic	iambic.di	-+-+
+3	der	-	0	.	.	PI	PIAT	2	iambic	iambic.di	-+-+
+4	Brust	+	2	.	:	NN	NN	0	iambic	iambic.di	-+-+
+
+1	Im	-	0	.	.	AP	APPRART	0	iambic	iambic.tetra	-+-+-+-+
+2	glei	+	1	:	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+3	chen	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+4	Takt	+	2	.	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	Sol	-	0	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+6	dat	+	2	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+7	Sol	-	0	.	:	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+8	dat	+	2	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+
+1	Ganz	+	0	.	.	ADV	ADV	0	troch	troch.penta	+-+-+-+-+
+2	un	-	1	:	.	ADJ	ADJD	1	troch	troch.penta	+-+-+-+-+
+3	an	+	0	.	.	ADJ	ADJD	2	troch	troch.penta	+-+-+-+-+
+4	ge	-	0	.	.	ADJ	ADJD	3	troch	troch.penta	+-+-+-+-+
+5	rührt	+	2	:	.	ADJ	ADJD	4	troch	troch.penta	+-+-+-+-+
+6	und	-	0	.	.	KO	KON	0	troch	troch.penta	+-+-+-+-+
+7	un	+	1	.	.	ADJ	ADJD	1	troch	troch.penta	+-+-+-+-+
+8	ge	-	0	:	.	ADJ	ADJD	2	troch	troch.penta	+-+-+-+-+
+9	schaut	+	2	.	:	ADJ	ADJD	3	troch	troch.penta	+-+-+-+-+
+
+1	Im	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+
+2	Au	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+3	ge	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+4	rast	+	1	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+5	die	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+6	See	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+7	le	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+8	arm	+	1	:	.	ADJ	ADJD	0	iambic	iambic.penta	-+-+-+-+-+
+9	und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+
+10	irr	+	2	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Man	-	0	.	.	PI	PIS	0	iambic	iambic.chol.relaxed	-+-+-+--+
+2	ruht	+	2	:	.	VV	VVFIN	0	iambic	iambic.chol.relaxed	-+-+-+--+
+3	in	-	0	.	.	AP	APPR	0	iambic	iambic.chol.relaxed	-+-+-+--+
+4	deut	+	1	.	.	ADJ	ADJA	1	iambic	iambic.chol.relaxed	-+-+-+--+
+5	schen	-	0	:	.	ADJ	ADJA	2	iambic	iambic.chol.relaxed	-+-+-+--+
+6	Bet	+	2	.	.	NN	NN	1	iambic	iambic.chol.relaxed	-+-+-+--+
+7	ten	-	0	.	.	NN	NN	2	iambic	iambic.chol.relaxed	-+-+-+--+
+8	so	-	0	:	.	ADV	ADV	0	iambic	iambic.chol.relaxed	-+-+-+--+
+9	weich	+	2	.	:	ADJ	ADJD	0	iambic	iambic.chol.relaxed	-+-+-+--+
+
+1	Mit	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+2	Kro	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	nen	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	auf	+	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+5	den	-	0	:	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+6	e	+	2	.	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+7	len	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+
+1	Das	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	wei	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+3	ße	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+4	Schiff	+	2	.	:	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+5	Nun	-	0	:	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+6	treibt	+	1	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+7	es	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+8	stolz	+	2	:	.	ADJ	ADJD	0	iambic	iambic.penta	-+-+-+-+-+-
+9	von	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+10	dan	+	2	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+11	nen	-	0	:	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Je	+	0	.	.	PD	PDAT	1	daktyl	daktyl.tri	+--+--+-
+2	ner	-	0	.	.	PD	PDAT	2	daktyl	daktyl.tri	+--+--+-
+3	ge	-	0	:	.	ADJ	ADJA	1	daktyl	daktyl.tri	+--+--+-
+4	ah	+	1	.	.	ADJ	ADJA	2	daktyl	daktyl.tri	+--+--+-
+5	ne	-	0	.	.	ADJ	ADJA	3	daktyl	daktyl.tri	+--+--+-
+6	ten	-	0	.	.	ADJ	ADJA	4	daktyl	daktyl.tri	+--+--+-
+7	We	+	2	:	.	NN	NN	1	daktyl	daktyl.tri	+--+--+-
+8	sen	-	0	.	:	NN	NN	2	daktyl	daktyl.tri	+--+--+-
+
+1	Du	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+2	hast	+	2	:	.	VA	VAFIN	0	iambic	iambic.tri	-+-+-+-
+3	ein	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+-
+4	Mägd	+	1	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	lein	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	wor	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	ben	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Nimm	+	2	.	:	NE	NE	0	troch	troch.tetra	+-+-+-+-
+2	o	-	0	:	.	FM	FM	0	troch	troch.tetra	+-+-+-+-
+3	nimm	+	2	.	.	VV	VVIMP	0	troch	troch.tetra	+-+-+-+-
+4	die	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+5	traur'	+	1	:	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+-
+6	ge	-	0	.	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+-
+7	Klar	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	heit	-	0	:	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.di	-+-+
+2	Wel	+	1	:	.	NN	NN	1	iambic	iambic.di	-+-+
+3	le	-	0	.	.	NN	NN	2	iambic	iambic.di	-+-+
+4	steigt	+	2	.	:	VV	VVFIN	0	iambic	iambic.di	-+-+
+
+1	Häu	+	2	.	.	NN	NN	1	troch	troch.penta	+-+-+-+-+-
+2	ser	-	0	:	.	NN	NN	2	troch	troch.penta	+-+-+-+-+-
+3	sich	+	0	.	.	PR	PRF	0	troch	troch.penta	+-+-+-+-+-
+4	so	-	0	.	.	ADV	ADV	0	troch	troch.penta	+-+-+-+-+-
+5	dicht	+	1	:	.	ADJ	ADJD	0	troch	troch.penta	+-+-+-+-+-
+6	an	-	0	.	:	PT	PTKVZ	0	troch	troch.penta	+-+-+-+-+-
+7	daß	+	0	.	.	KO	KOUS	0	troch	troch.penta	+-+-+-+-+-
+8	die	-	0	:	.	AR	ART	0	troch	troch.penta	+-+-+-+-+-
+9	Stra	+	2	.	.	NN	NN	1	troch	troch.penta	+-+-+-+-+-
+10	ßen	-	0	.	.	NN	NN	2	troch	troch.penta	+-+-+-+-+-
+
+1	und	+	0	.	.	KO	KON	0	daktyl	daktyl.penta	+--+--+--+--+-
+2	mit	-	0	.	.	AP	APPR	0	daktyl	daktyl.penta	+--+--+--+--+-
+3	den	-	0	:	.	AR	ART	0	daktyl	daktyl.penta	+--+--+--+--+-
+4	kost	+	1	.	.	ADJ	ADJA	1	daktyl	daktyl.penta	+--+--+--+--+-
+5	ba	-	0	.	.	ADJ	ADJA	2	daktyl	daktyl.penta	+--+--+--+--+-
+6	ren	-	0	.	.	ADJ	ADJA	3	daktyl	daktyl.penta	+--+--+--+--+-
+7	Schnä	+	2	:	.	NN	NN	1	daktyl	daktyl.penta	+--+--+--+--+-
+8	beln	-	0	.	.	NN	NN	2	daktyl	daktyl.penta	+--+--+--+--+-
+9	aus	-	0	.	.	AP	APPR	0	daktyl	daktyl.penta	+--+--+--+--+-
+10	Ja	+	1	.	.	NE	NE	1	daktyl	daktyl.penta	+--+--+--+--+-
+11	spis	-	0	:	.	NE	NE	2	daktyl	daktyl.penta	+--+--+--+--+-
+12	und	-	0	.	.	KO	KON	0	daktyl	daktyl.penta	+--+--+--+--+-
+13	Ja	+	2	.	.	NN	NN	1	daktyl	daktyl.penta	+--+--+--+--+-
+14	de	-	0	.	:	NN	NN	2	daktyl	daktyl.penta	+--+--+--+--+-
+
+1	Ich	+	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+2	be	-	0	:	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+
+3	saß	+	2	.	.	VV	VVFIN	2	troch	troch.tetra	+-+-+-+
+4	es	-	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+5	doch	+	1	:	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+
+6	ein	-	0	.	.	ADV	ADV	1	troch	troch.tetra	+-+-+-+
+7	mal	+	0	.	:	ADV	ADV	2	troch	troch.tetra	+-+-+-+
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+2	mit	+	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+3	den	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+4	war	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+5	men	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+6	Win	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+7	den	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+8	steigt	+	1	:	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+9	und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+
+10	sinkt	+	2	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Lass	+	1	.	.	VV	VVIMP	0	troch	troch.tetra	+-+-+-+-
+2	ich	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+3	gleich	+	0	.	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+-
+4	nicht	-	0	.	.	PT	PTKNEG	0	troch	troch.tetra	+-+-+-+-
+5	viel	+	1	:	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+-
+6	zu	-	0	.	.	PT	PTKZU	0	troch	troch.tetra	+-+-+-+-
+7	er	+	2	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	ben	-	0	:	:	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	Lal	+	1	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+2	len	-	0	.	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+3	der	-	0	.	.	AR	ART	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	We	+	2	:	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+5	hen	-	0	.	:	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+6	lan	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta.invert	+--+-+-+-+
+7	ger	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta.invert	+--+-+-+-+
+8	Ster	+	2	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+9	be	-	0	.	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+10	schrei	+	1	:	.	NN	NN	3	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	Ge	-	0	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+2	las	+	1	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+3	sen	-	0	.	.	NN	NN	3	iambic	iambic.tetra	-+-+-+-+
+4	stieg	+	2	.	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+5	die	-	0	:	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+6	Nacht	+	1	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	ans	-	0	.	.	AP	APPRART	0	iambic	iambic.tetra	-+-+-+-+
+8	Land	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Gar	-	0	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+2	di	+	2	:	.	NN	NN	2	amphi	amphi.tri	-+--+--+-
+3	nen	-	0	.	.	NN	NN	3	amphi	amphi.tri	-+--+--+-
+4	von	-	0	.	.	AP	APPR	0	amphi	amphi.tri	-+--+--+-
+5	ro	+	1	.	.	ADJ	ADJA	1	amphi	amphi.tri	-+--+--+-
+6	tem	-	0	:	.	ADJ	ADJA	2	amphi	amphi.tri	-+--+--+-
+7	Da	-	0	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+8	ma	+	2	.	.	NN	NN	2	amphi	amphi.tri	-+--+--+-
+9	ste	-	0	.	:	NN	NN	3	amphi	amphi.tri	-+--+--+-
+
+1	Dei	+	0	.	.	PP	PPOSAT	1	troch	troch.di	+-+-
+2	ner	-	0	:	.	PP	PPOSAT	2	troch	troch.di	+-+-
+3	Ga	+	2	.	.	NN	NN	1	troch	troch.di	+-+-
+
+1	Lie	+	2	.	.	NN	NN	1	iambic	iambic.chol.relaxed	+--+
+2	be	-	0	.	:	NN	NN	2	iambic	iambic.chol.relaxed	+--+
+3	bist	-	0	.	.	VA	VAFIN	0	iambic	iambic.chol.relaxed	+--+
+4	du	+	1	:	.	PP	PPER	0	iambic	iambic.chol.relaxed	+--+
+
+1	Die	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	se	+	2	:	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	gel	-	0	.	:	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	wo	+	0	.	.	PW	PWAV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	hin	-	0	:	.	AP	APZR	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	ein	+	2	.	.	AP	APZR	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	bläst	-	0	.	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	der	+	0	:	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	be	-	0	.	.	ADJ	ADJA	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	gier	+	1	.	.	ADJ	ADJA	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	den	-	0	:	.	ADJ	ADJA	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	wind	+	2	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Wirst	-	0	.	.	VA	VAFIN	0	iambic	iambic.tetra	-+-+-+-+
+2	al	+	1	:	.	PI	PIAT	1	iambic	iambic.tetra	-+-+-+-+
+3	le	-	0	.	.	PI	PIAT	2	iambic	iambic.tetra	-+-+-+-+
+4	mei	+	0	.	.	PP	PPOSAT	1	iambic	iambic.tetra	-+-+-+-+
+5	ne	-	0	:	.	PP	PPOSAT	2	iambic	iambic.tetra	-+-+-+-+
+6	Kräf	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	te	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	mir	+	0	:	:	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+
+1	und	-	0	.	.	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	der	+	0	:	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	ein	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	schlech	+	1	.	.	ADJ	ADJA	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	tes	-	0	:	.	ADJ	ADJA	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	Dach	+	2	.	:	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	der	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	herrscht	+	2	:	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	und	-	0	.	:	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	je	+	1	.	.	PD	PDS	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	ner	-	0	:	.	PD	PDS	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	webt	+	2	.	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Ko	+	1	.	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+
+2	stet	-	0	:	.	VV	VVFIN	2	troch	troch.tetra	+-+-+-+
+3	ei	+	0	.	.	AR	ART	1	troch	troch.tetra	+-+-+-+
+4	ne	-	0	.	.	AR	ART	2	troch	troch.tetra	+-+-+-+
+5	Höl	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+6	len	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+7	fahrt	+	1	.	:	NN	NN	3	troch	troch.tetra	+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+2	mich	+	0	:	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+3	ver	-	0	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+4	zeh	+	2	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+5	ren	-	0	:	.	VV	VVFIN	3	iambic	iambic.penta	-+-+-+-+-+-
+6	sei	+	0	.	.	PP	PPOSAT	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ner	-	0	.	.	PP	PPOSAT	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Son	+	1	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	ne	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	Glut	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	hen	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	tau	+	1	:	.	ADJ	ADJD	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	send	-	0	.	.	ADJ	ADJD	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	fürcht'	+	2	.	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	ich	-	0	:	.	PP	PPER	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	noch	+	0	.	:	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	die	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	Kraft	+	2	:	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	in	-	0	.	.	AP	APPR	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	mei	+	0	.	.	PP	PPOSAT	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	nem	-	0	:	.	PP	PPOSAT	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	Her	+	1	.	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	zen	-	0	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	Ver	-	0	.	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+-
+2	schon	+	2	:	.	ADV	ADV	2	iambic	iambic.tri	-+-+-+-
+3	uns	-	0	.	:	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+4	Gott	+	1	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+5	mit	-	0	:	:	AP	APPR	0	iambic	iambic.tri	-+-+-+-
+6	Stra	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+7	fen	-	0	.	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Wind	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+3	hat	-	0	.	.	VA	VAFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+4	sich	+	0	.	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+-
+5	in	-	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+6	ei	+	0	.	.	AR	ART	1	iambic	iambic.penta	-+-+-+-+-+-
+7	nem	-	0	.	.	AR	ART	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Baum	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+9	ge	-	0	.	.	PT	PTKVZ	1	iambic	iambic.penta	-+-+-+-+-+-
+10	fan	+	1	.	.	PT	PTKVZ	2	iambic	iambic.penta	-+-+-+-+-+-
+11	gen	-	0	:	:	PT	PTKVZ	3	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+2	hö	+	2	:	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	re	-	0	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	dich	+	0	.	:	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+5	wenn	-	0	:	.	KO	KOUS	0	iambic	iambic.penta	-+-+-+-+-+-
+6	dort	+	1	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+7	mit	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+8	dump	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+9	fem	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+10	Rau	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	schen	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	nimmt	-	1	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+2	uns	+	0	:	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+3	zu	-	0	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+
+4	sam	+	2	.	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+
+5	men	-	0	:	.	ADV	ADV	3	iambic	iambic.penta	-+-+-+-+-+
+6	wie	+	0	.	.	KO	KOKOM	0	iambic	iambic.penta	-+-+-+-+-+
+7	ein	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+8	Bo	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	gen	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+10	strich	+	1	.	:	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+
+
+1	Das	+	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+2	Ge	-	0	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+3	fürch	+	2	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+4	te	-	0	.	.	NN	NN	3	troch	troch.tetra	+-+-+-+
+5	te	+	0	:	.	NN	NN	4	troch	troch.tetra	+-+-+-+
+6	muß	-	0	.	.	VM	VMFIN	0	troch	troch.tetra	+-+-+-+
+7	nahn	+	2	.	:	ADJ	ADJA	0	troch	troch.tetra	+-+-+-+
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	mit	+	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+3	mir	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+4	weint	+	2	.	:	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+5	der	-	0	:	.	PR	PRELS	0	iambic	iambic.tetra	-+-+-+-+
+6	mit	+	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+7	mir	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+8	wacht	+	2	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Um	-	0	.	.	KO	KOUI	0	anapaest	anapaest.di.plus	--+--+-+-
+2	die	-	0	.	.	AR	ART	0	anapaest	anapaest.di.plus	--+--+-+-
+3	Dun	+	2	:	.	NN	NN	1	anapaest	anapaest.di.plus	--+--+-+-
+4	kel	-	0	.	.	NN	NN	2	anapaest	anapaest.di.plus	--+--+-+-
+5	heit	-	0	.	.	NN	NN	3	anapaest	anapaest.di.plus	--+--+-+-
+6	recht	+	1	.	.	ADJ	ADJD	0	anapaest	anapaest.di.plus	--+--+-+-
+7	zu	-	0	:	.	PT	PTKZU	0	anapaest	anapaest.di.plus	--+--+-+-
+8	zei	+	2	.	.	VV	VVINF	1	anapaest	anapaest.di.plus	--+--+-+-
+9	gen	-	0	.	:	VV	VVINF	2	anapaest	anapaest.di.plus	--+--+-+-
+
+1	Auch	+	0	.	.	ADV	ADV	1	iambic	iambic.chol.relaxed	+--+
+2	so	-	0	.	.	ADV	ADV	2	iambic	iambic.chol.relaxed	+--+
+3	das	-	0	.	.	AR	ART	0	iambic	iambic.chol.relaxed	+--+
+
+1	Herr	+	1	.	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+2	und	-	0	:	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+3	Mei	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	ster	-	0	.	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	hör	+	1	:	.	VV	VVFIN	0	troch	troch.tetra	+-+-+-+-
+6	mich	-	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+7	ru	+	2	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	fen	-	0	:	.	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	Wat	+	2	.	.	NN	NN	1	iambic	iambic.chol.relaxed	+-+--+
+2	schelt	-	0	:	.	NN	NN	2	iambic	iambic.chol.relaxed	+-+--+
+3	o	+	1	.	.	ADV	ADV	1	iambic	iambic.chol.relaxed	+-+--+
+4	ben	-	0	.	.	ADV	ADV	2	iambic	iambic.chol.relaxed	+-+--+
+5	her	-	0	.	.	AP	APZR	1	iambic	iambic.chol.relaxed	+-+--+
+6	um	+	2	.	:	AP	APZR	2	iambic	iambic.chol.relaxed	+-+--+
+
+1	Wirds	+	1	.	.	VA	VAFIN	0	troch	troch.tetra	+-+-+-+-
+2	im	-	0	:	.	AP	APPRART	0	troch	troch.tetra	+-+-+-+-
+3	Saal	+	2	.	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+4	und	-	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+5	auf	+	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+6	den	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+7	Stu	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	fen	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Voll	+	1	.	.	ADJ	ADJD	0	troch	troch.tri	+-+-+
+2	mit	-	0	:	.	AP	APPR	0	troch	troch.tri	+-+-+
+3	Was	+	2	.	.	NN	NN	1	troch	troch.tri	+-+-+
+4	ser	-	0	.	.	NN	NN	2	troch	troch.tri	+-+-+
+5	füllt	+	1	:	:	VV	VVFIN	0	troch	troch.tri	+-+-+
+
+1	Halt	-	0	.	.	VV	VVIMP	0	iambic	iambic.tetra	-+-+-+-+
+2	du	+	2	:	:	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+3	o	-	0	.	.	FM	FM	0	iambic	iambic.tetra	-+-+-+-+
+4	Haß	+	2	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	dein	-	0	:	:	PP	PPOSAT	0	iambic	iambic.tetra	-+-+-+-+
+6	jüngst	+	1	.	.	ADJ	ADJA	0	iambic	iambic.tetra	-+-+-+-+
+7	Ge	-	0	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+8	richt	+	2	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+
+1	Steht	+	2	.	.	VV	VVFIN	0	troch	troch.hexa	+-+-+-+-+-+
+2	er	-	0	:	:	PP	PPER	0	troch	troch.hexa	+-+-+-+-+-+
+3	ü	+	0	.	.	AP	APPR	1	troch	troch.hexa	+-+-+-+-+-+
+4	ber	-	0	.	.	AP	APPR	2	troch	troch.hexa	+-+-+-+-+-+
+5	schwar	+	1	:	.	ADJ	ADJA	1	troch	troch.hexa	+-+-+-+-+-+
+6	zer	-	0	.	.	ADJ	ADJA	2	troch	troch.hexa	+-+-+-+-+-+
+7	Gas	+	2	.	.	NN	NN	1	troch	troch.hexa	+-+-+-+-+-+
+8	sen	-	0	:	.	NN	NN	2	troch	troch.hexa	+-+-+-+-+-+
+9	Waf	+	2	.	.	NN	NN	1	troch	troch.hexa	+-+-+-+-+-+
+10	fen	-	0	.	.	NN	NN	2	troch	troch.hexa	+-+-+-+-+-+
+11	schall	+	1	:	.	NN	NN	3	troch	troch.hexa	+-+-+-+-+-+
+
+1	Der	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	ho	+	1	:	.	ADJ	ADJA	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	hen	-	0	.	.	ADJ	ADJA	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	Ta	+	1	.	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	ten	-	0	:	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	Ruhm	+	2	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	muß	-	0	.	.	VM	VMFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	wie	+	0	:	.	KO	KOKOM	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	ein	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	Traum	+	1	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	ver	-	0	:	.	VV	VVINF	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	gehn	+	2	.	:	VV	VVINF	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Wer	-	0	.	.	PW	PWS	0	iambic	iambic.tetra	-+-+-+-+
+2	noch	+	0	:	.	ADV	ADV	0	iambic	iambic.tetra	-+-+-+-+
+3	ein	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+4	Herz	+	2	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	be	-	0	:	.	VV	VVPP	1	iambic	iambic.tetra	-+-+-+-+
+6	sitzt	+	1	.	:	VV	VVPP	2	iambic	iambic.tetra	-+-+-+-+
+7	dem	-	0	.	.	PR	PRELS	0	iambic	iambic.tetra	-+-+-+-+
+8	soll's	+	2	:	.	PI	PIS	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+
+2	spin	+	2	:	.	VV	VVFIN	1	iambic	iambic.tri	-+-+-+
+3	ne	-	0	.	.	VV	VVFIN	2	iambic	iambic.tri	-+-+-+
+4	so	+	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+5	all	-	0	:	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+
+6	ein	+	2	.	:	ADV	ADV	2	iambic	iambic.tri	-+-+-+
+
+1	Weh	-	2	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+2	mir	+	2	:	:	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+3	So	-	0	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+4	soll	+	1	.	.	VM	VMFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+5	denn	-	0	:	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+6	ich	+	2	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+-
+7	all	-	0	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+8	ein	+	1	:	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+9	von	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+10	al	+	2	.	.	PI	PIAT	1	iambic	iambic.penta	-+-+-+-+-+-
+11	len	-	0	:	.	PI	PIAT	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.di	-+-+-
+2	trugs	+	1	:	.	ADV	ADV	0	iambic	iambic.di	-+-+-
+3	zum	-	0	.	.	AP	APPRART	0	iambic	iambic.di	-+-+-
+4	Gar	+	2	.	.	NN	NN	1	iambic	iambic.di	-+-+-
+5	ten	-	0	:	:	NN	NN	2	iambic	iambic.di	-+-+-
+
+1	Alt	-	1	.	.	NN	NN	1	amphi	amphi.tri.plus	-+--+--+-+
+2	deutsch	+	2	.	.	NN	NN	2	amphi	amphi.tri.plus	-+--+--+-+
+3	land	-	0	:	:	NN	NN	3	amphi	amphi.tri.plus	-+--+--+-+
+4	wir	-	0	.	.	PP	PPER	0	amphi	amphi.tri.plus	-+--+--+-+
+5	we	+	1	.	.	VV	VVFIN	1	amphi	amphi.tri.plus	-+--+--+-+
+6	ben	-	0	.	.	VV	VVFIN	2	amphi	amphi.tri.plus	-+--+--+-+
+7	dein	-	0	:	.	PP	PPOSAT	0	amphi	amphi.tri.plus	-+--+--+-+
+8	Lei	+	2	.	.	NN	NN	1	amphi	amphi.tri.plus	-+--+--+-+
+9	chen	-	0	.	.	NN	NN	2	amphi	amphi.tri.plus	-+--+--+-+
+10	tuch	+	1	.	.	NN	NN	3	amphi	amphi.tri.plus	-+--+--+-+
+
+
+1	Sich	-	0	.	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+
+2	trau	+	2	:	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+
+3	rig	-	0	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+
+4	wälzt	+	1	.	:	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+5	die	-	0	:	.	PR	PRELS	0	iambic	iambic.penta	-+-+-+-+-+
+6	schwarz	+	1	.	.	ADJ	ADJD	0	iambic	iambic.penta	-+-+-+-+-+
+7	den	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+8	Him	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	mel	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+10	deckt	+	1	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Ge	-	0	.	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+-
+2	bückt	+	2	:	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+-
+3	in	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+4	Süd	+	1	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+5	und	-	0	:	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+6	West	+	2	.	:	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+7	und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+8	Ost	+	1	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+9	und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+10	Nor	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	den	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Werd	+	1	.	.	VA	VAFIN	0	troch	troch.tri	+-+-+
+2	ich	-	0	:	.	PP	PPER	0	troch	troch.tri	+-+-+
+3	nun	+	0	.	.	ADV	ADV	0	troch	troch.tri	+-+-+
+4	nicht	-	0	.	.	PT	PTKNEG	0	troch	troch.tri	+-+-+
+5	los	+	2	:	:	PT	PTKVZ	0	troch	troch.tri	+-+-+
+
+1	Als	-	0	.	.	KO	KOUS	0	iambic	iambic.tri	-+-+-+-
+2	ei	+	0	:	.	AR	ART	1	iambic	iambic.tri	-+-+-+-
+3	ne	-	0	.	.	AR	ART	2	iambic	iambic.tri	-+-+-+-
+4	stil	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tri	-+-+-+-
+5	le	-	0	:	.	ADJ	ADJA	2	iambic	iambic.tri	-+-+-+-
+6	Kam	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+7	mer	-	0	.	:	NN	NN	2	iambic	iambic.tri	-+-+-+-
+
+1	Und	+	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+2	sein	-	0	:	.	PP	PPOSAT	0	troch	troch.tetra	+-+-+-+-
+3	hei	+	1	.	.	ADJ	ADJD	1	troch	troch.tetra	+-+-+-+-
+4	lig	-	0	.	.	ADJ	ADJD	2	troch	troch.tetra	+-+-+-+-
+5	Ei	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	sen	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	sau	+	1	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	sen	-	0	:	:	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	Zu	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+-
+2	äch	+	1	:	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+-
+3	ter	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+-
+4	Klar	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+5	heit	-	0	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+6	wer	+	0	.	.	VA	VAINF	1	iambic	iambic.tetra	-+-+-+-+-
+7	den	-	0	.	.	VA	VAINF	2	iambic	iambic.tetra	-+-+-+-+-
+8	gat	+	1	:	.	VV	VVFIN	1	iambic	iambic.tetra	-+-+-+-+-
+9	ten	-	0	.	:	VV	VVFIN	2	iambic	iambic.tetra	-+-+-+-+-
+
+1	So	-	0	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+
+2	gei	+	2	:	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+
+3	ster	-	0	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+
+4	haft	+	0	.	:	ADJ	ADJD	3	iambic	iambic.penta	-+-+-+-+-+
+5	ver	-	0	:	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+
+6	lö	+	2	.	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+
+7	schend	-	0	.	.	VV	VVPP	3	iambic	iambic.penta	-+-+-+-+-+
+8	lei	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+9	sen	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+10	Klang	+	2	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Mit	-	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+-
+2	gel	+	1	:	.	ADJ	ADJA	1	iambic	iambic.tri	-+-+-+-
+3	ben	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tri	-+-+-+-
+4	Bir	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	nen	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	hän	+	2	.	.	VV	VVFIN	1	iambic	iambic.tri	-+-+-+-
+7	get	-	0	.	:	VV	VVFIN	2	iambic	iambic.tri	-+-+-+-
+
+1	im	+	0	.	.	ADV	ADV	1	troch	troch.penta	+-+-+-+-+
+2	mer	-	0	:	.	ADV	ADV	2	troch	troch.penta	+-+-+-+-+
+3	drückt	+	2	.	.	VV	VVFIN	0	troch	troch.penta	+-+-+-+-+
+4	mit	-	0	.	.	AP	APPR	0	troch	troch.penta	+-+-+-+-+
+5	rie	+	1	:	.	ADJ	ADJA	1	troch	troch.penta	+-+-+-+-+
+6	si	-	0	.	.	ADJ	ADJA	2	troch	troch.penta	+-+-+-+-+
+7	gem	+	0	.	.	ADJ	ADJA	3	troch	troch.penta	+-+-+-+-+
+8	Ge	-	0	:	.	NN	NN	1	troch	troch.penta	+-+-+-+-+
+9	wicht	+	2	.	:	NN	NN	2	troch	troch.penta	+-+-+-+-+
+
+1	Trank	-	0	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+
+2	nie	+	1	:	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+--+-+
+3	ei	-	0	.	.	AR	ART	1	iambic	iambic.relaxed.syll	-+--+-+
+4	nen	-	0	.	.	AR	ART	2	iambic	iambic.relaxed.syll	-+--+-+
+5	Trop	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+
+6	fen	-	0	:	.	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+
+7	mehr	+	0	.	:	ADV	ADV	0	iambic	iambic.relaxed.syll	-+--+-+
+
+1	Mut	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+2	ter	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+3	Mut	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	ter	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	Sa	+	1	:	:	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	ni	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	tä	+	2	.	.	NN	NN	3	troch	troch.tetra	+-+-+-+-
+8	ter	-	0	:	.	NN	NN	4	troch	troch.tetra	+-+-+-+-
+
+1	Gott	+	1	.	.	NN	NN	0	troch	troch.tetra	+-+-+-+
+2	im	-	0	:	.	AP	APPRART	0	troch	troch.tetra	+-+-+-+
+3	Him	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	mel	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	wird's	+	0	:	.	VA	VAFIN	0	troch	troch.tetra	+-+-+-+
+6	ver	-	0	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+
+7	zeihn	+	2	.	:	VV	VVINF	2	troch	troch.tetra	+-+-+-+
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+2	ging	+	1	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+3	nach	-	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+4	Haus	+	2	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	und	-	0	:	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+6	schlief	+	2	.	:	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+7	als	-	0	.	.	KO	KOKOM	0	iambic	iambic.tetra	-+-+-+-+
+8	ob	+	1	:	.	KO	KOUS	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	-+-+--+-
+2	wie	+	0	:	.	PW	PWAV	0	iambic	iambic.relaxed.syll	-+-+--+-
+3	er	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-
+4	winkt	+	1	.	.	VV	VVFIN	0	iambic	iambic.relaxed.syll	-+-+--+-
+5	mit	-	0	:	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+-+--+-
+6	dem	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+-
+7	Fin	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-
+8	ger	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-
+
+1	Öff	+	2	.	.	VV	VVFIN	1	daktyl	daktyl.di.plus	+--+--+-+--+-
+2	net	-	0	.	.	VV	VVFIN	2	daktyl	daktyl.di.plus	+--+--+-+--+-
+3	des	-	0	:	.	AR	ART	0	daktyl	daktyl.di.plus	+--+--+-+--+-
+4	ei	+	1	.	.	ADJ	ADJA	1	daktyl	daktyl.di.plus	+--+--+-+--+-
+5	ser	-	0	.	.	ADJ	ADJA	2	daktyl	daktyl.di.plus	+--+--+-+--+-
+6	nen	-	0	.	.	ADJ	ADJA	3	daktyl	daktyl.di.plus	+--+--+-+--+-
+7	Him	+	2	:	.	NN	NN	1	daktyl	daktyl.di.plus	+--+--+-+--+-
+8	mels	-	0	.	.	NN	NN	2	daktyl	daktyl.di.plus	+--+--+-+--+-
+9	blu	+	1	.	.	ADJ	ADJA	1	daktyl	daktyl.di.plus	+--+--+-+--+-
+10	ten	-	0	:	.	ADJ	ADJA	2	daktyl	daktyl.di.plus	+--+--+-+--+-
+11	de	-	0	.	.	ADJ	ADJA	3	daktyl	daktyl.di.plus	+--+--+-+--+-
+12	To	+	2	.	.	NN	NN	1	daktyl	daktyl.di.plus	+--+--+-+--+-
+13	re	-	0	.	:	NN	NN	2	daktyl	daktyl.di.plus	+--+--+-+--+-
+
+1	Je	-	0	.	.	ADV	ADV	1	iambic	iambic.tetra	-+-+-+-+
+2	doch	+	2	:	:	ADV	ADV	2	iambic	iambic.tetra	-+-+-+-+
+3	wenn	-	0	.	.	KO	KOUS	0	iambic	iambic.tetra	-+-+-+-+
+4	er	+	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+5	aus	-	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+6	ih	+	0	.	.	PP	PPOSAT	1	iambic	iambic.tetra	-+-+-+-+
+7	rer	-	0	.	.	PP	PPOSAT	2	iambic	iambic.tetra	-+-+-+-+
+8	Hand	+	2	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Die	+	0	.	.	PD	PDAT	1	troch	troch.tetra	+-+-+-+-
+2	ser	-	0	:	.	PD	PDAT	2	troch	troch.tetra	+-+-+-+-
+3	Blick	+	2	.	:	NN	NN	0	troch	troch.tetra	+-+-+-+-
+4	voll	-	0	.	.	ADJ	ADJD	0	troch	troch.tetra	+-+-+-+-
+5	Treu	+	1	:	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+6	und	-	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+-
+7	Gü	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	te	-	0	:	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.chol.relaxed	-+-+-+--+
+2	aus	+	0	:	.	AP	APPR	0	iambic	iambic.chol.relaxed	-+-+-+--+
+3	der	-	0	.	.	AR	ART	0	iambic	iambic.chol.relaxed	-+-+-+--+
+4	Her	+	2	.	.	NN	NN	1	iambic	iambic.chol.relaxed	-+-+-+--+
+5	zens	-	0	:	.	NN	NN	2	iambic	iambic.chol.relaxed	-+-+-+--+
+6	wun	+	1	.	.	NN	NN	3	iambic	iambic.chol.relaxed	-+-+-+--+
+7	de	-	0	.	.	NN	NN	4	iambic	iambic.chol.relaxed	-+-+-+--+
+8	her	-	0	:	.	PT	PTKVZ	1	iambic	iambic.chol.relaxed	-+-+-+--+
+9	vor	+	2	.	:	PT	PTKVZ	2	iambic	iambic.chol.relaxed	-+-+-+--+
+
+1	Aus	-	0	:	.	AP	APPR	0	amphi	amphi.di.relaxed	-+--+-
+2	rol	+	1	.	.	ADJ	ADJA	1	amphi	amphi.di.relaxed	-+--+-
+3	len	-	0	.	.	ADJ	ADJA	2	amphi	amphi.di.relaxed	-+--+-
+4	den	-	0	.	.	ADJ	ADJA	3	amphi	amphi.di.relaxed	-+--+-
+5	Wol	+	2	:	.	NN	NN	1	amphi	amphi.di.relaxed	-+--+-
+6	ken	-	0	.	:	NN	NN	2	amphi	amphi.di.relaxed	-+--+-
+
+1	Ich	+	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+2	er	-	0	:	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+
+3	ken	+	2	.	.	VV	VVFIN	2	troch	troch.tetra	+-+-+-+
+4	ne	-	0	.	.	VV	VVFIN	3	troch	troch.tetra	+-+-+-+
+5	dich	+	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+6	nicht	-	0	.	.	PT	PTKNEG	0	troch	troch.tetra	+-+-+-+
+7	mehr	+	2	.	:	ADV	ADV	0	troch	troch.tetra	+-+-+-+
+
+1	Reißt	+	1	.	.	VV	VVFIN	0	troch	troch.tetra	+-+-+-+-
+2	die	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	Kreu	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	ze	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	aus	+	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+6	der	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+7	Er	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	den	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Le	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	ben	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	die	+	0	.	.	PR	PRELS	0	iambic	iambic.penta	-+-+-+-+-+-
+5	sich	-	0	:	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+-
+6	ganz	+	1	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+-
+7	am	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+-
+8	Grun	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	de	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	stau	+	1	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+-
+11	en	-	0	:	.	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+2	muß	+	1	:	.	VM	VMFIN	0	iambic	iambic.tri	-+-+-+-
+3	es	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+4	selbst	+	2	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+-
+5	dir	-	0	:	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+6	sa	+	2	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	gen	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+2	Welt	+	1	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+3	ent	-	0	.	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+
+4	frem	+	2	.	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+
+5	det	-	0	:	:	VV	VVPP	3	iambic	iambic.penta	-+-+-+-+-+
+6	fremd	+	2	.	.	ADJ	ADJD	0	iambic	iambic.penta	-+-+-+-+-+
+7	dem	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+8	tief	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+9	sten	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+10	Ich	+	2	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Mein	-	0	.	.	PP	PPOSAT	0	iambic	iambic.tri	-+-+-+
+2	Ring	+	1	:	.	NN	NN	1	iambic	iambic.tri	-+-+-+
+3	lein	-	0	.	.	NN	NN	2	iambic	iambic.tri	-+-+-+
+4	sprang	+	0	.	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+
+5	ent	-	0	:	.	PT	PTKVZ	1	iambic	iambic.tri	-+-+-+
+6	zwei	+	2	.	:	PT	PTKVZ	2	iambic	iambic.tri	-+-+-+
+
+1	Lief	+	1	.	.	VV	VVFIN	0	troch	troch.tetra	+-+-+-+
+2	er	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+3	schnell	+	2	.	.	ADJ	ADJD	0	troch	troch.tetra	+-+-+-+
+4	es	-	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+5	nah	+	2	:	.	ADJ	ADJD	0	troch	troch.tetra	+-+-+-+
+6	zu	-	0	.	.	PT	PTKZU	0	troch	troch.tetra	+-+-+-+
+7	sehn	+	1	.	:	VV	VVINF	0	troch	troch.tetra	+-+-+-+
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	Ne	+	1	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+3	bel	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+4	drückt	+	2	.	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+5	die	-	0	:	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+6	Dä	+	1	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+7	cher	-	0	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+8	schwer	+	2	:	:	ADJ	ADJD	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Der	-	0	.	.	PD	PDS	0	iambic	iambic.chol.relaxed	-+-+-+--+
+2	schaut	+	1	:	.	VV	VVFIN	0	iambic	iambic.chol.relaxed	-+-+-+--+
+3	nach	-	0	.	.	AP	APPR	0	iambic	iambic.chol.relaxed	-+-+-+--+
+4	vorn	+	2	.	:	ADV	ADV	0	iambic	iambic.chol.relaxed	-+-+-+--+
+5	und	-	0	:	.	KO	KON	0	iambic	iambic.chol.relaxed	-+-+-+--+
+6	schaut	+	1	.	.	VV	VVFIN	0	iambic	iambic.chol.relaxed	-+-+-+--+
+7	in	-	0	.	.	AP	APPR	0	iambic	iambic.chol.relaxed	-+-+-+--+
+8	die	-	0	:	.	AR	ART	0	iambic	iambic.chol.relaxed	-+-+-+--+
+9	Rund	+	2	.	.	NN	NN	0	iambic	iambic.chol.relaxed	-+-+-+--+
+
+1	Wohl	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+-
+2	ei	+	0	:	.	AR	ART	1	iambic	iambic.tri	-+-+-+-
+3	ne	-	0	.	.	AR	ART	2	iambic	iambic.tri	-+-+-+-
+4	gu	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tri	-+-+-+-
+5	te	-	0	:	.	ADJ	ADJA	2	iambic	iambic.tri	-+-+-+-
+6	Wei	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+7	le	-	0	.	:	NN	NN	2	iambic	iambic.tri	-+-+-+-
+
+1	Aus	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+2	ih	+	0	:	.	PP	PPOSAT	1	iambic	iambic.penta	-+-+-+-+-+
+3	rem	-	0	.	.	PP	PPOSAT	2	iambic	iambic.penta	-+-+-+-+-+
+4	Loch	+	2	.	:	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+5	Er	-	0	:	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+6	schmeckt	+	2	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+7	wie	-	0	.	.	KO	KOKOM	0	iambic	iambic.penta	-+-+-+-+-+
+8	star	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+9	ker	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+10	Wein	+	2	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	--+-+--+--+
+2	die	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	--+-+--+--+
+3	Angst	+	1	:	.	NN	NN	0	iambic	iambic.relaxed.syll	--+-+--+--+
+4	be	-	0	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	--+-+--+--+
+5	flü	+	2	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	--+-+--+--+
+6	gelt	-	0	.	.	VV	VVFIN	3	iambic	iambic.relaxed.syll	--+-+--+--+
+7	den	-	0	:	.	AR	ART	0	iambic	iambic.relaxed.syll	--+-+--+--+
+8	ei	+	1	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	--+-+--+--+
+9	len	-	0	.	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	--+-+--+--+
+10	den	-	0	.	.	ADJ	ADJA	3	iambic	iambic.relaxed.syll	--+-+--+--+
+11	Fuß	+	2	:	:	NN	NN	0	iambic	iambic.relaxed.syll	--+-+--+--+
+
+1	Mit	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+2	Glanz	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+3	und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+
+4	Glut	+	2	.	:	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+5	mit	-	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+6	qual	+	2	.	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+
+7	voll	-	0	.	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+
+8	bun	+	1	:	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+9	ter	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+10	Pracht	+	2	.	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Im	+	1	.	.	ADV	ADV	1	troch	troch.tri	+-+-+-
+2	mer	-	0	:	.	ADV	ADV	2	troch	troch.tri	+-+-+-
+3	neu	+	2	.	.	ADJ	ADJA	1	troch	troch.tri	+-+-+-
+4	e	-	0	.	.	ADJ	ADJA	2	troch	troch.tri	+-+-+-
+5	Güs	+	2	:	.	NN	NN	1	troch	troch.tri	+-+-+-
+6	se	-	0	.	:	NN	NN	2	troch	troch.tri	+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	-+--+-+-
+2	ste	+	2	:	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+--+-+-
+3	che	-	0	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+--+-+-
+4	den	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+--+-+-
+5	Star	+	1	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+-
+6	den	-	0	:	.	AR	ART	0	iambic	iambic.relaxed.syll	-+--+-+-
+7	Rie	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+-
+8	sen	-	0	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+-
+
+1	Änn	+	1	.	.	NN	NN	1	daktyl	daktyl.tetra	+--+--+--+
+2	chen	-	0	.	.	NN	NN	2	daktyl	daktyl.tetra	+--+--+--+
+3	von	-	0	:	.	AP	APPR	0	daktyl	daktyl.tetra	+--+--+--+
+4	Tha	+	2	.	.	NN	NN	1	daktyl	daktyl.tetra	+--+--+--+
+5	rau	-	0	.	:	NN	NN	2	daktyl	daktyl.tetra	+--+--+--+
+6	mein	-	0	.	.	PP	PPOSAT	0	daktyl	daktyl.tetra	+--+--+--+
+7	Reich	+	2	:	.	NN	NN	1	daktyl	daktyl.tetra	+--+--+--+
+8	tum	-	0	.	.	NN	NN	2	daktyl	daktyl.tetra	+--+--+--+
+9	mein	-	0	.	:	PP	PPOSAT	0	daktyl	daktyl.tetra	+--+--+--+
+10	Gut	+	2	.	.	NN	NN	0	daktyl	daktyl.tetra	+--+--+--+
+
+1	Hin	-	2	.	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+-
+2	wan	+	0	:	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+-
+3	delnd	-	0	.	.	VV	VVPP	3	iambic	iambic.penta	-+-+-+-+-+-
+4	durch	+	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+5	den	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+6	däm	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+7	mer	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+8	vol	+	0	:	.	ADJ	ADJA	3	iambic	iambic.penta	-+-+-+-+-+-
+9	len	-	0	.	.	ADJ	ADJA	4	iambic	iambic.penta	-+-+-+-+-+-
+10	Gar	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ten	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Noch	-	0	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+2	ein	+	1	:	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+3	mal	-	0	.	.	ADV	ADV	3	iambic	iambic.penta	-+-+-+-+-+-
+4	wirft	+	1	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+5	der	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+6	Draht	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	seil	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	zug	+	1	:	.	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+-
+9	mit	-	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+10	Kreis	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	chen	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Das	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+2	gro	+	1	:	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+3	ße	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+4	Tor	+	2	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+5	ging	-	0	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+6	ras	+	1	.	.	ADJ	ADJD	1	iambic	iambic.tetra	-+-+-+-+
+7	selnd	-	0	.	.	ADJ	ADJD	2	iambic	iambic.tetra	-+-+-+-+
+8	auf	+	2	:	:	PT	PTKVZ	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Da	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+2	geht	+	1	:	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+
+3	ein	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+4	Müh	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+
+5	len	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+
+6	rad	+	1	.	:	NN	NN	3	iambic	iambic.tri	-+-+-+
+
+1	Auf	+	1	.	.	AP	APPR	0	daktyl	daktyl.tetra	+--+--+--+
+2	mich	-	0	.	.	PP	PPER	0	daktyl	daktyl.tetra	+--+--+--+
+3	ge	-	0	:	.	VV	VVPP	1	daktyl	daktyl.tetra	+--+--+--+
+4	rich	+	2	.	.	VV	VVPP	2	daktyl	daktyl.tetra	+--+--+--+
+5	tet	-	0	.	:	VV	VVPP	3	daktyl	daktyl.tetra	+--+--+--+
+6	in	-	0	.	.	AP	APPR	0	daktyl	daktyl.tetra	+--+--+--+
+7	Lieb	+	1	:	.	NN	NN	0	daktyl	daktyl.tetra	+--+--+--+
+8	und	-	0	.	.	KO	KON	0	daktyl	daktyl.tetra	+--+--+--+
+9	in	-	0	.	.	AP	APPR	0	daktyl	daktyl.tetra	+--+--+--+
+10	Schmerz	+	2	.	.	NN	NN	0	daktyl	daktyl.tetra	+--+--+--+
+
+1	Ach	+	2	.	:	IT	ITJ	0	troch	troch.tetra	+-+-+-+
+2	vor	-	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+3	Lie	+	1	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	be	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	to	+	2	:	.	ADJ	ADJD	1	troch	troch.tetra	+-+-+-+
+6	des	-	0	.	.	ADJ	ADJD	2	troch	troch.tetra	+-+-+-+
+7	wund	+	1	.	.	ADJ	ADJD	3	troch	troch.tetra	+-+-+-+
+
+1	Die	+	0	.	.	AR	ART	0	troch	troch.tri	+-+-+-
+2	ich	-	0	:	.	PP	PPER	0	troch	troch.tri	+-+-+-
+3	rief	+	2	.	:	VV	VVFIN	0	troch	troch.tri	+-+-+-
+4	die	-	0	.	.	AR	ART	0	troch	troch.tri	+-+-+-
+5	Gei	+	2	:	.	NN	NN	1	troch	troch.tri	+-+-+-
+6	ster	-	0	.	.	NN	NN	2	troch	troch.tri	+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+-
+2	man	+	1	:	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+3	ches	-	0	.	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+4	mal	+	0	.	.	ADV	ADV	3	iambic	iambic.penta	-+-+-+-+-+-
+5	ein	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+6	Lä	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+7	cheln	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+8	her	+	2	:	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	ge	-	0	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	wen	+	1	.	.	VV	VVFIN	3	iambic	iambic.penta	-+-+-+-+-+-
+11	det	-	0	:	.	VV	VVFIN	4	iambic	iambic.penta	-+-+-+-+-+-
+
+1	In	+	0	.	.	AP	APPR	0	troch	troch.hexa	+-+-+-+-+-+
+2	des	-	0	:	.	AR	ART	0	troch	troch.hexa	+-+-+-+-+-+
+3	to	+	1	.	.	ADJ	ADJA	1	troch	troch.hexa	+-+-+-+-+-+
+4	ten	-	0	.	.	ADJ	ADJA	2	troch	troch.hexa	+-+-+-+-+-+
+5	Dun	+	2	:	.	NN	NN	1	troch	troch.hexa	+-+-+-+-+-+
+6	kels	-	0	.	.	NN	NN	2	troch	troch.hexa	+-+-+-+-+-+
+7	kal	+	1	.	.	ADJ	ADJA	1	troch	troch.hexa	+-+-+-+-+-+
+8	ten	-	0	:	.	ADJ	ADJA	2	troch	troch.hexa	+-+-+-+-+-+
+9	Wü	+	2	.	.	NN	NN	1	troch	troch.hexa	+-+-+-+-+-+
+10	sten	-	0	.	.	NN	NN	2	troch	troch.hexa	+-+-+-+-+-+
+11	ein	+	1	:	:	NN	NN	3	troch	troch.hexa	+-+-+-+-+-+
+
+1	Wird	-	0	.	.	VA	VAFIN	0	iambic	iambic.tetra	-+-+-+-+-
+2	de	+	1	:	.	ADJ	ADJD	1	iambic	iambic.tetra	-+-+-+-+-
+3	po	-	0	.	.	ADJ	ADJD	2	iambic	iambic.tetra	-+-+-+-+-
+4	niert	+	2	.	.	ADJ	ADJD	3	iambic	iambic.tetra	-+-+-+-+-
+5	am	-	0	:	.	AP	APPRART	0	iambic	iambic.tetra	-+-+-+-+-
+6	sel	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+-
+7	ben	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+-
+8	Or	+	2	:	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+9	te	-	0	.	:	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+
+1	Doch	-	0	.	.	KO	KON	0	iambic	iambic.penta	-+-+-+-+-+
+2	die	+	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+3	Dä	-	0	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+4	mo	+	2	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+5	nen	-	0	:	.	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+
+6	wach	+	1	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+
+7	sen	-	0	.	.	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+
+8	rie	+	1	:	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+
+9	sen	-	0	.	.	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+
+10	groß	+	2	.	:	VV	VVFIN	3	iambic	iambic.penta	-+-+-+-+-+
+
+1	Diß	-	1	.	:	PD	PDS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	und	+	0	:	.	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	noch	-	0	.	.	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	mehr	+	2	.	.	PI	PIAT	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	als	-	0	:	.	KO	KOKOM	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	diß	+	1	.	.	PD	PDS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	muß	-	0	.	:	VM	VMFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	end	+	1	:	.	ADV	ADV	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	lich	-	0	.	.	ADV	ADV	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	un	+	2	.	.	VV	VVINF	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	ter	-	0	:	.	VV	VVINF	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	ge	+	1	.	.	VV	VVINF	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	hen	-	0	.	.	VV	VVINF	4	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	In	+	0	.	.	AP	APPR	0	troch	troch.hexa	+-+-+-+-+-+
+2	der	-	0	:	.	AR	ART	0	troch	troch.hexa	+-+-+-+-+-+
+3	Nacht	+	2	.	.	NN	NN	0	troch	troch.hexa	+-+-+-+-+-+
+4	er	-	0	.	.	PP	PPER	0	troch	troch.hexa	+-+-+-+-+-+
+5	jagt	+	1	:	.	VV	VVFIN	0	troch	troch.hexa	+-+-+-+-+-+
+6	das	-	0	.	.	AR	ART	0	troch	troch.hexa	+-+-+-+-+-+
+7	Feu	+	2	.	.	NN	NN	1	troch	troch.hexa	+-+-+-+-+-+
+8	er	-	0	:	.	NN	NN	2	troch	troch.hexa	+-+-+-+-+-+
+9	quer	+	1	.	.	NE	NE	1	troch	troch.hexa	+-+-+-+-+-+
+10	feld	-	0	.	.	NE	NE	2	troch	troch.hexa	+-+-+-+-+-+
+11	ein	+	2	:	:	NE	NE	3	troch	troch.hexa	+-+-+-+-+-+
+
+1	Ach	+	2	.	:	IT	ITJ	0	troch	troch.tetra	+-+-+-+-
+2	ich	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+3	bin	+	0	.	.	VA	VAFIN	0	troch	troch.tetra	+-+-+-+-
+4	des	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+5	Trei	+	1	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	bens	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	mü	+	2	.	.	ADJ	ADJD	1	troch	troch.tetra	+-+-+-+-
+8	de	-	0	:	.	ADJ	ADJD	2	troch	troch.tetra	+-+-+-+-
+
+1	Es	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+2	schwimmt	+	1	:	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+3	ein	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+4	Lei	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+5	chen	-	0	:	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+6	zug	+	1	.	.	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+
+7	im	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+
+8	Meer	+	1	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+10	Stadt	+	2	.	:	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+
+1	Un	+	0	.	.	PP	PPOSAT	1	amphi	amphi.di.relaxed	+--+-
+2	se	-	0	.	.	PP	PPOSAT	2	amphi	amphi.di.relaxed	+--+-
+3	res	-	0	:	.	PP	PPOSAT	3	amphi	amphi.di.relaxed	+--+-
+4	Da	+	2	.	.	NN	NN	1	amphi	amphi.di.relaxed	+--+-
+
+1	Jetzt	-	0	.	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+--+-+-
+2	wird	+	1	.	.	VA	VAFIN	0	iambic	iambic.relaxed.syll	-+--+-+-
+3	er	-	0	:	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+--+-+-
+4	ans	-	0	.	.	AP	APPRART	0	iambic	iambic.relaxed.syll	-+--+-+-
+5	Kreuz	+	2	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+-
+6	ge	-	0	:	.	VV	VVPP	1	iambic	iambic.relaxed.syll	-+--+-+-
+7	schla	+	1	.	.	VV	VVPP	2	iambic	iambic.relaxed.syll	-+--+-+-
+8	gen	-	0	.	:	VV	VVPP	3	iambic	iambic.relaxed.syll	-+--+-+-
+
+1	da	-	0	.	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+--+-+-+
+2	klingt's	+	1	:	.	VV	VVFIN	0	iambic	iambic.relaxed.syll	-+--+-+-+
+3	aus	-	0	.	.	AP	APPR	0	iambic	iambic.relaxed.syll	-+--+-+-+
+4	dem	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+--+-+-+
+5	Schiffs	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+-+
+6	raum	-	0	:	.	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+-+
+7	her	+	1	.	.	PT	PTKVZ	0	iambic	iambic.relaxed.syll	-+--+-+-+
+8	wie	-	0	.	.	KO	KOKOM	0	iambic	iambic.relaxed.syll	-+--+-+-+
+9	Schrei	+	2	:	:	NN	NN	0	iambic	iambic.relaxed.syll	-+--+-+-+
+
+1	Im	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Wind	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+3	sich	-	0	.	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+-
+4	frö	+	2	.	.	ADJ	ADJD	1	iambic	iambic.penta	-+-+-+-+-+-
+5	stelnd	-	0	:	.	ADJ	ADJD	2	iambic	iambic.penta	-+-+-+-+-+-
+6	blau	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+7	e	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+8	A	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	stern	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	nei	+	1	.	.	VV	VVFIN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	gen	-	0	:	:	VV	VVFIN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Im	-	0	.	.	AP	APPRART	0	iambic	iambic.di	-+-+-
+2	Blü	+	2	:	.	NN	NN	1	iambic	iambic.di	-+-+-
+3	ten	-	0	.	.	NN	NN	2	iambic	iambic.di	-+-+-
+4	damp	+	1	.	.	NN	NN	3	iambic	iambic.di	-+-+-
+5	fe	-	0	:	:	NN	NN	4	iambic	iambic.di	-+-+-
+
+1	Von	-	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+-
+2	Gift	+	2	:	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+3	und	-	0	.	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+4	Neid	+	2	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+5	ge	-	0	:	.	VV	VVPP	1	iambic	iambic.tri	-+-+-+-
+6	schwol	+	2	.	.	VV	VVPP	2	iambic	iambic.tri	-+-+-+-
+7	len	-	0	.	:	VV	VVPP	3	iambic	iambic.tri	-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+2	an	+	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+3	den	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+4	Ber	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+5	gen	-	0	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+6	hing	+	1	.	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+7	die	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+8	Nacht	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Steig	-	0	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	aus	+	2	:	:	PT	PTKVZ	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	du	-	0	.	.	PP	PPER	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	mü	+	1	.	.	ADJ	ADJA	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	der	-	0	:	.	ADJ	ADJA	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	Geist	+	2	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	Steig	-	0	.	:	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	aus	+	2	:	.	PT	PTKVZ	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	Wir	-	0	.	.	PP	PPER	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	sind	+	0	.	:	VA	VAFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	am	-	0	:	.	AP	APPRART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	Lan	+	2	.	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	de	-	0	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	Das	-	0	.	.	PD	PDS	0	iambic	iambic.chol.relaxed	-+-+--+
+2	kommt	+	1	:	.	VV	VVFIN	0	iambic	iambic.chol.relaxed	-+-+--+
+3	mir	-	0	.	.	PP	PPER	0	iambic	iambic.chol.relaxed	-+-+--+
+4	nicht	+	2	.	.	PT	PTKNEG	0	iambic	iambic.chol.relaxed	-+-+--+
+5	aus	-	0	:	.	AP	APPR	0	iambic	iambic.chol.relaxed	-+-+--+
+6	dem	-	0	.	.	AR	ART	0	iambic	iambic.chol.relaxed	-+-+--+
+7	Sinn	+	2	.	:	NN	NN	0	iambic	iambic.chol.relaxed	-+-+--+
+
+1	Und	-	0	.	.	KO	KON	0	amphi	amphi.tri	-+--+--+-
+2	hielt	+	1	:	.	VV	VVFIN	0	amphi	amphi.tri	-+--+--+-
+3	ei	-	0	.	.	AR	ART	1	amphi	amphi.tri	-+--+--+-
+4	ne	-	0	.	.	AR	ART	2	amphi	amphi.tri	-+--+--+-
+5	Re	+	2	.	.	NN	NN	1	amphi	amphi.tri	-+--+--+-
+6	de	-	0	:	:	NN	NN	2	amphi	amphi.tri	-+--+--+-
+7	sehr	-	0	.	.	ADV	ADV	0	amphi	amphi.tri	-+--+--+-
+8	lan	+	2	.	.	ADV	ADV	1	amphi	amphi.tri	-+--+--+-
+9	ge	-	0	.	.	ADV	ADV	2	amphi	amphi.tri	-+--+--+-
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+2	To	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+3	ten	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+4	schaun	+	2	.	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+5	den	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+6	ro	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+7	ten	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+8	Un	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	ter	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+10	gang	+	0	.	.	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+
+
+1	Mir	+	1	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+2	er	-	0	:	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+-
+3	scheint	+	2	.	.	VV	VVFIN	2	troch	troch.tetra	+-+-+-+-
+4	der	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+5	Lenz	+	1	:	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+6	ver	-	0	.	.	ADV	ADV	1	troch	troch.tetra	+-+-+-+-
+7	ge	+	2	.	.	ADV	ADV	2	troch	troch.tetra	+-+-+-+-
+8	bens	-	0	:	:	ADV	ADV	3	troch	troch.tetra	+-+-+-+-
+
+1	Hab	+	1	.	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+2	ich	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+3	doch	+	0	.	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+-
+4	das	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+5	Wort	+	2	:	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+6	ver	-	0	.	.	VV	VVPP	1	troch	troch.tetra	+-+-+-+-
+7	ges	+	1	.	.	VV	VVPP	2	troch	troch.tetra	+-+-+-+-
+8	sen	-	0	:	:	VV	VVPP	3	troch	troch.tetra	+-+-+-+-
+
+1	Wie	-	0	.	.	PW	PWAV	0	iambic	iambic.penta	-+-+-+-+-+
+2	sehnt	+	2	:	.	VV	VVFIN	0	iambic	iambic.penta	-+-+-+-+-+
+3	ich	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+4	mich	+	0	.	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+
+5	oft	-	1	:	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+
+6	nach	+	0	.	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+7	der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+8	Sü	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	ßig	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.tri	-+-+-+
+2	la	+	1	:	.	ADJ	ADJD	1	iambic	iambic.tri	-+-+-+
+3	chend	-	0	.	.	ADJ	ADJD	2	iambic	iambic.tri	-+-+-+
+4	mir	+	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+
+5	dein	-	0	:	.	PP	PPOSAT	0	iambic	iambic.tri	-+-+-+
+6	Mund	+	2	.	:	NN	NN	0	iambic	iambic.tri	-+-+-+
+
+1	Und	+	0	.	.	KO	KON	0	asklepiade	asklepiade	+-+--++--+-+
+2	der	-	0	:	.	AR	ART	0	asklepiade	asklepiade	+-+--++--+-+
+3	spie	+	1	.	.	ADJ	ADJA	1	asklepiade	asklepiade	+-+--++--+-+
+4	len	-	0	.	.	ADJ	ADJA	2	asklepiade	asklepiade	+-+--++--+-+
+5	de	-	0	.	.	ADJ	ADJA	3	asklepiade	asklepiade	+-+--++--+-+
+6	Trupp	+	2	.	:	NN	NN	0	asklepiade	asklepiade	+-+--++--+-+
+7	schwir	+	2	:	.	VV	VVFIN	1	asklepiade	asklepiade	+-+--++--+-+
+8	ret	-	0	.	.	VV	VVFIN	2	asklepiade	asklepiade	+-+--++--+-+
+9	zu	-	0	.	.	AP	APPR	0	asklepiade	asklepiade	+-+--++--+-+
+10	ihm	+	0	.	.	PP	PPER	0	asklepiade	asklepiade	+-+--++--+-+
+11	her	-	0	.	.	ADV	ADV	1	asklepiade	asklepiade	+-+--++--+-+
+12	ab	+	1	:	.	ADV	ADV	2	asklepiade	asklepiade	+-+--++--+-+
+
+1	Mit	+	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+
+2	den	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+3	Ab	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+4	schieds	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+5	flam	+	1	:	.	NN	NN	3	troch	troch.tetra	+-+-+-+
+6	men	-	0	.	.	NN	NN	4	troch	troch.tetra	+-+-+-+
+7	küßt	+	1	.	:	VV	VVFIN	0	troch	troch.tetra	+-+-+-+
+
+1	Weg	+	0	.	.	NN	NN	0	troch	troch.tetra	+-+-+-+
+2	dein	-	0	:	.	PP	PPOSAT	0	troch	troch.tetra	+-+-+-+
+3	Fleiß	+	2	.	:	NN	NN	0	troch	troch.tetra	+-+-+-+
+4	und	-	0	.	.	KO	KON	0	troch	troch.tetra	+-+-+-+
+5	dei	+	0	:	.	PP	PPOSAT	1	troch	troch.tetra	+-+-+-+
+6	ne	-	0	.	.	PP	PPOSAT	2	troch	troch.tetra	+-+-+-+
+7	Ruh	+	2	.	.	NN	NN	0	troch	troch.tetra	+-+-+-+
+
+1	Weck	+	2	.	.	KO	KOUS	1	troch	troch.tetra	+-+-+-+-
+2	end	-	0	:	.	KO	KOUS	2	troch	troch.tetra	+-+-+-+-
+3	die	+	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+4	ur	-	0	.	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+-
+5	al	+	1	:	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+-
+6	ten	-	0	.	.	ADJ	ADJA	3	troch	troch.tetra	+-+-+-+-
+7	Lie	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	der	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+--+
+2	Zu	+	2	:	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+--+
+3	kunft	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+--+
+4	fröh	+	1	.	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+-+--+--+
+5	li	-	0	:	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+-+--+--+
+6	che	-	0	.	.	ADJ	ADJA	3	iambic	iambic.relaxed.syll	-+-+--+--+
+7	Ka	+	1	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+--+
+8	val	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+--+
+9	le	-	0	:	.	NN	NN	3	iambic	iambic.relaxed.syll	-+-+--+--+
+
+1	Heim	+	2	.	.	NN	NN	1	iambic	iambic.invert	+--+-++--+-+-
+2	weh	-	0	:	.	NN	NN	2	iambic	iambic.invert	+--+-++--+-+-
+3	heult	-	0	.	.	VV	VVFIN	0	iambic	iambic.invert	+--+-++--+-+-
+4	wahn	+	2	.	.	ADJ	ADJD	1	iambic	iambic.invert	+--+-++--+-+-
+5	sinns	-	0	:	.	ADJ	ADJD	2	iambic	iambic.invert	+--+-++--+-+-
+6	wild	+	1	.	:	ADJ	ADJD	3	iambic	iambic.invert	+--+-++--+-+-
+7	Heim	+	2	.	.	NN	NN	1	iambic	iambic.invert	+--+-++--+-+-
+8	weh	-	0	:	.	NN	NN	2	iambic	iambic.invert	+--+-++--+-+-
+9	weint	-	0	.	.	VV	VVFIN	0	iambic	iambic.invert	+--+-++--+-+-
+10	sü	+	1	.	.	ADJ	ADJA	1	iambic	iambic.invert	+--+-++--+-+-
+11	ße	-	0	:	.	ADJ	ADJA	2	iambic	iambic.invert	+--+-++--+-+-
+12	Wei	+	2	.	.	NN	NN	1	iambic	iambic.invert	+--+-++--+-+-
+13	sen	-	0	.	.	NN	NN	2	iambic	iambic.invert	+--+-++--+-+-
+
+1	Und	-	0	.	.	KO	KON	0	anapaest	anapaest.di.plus	--+--+-
+2	der	-	0	.	.	AR	ART	0	anapaest	anapaest.di.plus	--+--+-
+3	Kö	+	1	:	.	NN	NN	1	anapaest	anapaest.di.plus	--+--+-
+4	nig	-	0	.	.	NN	NN	2	anapaest	anapaest.di.plus	--+--+-
+5	winkt	-	0	.	.	VV	VVFIN	0	anapaest	anapaest.di.plus	--+--+-
+6	wie	+	2	.	.	ADV	ADV	1	anapaest	anapaest.di.plus	--+--+-
+7	der	-	0	:	:	ADV	ADV	2	anapaest	anapaest.di.plus	--+--+-
+
+1	Auch	+	1	.	.	ADV	ADV	0	troch	troch.tetra	+-+-+-+-
+2	nach	-	0	:	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+3	mei	+	2	.	.	PP	PPOSAT	1	troch	troch.tetra	+-+-+-+-
+4	nem	-	0	.	.	PP	PPOSAT	2	troch	troch.tetra	+-+-+-+-
+5	Wil	+	1	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	len	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	le	+	2	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	ben	-	0	:	:	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	her	+	2	.	.	VV	VVPP	1	iambic	iambic.penta.invert	+--+-+-+-+
+2	sa	-	0	.	.	VV	VVPP	2	iambic	iambic.penta.invert	+--+-+-+-+
+3	gend	-	0	.	:	VV	VVPP	3	iambic	iambic.penta.invert	+--+-+-+-+
+4	und	+	0	:	.	KO	KON	0	iambic	iambic.penta.invert	+--+-+-+-+
+5	Ge	-	0	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+6	bär	+	2	.	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+7	den	-	0	:	.	NN	NN	3	iambic	iambic.penta.invert	+--+-+-+-+
+8	dann	+	1	.	.	ADV	ADV	0	iambic	iambic.penta.invert	+--+-+-+-+
+9	und	-	0	.	.	KO	KON	0	iambic	iambic.penta.invert	+--+-+-+-+
+10	wann	+	2	:	.	PW	PWAV	0	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	Daß	-	0	.	.	KO	KOUS	0	iambic	iambic.tri	-+-+-+-
+2	du	+	1	:	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+3	von	-	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+-
+4	mir	+	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+5	ge	-	0	:	.	VV	VVPP	1	iambic	iambic.tri	-+-+-+-
+6	fah	+	2	.	.	VV	VVPP	2	iambic	iambic.tri	-+-+-+-
+7	ren	-	0	.	:	VV	VVPP	3	iambic	iambic.tri	-+-+-+-
+
+1	Aus	+	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+2	der	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	Kno	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	spe	-	0	.	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	halb	+	1	:	.	ADJ	ADJD	0	troch	troch.tetra	+-+-+-+-
+6	er	-	0	.	.	VV	VVPP	1	troch	troch.tetra	+-+-+-+-
+7	schlos	+	2	.	.	VV	VVPP	2	troch	troch.tetra	+-+-+-+-
+8	sen	-	0	:	.	VV	VVPP	3	troch	troch.tetra	+-+-+-+-
+
+1	auf	+	2	.	.	VV	VVPP	1	iambic	iambic.penta.invert	+--+-+-+-+-
+2	he	-	0	.	.	VV	VVPP	2	iambic	iambic.penta.invert	+--+-+-+-+-
+3	bend	-	0	.	:	VV	VVPP	3	iambic	iambic.penta.invert	+--+-+-+-+-
+4	a	+	0	:	.	ADV	ADV	1	iambic	iambic.penta.invert	+--+-+-+-+-
+5	ber	-	0	.	.	ADV	ADV	2	iambic	iambic.penta.invert	+--+-+-+-+-
+6	dein	+	0	.	:	PP	PPOSAT	0	iambic	iambic.penta.invert	+--+-+-+-+-
+7	von	-	0	:	.	AP	APPR	0	iambic	iambic.penta.invert	+--+-+-+-+-
+8	uns	+	1	.	.	PP	PPER	0	iambic	iambic.penta.invert	+--+-+-+-+-
+9	ent	-	0	.	.	ADJ	ADJA	1	iambic	iambic.penta.invert	+--+-+-+-+-
+10	fern	+	2	:	.	ADJ	ADJA	2	iambic	iambic.penta.invert	+--+-+-+-+-
+11	tes	-	0	.	.	ADJ	ADJA	3	iambic	iambic.penta.invert	+--+-+-+-+-
+
+1	Hier	-	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+2	spinn'	+	2	:	.	VV	VVFIN	0	iambic	iambic.tri	-+-+-+
+3	ich	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+
+4	so	+	0	.	.	ADV	ADV	0	iambic	iambic.tri	-+-+-+
+5	all	-	0	:	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+
+6	ein	+	2	.	:	ADV	ADV	2	iambic	iambic.tri	-+-+-+
+
+1	Gott	-	0	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+2	wol	+	2	:	.	VM	VMFIN	1	iambic	iambic.tri	-+-+-+-
+3	le	-	0	.	.	VM	VMFIN	2	iambic	iambic.tri	-+-+-+-
+4	uns	+	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+5	ver	-	0	:	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+6	ei	+	2	.	.	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+7	nen	-	0	.	:	VV	VVINF	3	iambic	iambic.tri	-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	steckt	+	1	:	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	sein	-	0	.	.	PP	PPOSAT	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	Haupt	+	2	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	em	-	0	:	.	PT	PTKVZ	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	por	+	2	.	:	PT	PTKVZ	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	man	-	0	.	.	PI	PIS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	sieht	+	2	:	.	VV	VVFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	der	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	Strah	+	1	.	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	len	-	0	:	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	Pracht	+	2	.	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Doch	-	0	.	.	KO	KON	0	amphi	amphi.tri.plus	-+--+--+-+
+2	wach	+	1	.	.	ADJ	ADJD	1	amphi	amphi.tri.plus	-+--+--+-+
+3	send	-	0	:	.	ADJ	ADJD	2	amphi	amphi.tri.plus	-+--+--+-+
+4	er	-	0	.	.	VV	VVFIN	1	amphi	amphi.tri.plus	-+--+--+-+
+5	neut	+	2	.	.	VV	VVFIN	2	amphi	amphi.tri.plus	-+--+--+-+
+6	sich	-	0	.	.	PR	PRF	0	amphi	amphi.tri.plus	-+--+--+-+
+7	des	-	0	:	.	AR	ART	0	amphi	amphi.tri.plus	-+--+--+-+
+8	Stro	+	1	.	.	NN	NN	1	amphi	amphi.tri.plus	-+--+--+-+
+9	mes	-	0	.	.	NN	NN	2	amphi	amphi.tri.plus	-+--+--+-+
+10	Wut	+	2	.	:	NN	NN	0	amphi	amphi.tri.plus	-+--+--+-+
+
+1	Uns	-	0	.	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+2	sei	+	0	:	.	PP	PPOSAT	1	iambic	iambic.tri	-+-+-+-
+3	ne	-	0	.	.	PP	PPOSAT	2	iambic	iambic.tri	-+-+-+-
+4	Zei	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	chen	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	schau	+	1	.	.	VV	VVINF	1	iambic	iambic.tri	-+-+-+-
+7	en	-	0	.	:	VV	VVINF	2	iambic	iambic.tri	-+-+-+-
+
+1	Doch	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	-+-+--+-+
+2	sah	+	1	:	.	VV	VVFIN	0	iambic	iambic.relaxed.syll	-+-+--+-+
+3	er	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-+
+4	jetzt	+	2	.	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+-+--+-+
+5	wie	-	0	:	.	KO	KOKOM	0	iambic	iambic.relaxed.syll	-+-+--+-+
+6	ein	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+-+
+7	Gei	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+8	er	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+9	aus	+	1	:	:	PT	PTKVZ	0	iambic	iambic.relaxed.syll	-+-+--+-+
+
+1	Quer	-	0	.	.	ADV	ADV	1	iambic	iambic.penta	-+-+-+-+-+-
+2	weg	+	1	:	.	ADV	ADV	2	iambic	iambic.penta	-+-+-+-+-+-
+3	die	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+4	Men	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+5	schen	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+6	ei	+	2	.	.	AR	ART	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ner	-	0	.	.	AR	ART	2	iambic	iambic.penta	-+-+-+-+-+-
+8	nach	+	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+9	dem	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+10	an	+	2	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+11	dern	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Zu	-	0	.	.	PT	PTKVZ	1	iambic	iambic.relaxed.syll	-+-+--+-+
+2	rück	+	2	:	:	PT	PTKVZ	2	iambic	iambic.relaxed.syll	-+-+--+-+
+3	du	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-+
+4	ret	+	2	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+5	test	-	0	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+6	den	-	0	:	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+-+
+7	Freund	+	1	.	.	NN	NN	0	iambic	iambic.relaxed.syll	-+-+--+-+
+8	nicht	-	0	.	.	PT	PTKNEG	0	iambic	iambic.relaxed.syll	-+-+--+-+
+9	mehr	+	2	:	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+-+--+-+
+
+1	Rich	+	0	.	.	VV	VVFIN	1	daktyl	daktyl.tri	+--+--+
+2	tet	-	0	.	.	VV	VVFIN	2	daktyl	daktyl.tri	+--+--+
+3	sich	-	0	.	.	PR	PRF	0	daktyl	daktyl.tri	+--+--+
+4	auf	+	2	:	:	PT	PTKVZ	0	daktyl	daktyl.tri	+--+--+
+5	da	-	0	.	.	ADV	ADV	0	daktyl	daktyl.tri	+--+--+
+6	wird's	-	0	.	.	VA	VAFIN	0	daktyl	daktyl.tri	+--+--+
+7	still	+	2	.	.	ADJ	ADJD	0	daktyl	daktyl.tri	+--+--+
+
+1	Hört	+	1	.	.	VV	VVFIN	0	troch	troch.tetra	+-+-+-+-
+2	er	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+3	uns	+	0	.	.	PP	PPOSAT	1	troch	troch.tetra	+-+-+-+-
+4	re	-	0	.	.	PP	PPOSAT	2	troch	troch.tetra	+-+-+-+-
+5	Feu	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	er	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	brau	+	1	.	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+-
+8	sen	-	0	:	:	VV	VVFIN	2	troch	troch.tetra	+-+-+-+-
+
+1	Sieh	+	2	.	:	NE	NE	0	iambic	iambic.penta.invert	+--+-+-+-+
+2	wie	-	0	:	.	PW	PWAV	0	iambic	iambic.penta.invert	+--+-+-+-+
+3	die	-	0	.	.	AR	ART	0	iambic	iambic.penta.invert	+--+-+-+-+
+4	Schreck	+	2	.	.	NN	NN	1	iambic	iambic.penta.invert	+--+-+-+-+
+5	li	-	0	:	.	NN	NN	2	iambic	iambic.penta.invert	+--+-+-+-+
+6	chen	+	0	.	.	NN	NN	3	iambic	iambic.penta.invert	+--+-+-+-+
+7	sich	-	0	.	.	PR	PRF	0	iambic	iambic.penta.invert	+--+-+-+-+
+8	wirr	+	1	:	.	ADJ	ADJD	0	iambic	iambic.penta.invert	+--+-+-+-+
+9	zer	-	0	.	.	VV	VVINF	1	iambic	iambic.penta.invert	+--+-+-+-+
+10	streun	+	2	.	.	VV	VVINF	2	iambic	iambic.penta.invert	+--+-+-+-+
+
+1	Der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Tag	+	1	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+-
+3	ist	-	0	.	.	VA	VAFIN	0	iambic	iambic.penta	-+-+-+-+-+-
+4	karg	+	2	.	.	ADJ	ADJD	0	iambic	iambic.penta	-+-+-+-+-+-
+5	an	-	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+-
+6	lie	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+-
+7	be	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+-
+8	sü	+	1	:	.	ADJ	ADJA	3	iambic	iambic.penta	-+-+-+-+-+-
+9	ßen	-	0	.	.	ADJ	ADJA	4	iambic	iambic.penta	-+-+-+-+-+-
+10	Won	+	2	.	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+11	nen	-	0	:	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Vor	-	0	.	.	ADV	ADV	1	iambic	iambic.tri	-+-+-+-
+2	an	+	2	:	.	ADV	ADV	2	iambic	iambic.tri	-+-+-+-
+3	durch	-	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+-
+4	Schlacht	+	2	.	.	NN	NN	0	iambic	iambic.tri	-+-+-+-
+5	und	-	0	:	.	KO	KON	0	iambic	iambic.tri	-+-+-+-
+6	Grau	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+7	sen	-	0	.	:	NN	NN	2	iambic	iambic.tri	-+-+-+-
+
+1	Hat	-	0	.	:	VA	VAFIN	0	iambic	iambic.penta	-+-+-+-+-+
+2	krie	+	2	:	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+
+3	chend	-	0	.	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+
+4	sie	+	0	.	:	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+5	mit	-	0	:	.	AP	APPR	0	iambic	iambic.penta	-+-+-+-+-+
+6	grü	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+7	nem	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+8	Dreck	+	2	:	.	NN	NN	0	iambic	iambic.penta	-+-+-+-+-+
+9	be	-	0	.	.	VV	VVPP	1	iambic	iambic.penta	-+-+-+-+-+
+10	schmiert	+	1	.	.	VV	VVPP	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	Wie	-	0	.	.	PW	PWAV	0	iambic	iambic.di	-+-+-
+2	glänzt	+	1	:	.	VV	VVFIN	0	iambic	iambic.di	-+-+-
+3	die	-	0	.	.	AR	ART	0	iambic	iambic.di	-+-+-
+4	Son	+	2	.	.	NN	NN	1	iambic	iambic.di	-+-+-
+5	ne	-	0	:	:	NN	NN	2	iambic	iambic.di	-+-+-
+
+1	Wo	-	0	.	.	PW	PWAV	0	iambic	iambic.tetra	-+-+-+-+
+2	ih	+	0	:	.	PP	PPOSAT	1	iambic	iambic.tetra	-+-+-+-+
+3	rer	-	0	.	.	PP	PPOSAT	2	iambic	iambic.tetra	-+-+-+-+
+4	drei	+	2	.	.	CA	CARD	0	iambic	iambic.tetra	-+-+-+-+
+5	bei	-	0	:	.	VV	VVINF	1	iambic	iambic.tetra	-+-+-+-+
+6	sam	+	1	.	.	VV	VVINF	2	iambic	iambic.tetra	-+-+-+-+
+7	men	-	0	.	.	VV	VVINF	3	iambic	iambic.tetra	-+-+-+-+
+8	stehn	+	2	:	:	VV	VVINF	0	iambic	iambic.tetra	-+-+-+-+
+
+1	die	-	0	.	.	AR	ART	0	iambic	iambic.di	-+-+-
+2	dich	+	0	:	.	PP	PPER	0	iambic	iambic.di	-+-+-
+3	ver	-	0	.	.	VV	VVFIN	1	iambic	iambic.di	-+-+-
+4	ga	+	2	.	.	VV	VVFIN	2	iambic	iambic.di	-+-+-
+5	ßen	-	0	:	:	VV	VVFIN	3	iambic	iambic.di	-+-+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-+
+2	hei	+	1	:	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+3	ße	-	0	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+4	Nie	+	2	.	.	PI	PIS	1	iambic	iambic.relaxed.syll	-+-+--+-+
+5	mand	-	0	:	:	PI	PIS	2	iambic	iambic.relaxed.syll	-+-+--+-+
+6	bin	-	0	.	.	VA	VAFIN	0	iambic	iambic.relaxed.syll	-+-+--+-+
+7	Au	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+8	gen	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+9	arzt	+	1	:	.	NN	NN	3	iambic	iambic.relaxed.syll	-+-+--+-+
+
+1	Da	+	2	.	.	NE	NE	1	daktyl	daktyl.tri	+--+--+-
+2	mon	-	0	:	:	NE	NE	2	daktyl	daktyl.tri	+--+--+-
+3	den	-	0	.	.	AR	ART	0	daktyl	daktyl.tri	+--+--+-
+4	Dolch	+	1	.	.	NN	NN	0	daktyl	daktyl.tri	+--+--+-
+5	im	-	0	.	.	AP	APPRART	0	daktyl	daktyl.tri	+--+--+-
+6	Ge	-	0	:	.	NN	NN	1	daktyl	daktyl.tri	+--+--+-
+7	wan	+	2	.	.	NN	NN	2	daktyl	daktyl.tri	+--+--+-
+8	de	-	0	.	.	NN	NN	3	daktyl	daktyl.tri	+--+--+-
+
+1	Als	-	0	.	.	KO	KOUS	0	iambic	iambic.penta	-+-+-+-+-+
+2	wär	+	2	:	.	VA	VAFIN	0	iambic	iambic.penta	-+-+-+-+-+
+3	ich	-	0	.	.	PP	PPER	0	iambic	iambic.penta	-+-+-+-+-+
+4	nur	+	1	.	.	ADV	ADV	0	iambic	iambic.penta	-+-+-+-+-+
+5	ein	-	0	:	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+6	klei	+	1	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+7	ner	-	0	.	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+8	Schlag	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	mo	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+10	tor	+	1	.	:	NN	NN	3	iambic	iambic.penta	-+-+-+-+-+
+
+1	Weit	+	2	.	:	ADJ	ADJD	0	iambic	iambic.chol.relaxed	+-+--+
+2	hoch	-	2	:	.	ADJ	ADJD	0	iambic	iambic.chol.relaxed	+-+--+
+3	herr	+	2	.	:	ADJ	ADJD	1	iambic	iambic.chol.relaxed	+-+--+
+4	lich	-	0	.	.	ADJ	ADJD	2	iambic	iambic.chol.relaxed	+-+--+
+5	der	-	0	.	.	AR	ART	0	iambic	iambic.chol.relaxed	+-+--+
+6	Blick	+	1	.	.	NN	NN	0	iambic	iambic.chol.relaxed	+-+--+
+
+1	Flüch	+	2	.	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+
+2	te	-	0	:	.	VV	VVFIN	2	troch	troch.tetra	+-+-+-+
+3	te	+	0	.	.	VV	VVFIN	3	troch	troch.tetra	+-+-+-+
+4	die	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+5	Se	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+
+6	he	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+
+7	rin	+	0	.	:	NN	NN	3	troch	troch.tetra	+-+-+-+
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+--+-+--+
+2	dunk	+	1	:	.	ADJ	ADJA	1	iambic	iambic.relaxed.syll	-+--+-+--+
+3	le	-	0	.	.	ADJ	ADJA	2	iambic	iambic.relaxed.syll	-+--+-+--+
+4	Ge	-	0	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+--+-+--+
+5	stalt	+	2	.	:	NN	NN	2	iambic	iambic.relaxed.syll	-+--+-+--+
+6	so	-	0	:	.	ADV	ADV	0	iambic	iambic.relaxed.syll	-+--+-+--+
+7	wan	+	2	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+--+-+--+
+8	der	-	0	.	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+--+-+--+
+9	ten	-	0	:	.	VV	VVFIN	3	iambic	iambic.relaxed.syll	-+--+-+--+
+10	wir	+	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+--+-+--+
+
+1	Doch	-	1	.	:	KO	KON	0	iambic	iambic.tetra	-+-+-+-+-
+2	ach	+	2	:	.	IT	ITJ	0	iambic	iambic.tetra	-+-+-+-+-
+3	schon	-	0	.	.	ADV	ADV	0	iambic	iambic.tetra	-+-+-+-+-
+4	mit	+	0	.	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+-
+5	der	-	2	:	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+-
+6	Mor	+	0	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+-
+7	gen	-	1	.	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+-
+8	son	+	0	:	.	NN	NN	3	iambic	iambic.tetra	-+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	anapaest	anapaest.init	--+-+-+-
+2	das	-	1	.	.	PD	PDS	0	anapaest	anapaest.init	--+-+-+-
+3	hat	+	0	:	.	VA	VAFIN	0	anapaest	anapaest.init	--+-+-+-
+4	mit	-	0	.	.	AP	APPR	0	anapaest	anapaest.init	--+-+-+-
+5	ih	+	0	.	.	PP	PPOSAT	1	anapaest	anapaest.init	--+-+-+-
+6	rem	-	0	:	.	PP	PPOSAT	2	anapaest	anapaest.init	--+-+-+-
+7	Sin	+	2	.	.	NN	NN	1	anapaest	anapaest.init	--+-+-+-
+8	gen	-	0	.	:	NN	NN	2	anapaest	anapaest.init	--+-+-+-
+
+1	Ich	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+2	hofft	+	2	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+3	es	-	0	.	:	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+4	ich	+	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+5	ver	-	0	:	.	VV	VVFIN	1	iambic	iambic.tetra	-+-+-+-+
+6	dient	+	2	.	.	VV	VVFIN	2	iambic	iambic.tetra	-+-+-+-+
+7	es	-	0	.	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+8	nicht	+	1	:	.	PT	PTKNEG	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Hast	+	1	.	.	VA	VAFIN	0	troch	troch.tetra	+-+-+-+-
+2	du	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+3	ei	+	0	.	.	AR	ART	1	troch	troch.tetra	+-+-+-+-
+4	nen	-	0	.	.	AR	ART	2	troch	troch.tetra	+-+-+-+-
+5	Freund	+	1	:	.	NN	NN	0	troch	troch.tetra	+-+-+-+-
+6	hie	-	0	.	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+-
+7	nie	+	2	.	.	VV	VVFIN	2	troch	troch.tetra	+-+-+-+-
+8	den	-	0	:	:	VV	VVFIN	3	troch	troch.tetra	+-+-+-+-
+
+1	Hört	-	0	.	.	VV	VVIMP	0	iambic	iambic.tetra	-+-+-+-+
+2	Deutsch	+	2	:	.	NE	NE	1	iambic	iambic.tetra	-+-+-+-+
+3	land	-	0	.	:	NE	NE	2	iambic	iambic.tetra	-+-+-+-+
+4	wie	+	0	.	.	PW	PWAV	0	iambic	iambic.tetra	-+-+-+-+
+5	es	-	0	:	.	PP	PPER	0	iambic	iambic.tetra	-+-+-+-+
+6	e	+	1	.	.	ADJ	ADJD	1	iambic	iambic.tetra	-+-+-+-+
+7	wig	-	0	.	.	ADJ	ADJD	2	iambic	iambic.tetra	-+-+-+-+
+8	zieht	+	2	:	.	VV	VVFIN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Daß	-	0	.	.	KO	KOUS	0	iambic	iambic.tri	-+-+-+-
+2	ich	+	0	:	.	PP	PPER	0	iambic	iambic.tri	-+-+-+-
+3	zu	-	0	.	.	AP	APPR	0	iambic	iambic.tri	-+-+-+-
+4	Hau	+	2	.	.	NN	NN	1	iambic	iambic.tri	-+-+-+-
+5	se	-	0	:	.	NN	NN	2	iambic	iambic.tri	-+-+-+-
+6	wä	+	1	.	.	VA	VAFIN	1	iambic	iambic.tri	-+-+-+-
+7	re	-	0	.	:	VA	VAFIN	2	iambic	iambic.tri	-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+2	an	+	0	:	.	AP	APPR	0	iambic	iambic.tetra	-+-+-+-+
+3	dem	-	0	.	.	AR	ART	0	iambic	iambic.tetra	-+-+-+-+
+4	O	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+5	fen	-	0	:	.	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+6	Knecht	+	1	.	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+7	und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+8	Herr	+	2	:	:	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	im	+	1	.	.	ADV	ADV	1	troch	troch.tri	+-+-+-
+2	mer	-	0	:	.	ADV	ADV	2	troch	troch.tri	+-+-+-
+3	zu	+	2	.	:	PT	PTKVZ	0	troch	troch.tri	+-+-+-
+4	Im	-	1	.	.	ADV	ADV	1	troch	troch.tri	+-+-+-
+5	mer	+	0	:	.	ADV	ADV	2	troch	troch.tri	+-+-+-
+6	zu	-	2	.	.	PT	PTKVZ	0	troch	troch.tri	+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.relaxed.syll	-+-+--+-
+2	freu	+	2	:	.	ADJ	ADJD	1	iambic	iambic.relaxed.syll	-+-+--+-
+3	dig	-	0	.	.	ADJ	ADJD	2	iambic	iambic.relaxed.syll	-+-+--+-
+4	bückt	+	1	.	.	VV	VVFIN	0	iambic	iambic.relaxed.syll	-+-+--+-
+5	er	-	0	.	.	PP	PPER	0	iambic	iambic.relaxed.syll	-+-+--+-
+6	sich	-	0	:	.	PR	PRF	0	iambic	iambic.relaxed.syll	-+-+--+-
+7	nie	+	2	.	.	PT	PTKVZ	1	iambic	iambic.relaxed.syll	-+-+--+-
+8	der	-	0	.	:	PT	PTKVZ	2	iambic	iambic.relaxed.syll	-+-+--+-
+
+1	mit	-	0	.	.	AP	APPR	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	Rauch	+	2	:	.	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	ge	-	0	.	.	VV	VVPP	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	schwän	+	1	.	.	VV	VVPP	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	gert	-	0	:	:	VV	VVPP	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	den	+	0	.	.	PR	PRELS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	ein	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	Wind	+	1	:	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	stoß	-	0	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	nie	+	2	.	.	VV	VVPP	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	der	-	0	:	.	VV	VVPP	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	duckt	+	1	.	.	VV	VVPP	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Dein	-	0	.	.	PP	PPOSAT	0	iambic	iambic.di	-+-+
+2	Blick	+	1	:	.	NN	NN	0	iambic	iambic.di	-+-+
+3	ver	-	0	.	.	VV	VVPP	1	iambic	iambic.di	-+-+
+
+1	An	-	0	.	.	AP	APPR	0	anapaest	anapaest.tri.plus	--+--+--+-+
+2	dem	-	0	.	.	AR	ART	0	anapaest	anapaest.tri.plus	--+--+--+-+
+3	Sei	+	2	:	.	NN	NN	1	anapaest	anapaest.tri.plus	--+--+--+-+
+4	le	-	0	.	.	NN	NN	2	anapaest	anapaest.tri.plus	--+--+--+-+
+5	schon	-	0	.	.	ADV	ADV	0	anapaest	anapaest.tri.plus	--+--+--+-+
+6	zieht	+	1	.	.	VV	VVFIN	0	anapaest	anapaest.tri.plus	--+--+--+-+
+7	man	-	0	:	.	PI	PIS	0	anapaest	anapaest.tri.plus	--+--+--+-+
+8	den	-	0	.	.	AR	ART	0	anapaest	anapaest.tri.plus	--+--+--+-+
+9	Freund	+	2	.	.	NN	NN	0	anapaest	anapaest.tri.plus	--+--+--+-+
+10	em	-	0	.	.	PT	PTKVZ	1	anapaest	anapaest.tri.plus	--+--+--+-+
+11	por	+	1	:	:	PT	PTKVZ	2	anapaest	anapaest.tri.plus	--+--+--+-+
+
+1	Mich	+	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+2	ver	-	0	:	.	VV	VVFIN	1	troch	troch.tetra	+-+-+-+-
+3	der	+	2	.	.	VV	VVFIN	2	troch	troch.tetra	+-+-+-+-
+4	ben	-	0	.	:	VV	VVFIN	3	troch	troch.tetra	+-+-+-+-
+5	Früh	+	2	:	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+6	ling	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+7	er	+	1	.	.	VV	VVINF	1	troch	troch.tetra	+-+-+-+-
+8	ben	-	0	:	.	VV	VVINF	2	troch	troch.tetra	+-+-+-+-
+
+1	Kränzt'	+	2	.	.	VV	VVFIN	0	troch	troch.tetra	+-+-+-+
+2	ich	-	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+3	mir	+	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+
+4	das	-	0	.	.	AR	ART	0	troch	troch.tetra	+-+-+-+
+5	duft'	+	1	:	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+
+6	ge	-	0	.	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+
+7	Haar	+	2	.	:	NN	NN	0	troch	troch.tetra	+-+-+-+
+
+1	der	-	0	.	.	AR	ART	0	iambic	iambic.penta	-+-+-+-+-+
+2	sich	+	0	:	.	PR	PRF	0	iambic	iambic.penta	-+-+-+-+-+
+3	im	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+
+4	al	+	2	.	.	ADJ	ADJA	1	iambic	iambic.penta	-+-+-+-+-+
+5	ler	-	0	:	.	ADJ	ADJA	2	iambic	iambic.penta	-+-+-+-+-+
+6	klein	+	1	.	.	ADJ	ADJA	3	iambic	iambic.penta	-+-+-+-+-+
+7	sten	-	0	.	.	ADJ	ADJA	4	iambic	iambic.penta	-+-+-+-+-+
+8	Krei	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+
+9	se	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+
+
+1	Ins	-	0	.	.	AP	APPRART	0	iambic	iambic.penta	-+-+-+-+-+-
+2	Blau	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+3	meer	-	0	.	:	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+4	dar	+	1	.	.	PA	PAV	1	iambic	iambic.penta	-+-+-+-+-+-
+5	aus	-	0	:	.	PA	PAV	2	iambic	iambic.penta	-+-+-+-+-+-
+6	mei	+	0	.	.	PP	PPOSAT	1	iambic	iambic.penta	-+-+-+-+-+-
+7	ne	-	0	.	.	PP	PPOSAT	2	iambic	iambic.penta	-+-+-+-+-+-
+8	Blic	+	2	:	.	NN	NN	1	iambic	iambic.penta	-+-+-+-+-+-
+9	ke	-	0	.	.	NN	NN	2	iambic	iambic.penta	-+-+-+-+-+-
+10	win	+	1	.	.	VV	VVINF	1	iambic	iambic.penta	-+-+-+-+-+-
+11	ken	-	0	:	.	VV	VVINF	2	iambic	iambic.penta	-+-+-+-+-+-
+
+1	Was	-	0	.	.	PW	PWS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	ist	+	1	:	.	VA	VAFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	dies	-	0	.	.	PD	PDS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	Le	+	2	.	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	ben	-	0	:	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	doch	+	1	.	:	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	was	-	0	.	.	PW	PWS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	sind	+	0	:	.	VA	VAFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	wir	-	2	.	.	PP	PPER	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	ich	+	1	.	:	PP	PPER	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	und	-	0	:	.	KO	KON	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	ihr	+	2	.	.	PP	PPER	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Durch	+	0	.	.	AP	APPR	0	troch	troch.tetra	+-+-+-+-
+2	die	-	0	:	.	AR	ART	0	troch	troch.tetra	+-+-+-+-
+3	Bü	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+4	sche	-	0	.	.	NN	NN	2	troch	troch.tetra	+-+-+-+-
+5	win	+	1	:	.	ADJ	ADJA	1	troch	troch.tetra	+-+-+-+-
+6	den	-	0	.	.	ADJ	ADJA	2	troch	troch.tetra	+-+-+-+-
+7	Ster	+	2	.	.	NN	NN	1	troch	troch.tetra	+-+-+-+-
+8	ne	-	0	:	:	NN	NN	2	troch	troch.tetra	+-+-+-+-
+
+1	Und	-	0	.	.	KO	KON	0	iambic	iambic.tetra	-+-+-+-+
+2	fri	+	1	:	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+3	sche	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+4	Nah	+	2	.	.	NN	NN	1	iambic	iambic.tetra	-+-+-+-+
+5	rung	-	0	:	:	NN	NN	2	iambic	iambic.tetra	-+-+-+-+
+6	neu	+	1	.	.	ADJ	ADJA	1	iambic	iambic.tetra	-+-+-+-+
+7	es	-	0	.	.	ADJ	ADJA	2	iambic	iambic.tetra	-+-+-+-+
+8	Blut	+	2	:	.	NN	NN	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Schwe	+	2	.	.	NE	NE	1	troch	troch.tetra	+-+-+-+-
+2	res	-	0	:	.	NE	NE	2	troch	troch.tetra	+-+-+-+-
+3	hast	+	0	.	.	VA	VAFIN	0	troch	troch.tetra	+-+-+-+-
+4	du	-	0	.	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+5	mir	+	0	:	.	PP	PPER	0	troch	troch.tetra	+-+-+-+-
+6	be	-	0	.	.	VV	VVPP	1	troch	troch.tetra	+-+-+-+-
+7	schie	+	2	.	.	VV	VVPP	2	troch	troch.tetra	+-+-+-+-
+8	den	-	0	:	:	VV	VVPP	3	troch	troch.tetra	+-+-+-+-
+
+1	Die	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+2	lie	+	2	:	.	NN	NN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+3	bes-	-	0	.	.	NN	NN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+4	wel	+	1	.	.	NN	NN	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+5	len	-	0	:	.	NN	NN	4	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+6	sind	+	0	.	.	VA	VAFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+7	die	-	0	.	.	AR	ART	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+8	angst	+	2	:	:	NN	NN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+9	in	-	0	.	.	AP	APPR	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+10	der	+	0	.	.	PR	PRELS	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+11	wir	-	0	:	.	PP	PPER	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+12	schwe	+	2	.	.	VV	VVFIN	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+13	ben	-	0	.	.	VV	VVFIN	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+-
+
+1	Nun	-	0	.	.	ADV	ADV	0	iambic	iambic.di	-+-+
+2	stehst	+	1	:	.	VV	VVFIN	0	iambic	iambic.di	-+-+
+3	du	-	0	.	.	PP	PPER	0	iambic	iambic.di	-+-+
+4	bleich	+	2	.	:	ADJ	ADJD	0	iambic	iambic.di	-+-+
+
+1	Die	-	0	.	.	AR	ART	0	iambic	iambic.relaxed.syll	-+-+--+-+
+2	Bäu	+	1	:	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+3	me	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+4	tor	+	2	.	.	VV	VVFIN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+5	keln	-	0	:	.	VV	VVFIN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+6	am	-	0	.	.	AP	APPRART	0	iambic	iambic.relaxed.syll	-+-+--+-+
+7	Him	+	2	.	.	NN	NN	1	iambic	iambic.relaxed.syll	-+-+--+-+
+8	mels	-	0	.	.	NN	NN	2	iambic	iambic.relaxed.syll	-+-+--+-+
+9	rand	+	1	:	:	NN	NN	3	iambic	iambic.relaxed.syll	-+-+--+-+
+
+1	Da	-	0	.	.	ADV	ADV	0	iambic	iambic.tetra	-+-+-+-+
+2	soll	+	1	:	.	VM	VMFIN	0	iambic	iambic.tetra	-+-+-+-+
+3	man	-	0	.	.	PI	PIS	0	iambic	iambic.tetra	-+-+-+-+
+4	aus	+	0	.	.	ADV	ADV	1	iambic	iambic.tetra	-+-+-+-+
+5	ein	-	0	:	.	ADV	ADV	2	iambic	iambic.tetra	-+-+-+-+
+6	an	+	2	.	.	ADV	ADV	3	iambic	iambic.tetra	-+-+-+-+
+7	der	-	0	.	.	ADV	ADV	4	iambic	iambic.tetra	-+-+-+-+
+8	gehn	+	1	:	:	VV	VVINF	0	iambic	iambic.tetra	-+-+-+-+
+
+1	Wo	-	0	.	.	NE	NE	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+2	an	+	2	:	.	NE	NE	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+3	ders	-	0	.	:	NE	NE	3	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+4	weit	+	2	.	.	ADJ	ADJD	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+5	von	-	0	:	.	AP	APPR	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+6	hier	+	0	.	.	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+7	zu	-	0	.	:	PT	PTKA	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+8	spät	+	2	:	.	ADJ	ADJD	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+9	soll’s	-	0	.	.	VM	VMFIN	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+10	nie	+	1	.	:	ADV	ADV	0	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+11	ge	-	0	:	.	VV	VVPP	1	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+12	schehn	+	2	.	.	VV	VVPP	2	alexandrine	alexandrine.iambic.hexa	-+-+-+-+-+-+
+
+1	Wen	+	2	:	.	VV	VVFIN	1	iambic	iambic.tetra.invert	+--+-+-+
+2	det	-	0	.	.	VV	VVFIN	2	iambic	iambic.tetra.invert	+--+-+-+
+3	sich	-	0	.	.	PR	PRF	0	iambic	iambic.tetra.invert	+--+-+-+
+4	Fräu	+	1	.	.	NN	NN	1	iambic	iambic.tetra.invert	+--+-+-+
+5	lein	-	0	:	.	NN	NN	2	iambic	iambic.tetra.invert	+--+-+-+
+6	Ku	+	2	.	.	NN	NN	1	iambic	iambic.tetra.invert	+--+-+-+
+7	ni	-	0	.	.	NN	NN	2	iambic	iambic.tetra.invert	+--+-+-+
+8	gund	+	1	:	:	NN	NN	3	iambic	iambic.tetra.invert	+--+-+-+
+

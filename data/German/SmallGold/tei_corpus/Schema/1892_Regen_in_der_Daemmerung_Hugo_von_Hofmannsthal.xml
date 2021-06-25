@@ -1,0 +1,87 @@
+<?xml-model href="Schema/basisformat_lyrik.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Regen in der Dämmerung</title>
+        <author>
+          <persName>
+            <surname>Hofmannsthal</surname>
+            <forename>Hugo von</forename>
+          </persName>
+        </author>
+        <editor>
+          <persName>
+            <surname>Haider</surname>
+            <forename>Thomas Nikolaus</forename>
+          </persName>
+          <orgName>Max Planck Institute for Empirical Aesthetics, Frankfurt am Main</orgName>
+          <email>thomas.haider@ae.mpg.de</email>
+        </editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <name>Deutscher Lyrik Korpus Edition (DLK)</name>
+          <date>1-11-2017</date>
+        </edition>
+      </editionStmt>
+      <extent>
+        <measure type="stanzas">4</measure>
+        <measure type="verses">16</measure>
+        <measure type="verses_per_stanza">1-4, 2-4, 3-4, 4-4</measure>
+        <measure type="tokens">79</measure>
+        <measure type="sentences">4</measure>
+        <measure type="characters">414</measure>
+      </extent>
+      <publicationStmt>
+        <publisher>
+          <name/>
+        </publisher>
+        <pubPlace/>
+        <date type="publication">1892</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p corresp="http://lyrik.antikoerperchen.de/hugo-von-hofmannsthal-regen-in-der-daemmerung,textbearbeitung,210.html">Regen in der Dämmerung - Hugo von Hofmannsthal (Interpretation #210)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="literary_period">Symbolismus</classCode>
+        <classCode scheme="text_genre">Gedicht</classCode>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1">
+        <lg type="poem">
+          <head>Regen in der Dämmerung</head>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|--+|--+|-" rhythm="010020020|" enj_k="3" enj="3">Der wandernde Wind auf den Wegen</l>
+            <l met="-+|-+|-+|-+|" rhythm="02000102|" enj_k="4" enj="5">War angefüllt mit süßem Laut,</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="3" enj="3">Der dämmernde rieselnde Regen</l>
+            <l met="-+|-+|-+|-+|" rhythm="00020102|" enj_k="5" enj="5">War mit Verlangen feucht betaut.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="3" enj="3">Das rinnende rauschende Wasser</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="2_NP" enj="5">Berauschte verwirrend die Stimmen</l>
+            <l met="-+|--+|--+|-" rhythm="020|010020|" enj_k="3" enj="3">Der Träume, die blasser und blasser</l>
+            <l met="-+|--+|--+|-" rhythm="010020020|" enj_k="5" enj="5">Im schwebenden Nebel verschwimmen.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="3" enj="3">Der Wind in den wehenden Weiden,</l>
+            <l met="-+|--+|--+|" rhythm="02001002|" enj_k="3" enj="3">Am Wasser der wandernde Wind</l>
+            <l met="-+|--+|--+|-" rhythm="020010020|" enj_k="cc_5" enj="5">Berauschte die sehnenden Leiden,</l>
+            <l met="-+|-+|--+|" rhythm="0002001|" enj_k="5" enj="5">Die in der Dämmerung sind.</l>
+          </lg>
+          <lg rhyme="abab" type="stanza">
+            <l met="-+|-+|--+|-" rhythm="02010020|" enj_k="3" enj="3">Der Weg im dämmernden Wehen,</l>
+            <l met="-+|--+|-+|" rhythm="0200102|" enj_k="4" enj="5">Er führte zu keinem Ziel,</l>
+            <l met="-+|-+|-+|-" rhythm="0101020|" enj_k="3" enj="5">Doch war er gut zu gehen</l>
+            <l met="-+|--+|-+|" rhythm="020|0102|" enj_k="5" enj="5">Im Regen, der rieselnd fiel.</l>
+          </lg>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
