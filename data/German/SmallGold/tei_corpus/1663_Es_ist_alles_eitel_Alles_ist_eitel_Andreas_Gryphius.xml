@@ -48,6 +48,11 @@
       <textClass>
         <classCode scheme="literary_period">Barock</classCode>
         <classCode scheme="text_genre">Sonett</classCode>
+        <classCode scheme="topic:1">Vergänglichkeit/Sterblichkeit</classCode>
+        <classCode scheme="topic:2">None</classCode>
+        <classCode scheme="topic:3">None</classCode>
+        <classCode scheme="topic:4">None</classCode>
+        <classCode scheme="topic:5">None</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
