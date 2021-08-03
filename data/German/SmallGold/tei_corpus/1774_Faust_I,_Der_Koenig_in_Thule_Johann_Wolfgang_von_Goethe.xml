@@ -48,6 +48,11 @@
       <textClass>
         <classCode scheme="literary_period">Sturm und DrangGeniezeit</classCode>
         <classCode scheme="text_genre">Ballade</classCode>
+        <classCode scheme="topic:1">Liebe/Beziehung</classCode>
+        <classCode scheme="topic:2">Tod</classCode>
+        <classCode scheme="topic:3">None</classCode>
+        <classCode scheme="topic:4">None</classCode>
+        <classCode scheme="topic:5">None</classCode>
       </textClass>
     </profileDesc>
   </teiHeader>
