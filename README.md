@@ -2,6 +2,14 @@
 
 Welcome to the repository of our EACL paper on `Metrical Tagging in the Wild'.
 
+The data for this project went into these repositories:
+
+# A German Poetry corpus
+https://github.com/tnhaider/DLK
+
+# Metrical Tagging (Fully annotated German corpus with meter, measure, emotion, etc. in tsv folder)
+https://github.com/tnhaider/poetry-emotion
+
 ```
 @inproceedings{haider-2021-metrical,
     title = "Metrical Tagging in the Wild: Building and Annotating Poetry Corpora with Rhythmic Features",
